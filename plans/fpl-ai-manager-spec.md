@@ -5,6 +5,8 @@
 **Version:** 1.0
 **Season:** 2026/27 (38 gameweeks)
 **Team name:** `Cunha Matata` (12 chars, within FPL's 20-char limit)
+**FPL entry id:** `7424382` (created 2026-08-21, GW1)
+**Login:** account.premierleague.com (Ping OAuth); `users.premierleague.com` is dead
 
 ## Executive Summary
 
