@@ -91,10 +91,12 @@ def start_probability(p):
     return min(1.0, max(0.3, p["starts"] / 38))
 
 
-def score_players(elements, fdr, gameweeks, eo, gw1_weight=0.55):
+def score_players(elements, fdr, gameweeks, eo, gw1_weight=0.55, exclude=()):
     players = []
     for p in elements:
         if p["status"] in ("u", "n"):  # unavailable / not in squad
+            continue
+        if p["web_name"] in exclude or str(p["id"]) in exclude:
             continue
         base = base_points_per_game(p) * start_probability(p) * availability(p)
         if base <= 0:
@@ -141,10 +143,17 @@ def solve(players, bench_weight, must_have=(), eo_weight=0.0):
     )
 
     for name in must_have:
-        matches = [p["id"] for p in players if p["name"] == name]
+        matches = [p for p in players
+                   if p["name"] == name or str(p["id"]) == str(name)]
         if not matches:
             raise SystemExit(f"no available player named {name!r}")
-        prob += pulp.lpSum(pick[i] for i in matches) == 1
+        if len(matches) > 1:
+            # 15 surnames are shared in the game; left ambiguous, the solver is free
+            # to satisfy "Wilson" with a £4.5m reserve keeper. Make the caller choose.
+            opts = ", ".join(f"{p['name']} ({POS[p['pos']]}, £{p['cost']/10}m, id={p['id']})"
+                             for p in matches)
+            raise SystemExit(f"{name!r} is ambiguous: {opts} — use the id instead")
+        prob += pick[matches[0]["id"]] == 1
 
     prob += pulp.lpSum(by_id[i]["cost"] * pick[i] for i in pick) <= BUDGET
     prob += pulp.lpSum(pick.values()) == 15
@@ -187,6 +196,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--horizon", type=int, default=5, help="gameweeks of fixtures to weigh")
     ap.add_argument("--bench-weight", type=float, default=0.15)
+    ap.add_argument("--exclude", nargs="*", default=[],
+                    help="web_names or ids to ban from the squad")
     ap.add_argument("--must-have", nargs="*", default=[],
                     help="web_names to force into the squad, e.g. Haaland")
     ap.add_argument("--eo-weight", type=float, default=0.35,
@@ -201,7 +212,7 @@ def main():
     gameweeks = list(range(gw1, gw1 + args.horizon))
 
     players = score_players(boot["elements"], difficulty_by_team(gameweeks), gameweeks,
-                            effective_ownership(gw1), args.gw1_weight)
+                            effective_ownership(gw1), args.gw1_weight, args.exclude)
     squad, xi, captain = solve(players, args.bench_weight, args.must_have, args.eo_weight)
     check(squad, xi, team_name)
 
