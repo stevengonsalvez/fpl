@@ -24,6 +24,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -33,19 +34,36 @@ jobs:
 
       - run: pip install pulp
 
+      - name: Self-checks
+        run: python3 test_fpl.py
+
       - name: Check squad and notify
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python3 notify.py --state team_state.json ${{ inputs.force && '--force' || '' }}
+          # Passed through env rather than interpolated into the run script:
+          # interpolation is injection-proof only while the input stays boolean.
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" = "true" ]; then
+            python3 notify.py --state team_state.json --force
+          else
+            python3 notify.py --state team_state.json
+          fi
 
       - name: Persist what we have already seen
         run: |
-          if [ -n "$(git status --porcelain .fpl-state.json)" ]; then
-            git config user.name  "fpl-bot"
-            git config user.email "fpl-bot@users.noreply.github.com"
-            git add .fpl-state.json
-            git commit -m "chore: record squad availability state"
-            git push
-          else
-            echo "no state change"
+          if [ -z "$(git status --porcelain .fpl-state.json)" ]; then
+            echo "no state change"; exit 0
           fi
+          git config user.name  "fpl-bot"
+          git config user.email "fpl-bot@users.noreply.github.com"
+          git add .fpl-state.json
+          git commit -m "chore: record squad availability state"
+          # Any push to this branch between checkout and now makes the push
+          # non-fast-forward. Failing here would drop the state, and the next
+          # run would re-announce everything it already announced.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "$GITHUB_REF_NAME" && git push && exit 0
+            echo "push attempt $i failed, retrying"; sleep 5
+          done
+          echo "could not persist state after 3 attempts"; exit 1

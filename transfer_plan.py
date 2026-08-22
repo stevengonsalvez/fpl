@@ -12,8 +12,9 @@ Usage:  python3 transfer_plan.py --state team_state.json [--horizon 5] [--top 12
 import argparse
 import json
 
-from gw1_squad import (CLUB_LIMIT, POS, difficulty_by_team, effective_ownership,
-                       get, load_baseline, score_players)
+from fpl_api import POS, current_and_next_event, get
+from gw1_squad import (CLUB_LIMIT, difficulty_by_team, effective_ownership,
+                       load_baseline, score_players)
 
 HIT_COST = 4
 # A -4 is only worth taking if the gain clearly beats it over the horizon.
@@ -45,9 +46,11 @@ def main():
 
     boot = get("bootstrap-static/")
     team_name = {t["id"]: t["short_name"] for t in boot["teams"]}
-    gw = next(e["id"] for e in boot["events"] if e["is_current"] or e["is_next"])
-    # Transfers land in the NEXT gameweek, so plan from there.
-    nxt = gw + 1 if any(e["id"] == gw and e["is_current"] for e in boot["events"]) else gw
+    cur, upcoming = current_and_next_event(boot)
+    if cur is None and upcoming is None:
+        raise SystemExit("no current or next gameweek; nothing to plan")
+    gw = (cur or upcoming)["id"]          # the squad we can actually read
+    nxt = (upcoming or cur)["id"]         # transfers land here
     gameweeks = list(range(nxt, nxt + args.horizon))
 
     picks = get(f"entry/{entry}/event/{gw}/picks/")["picks"]
@@ -65,6 +68,15 @@ def main():
     for i in owned:
         clubs[by_id[i]["team"]] = clubs.get(by_id[i]["team"], 0) + 1
 
+    missing = [i for i in owned if i not in selling]
+    if missing:
+        names = ", ".join(f"{by_id[i]['web_name']} ({i})" for i in missing)
+        raise SystemExit(
+            f"no selling price for {names}.\n"
+            f"Selling price is purchase + half the profit, so it is below the market "
+            f"price for anyone who has risen; guessing it proposes transfers FPL "
+            f"rejects. Re-export {args.state} from the authenticated my-team endpoint.")
+
     def value(pid):
         p = scored.get(pid)
         if not p:
@@ -76,7 +88,7 @@ def main():
         o = by_id[out]
         if args.only_out and o["web_name"] not in args.only_out:
             continue
-        budget = bank + selling.get(out, o["now_cost"])
+        budget = bank + selling[out]
         for cand in boot["elements"]:
             if cand["id"] in owned or cand["element_type"] != o["element_type"]:
                 continue
@@ -112,12 +124,20 @@ def main():
             break
 
     if moves:
-        best = moves[0][0]
-        second = next((g for g, o, i, _ in moves[1:] if o != moves[0][1]), 0)
-        print(f"\nbest single transfer: {best:+.2f} over {args.horizon} GWs")
-        print(f"second transfer would add {second:+.2f} for a -{HIT_COST} hit — "
-              f"{'WORTH IT' if second >= HIT_THRESHOLD else 'not worth it'} "
-              f"(threshold {HIT_THRESHOLD})")
+        gain, out, inn, left = moves[0]
+        print(f"\nbest single transfer: {gain:+.2f} over {args.horizon} GWs")
+        # A second transfer must be jointly feasible with the first: a different
+        # player in, and payable from what the first move actually leaves behind.
+        pair = next(((g, o, i) for g, o, i, _ in moves[1:]
+                     if o != out and i != inn
+                     and by_id[i]["now_cost"] <= left + selling[o]), None)
+        if pair is None:
+            print("no legal second transfer within budget")
+        else:
+            print(f"second transfer {by_id[pair[1]]['web_name']} → "
+                  f"{by_id[pair[2]]['web_name']} adds {pair[0]:+.2f} for a -{HIT_COST} hit — "
+                  f"{'WORTH IT' if pair[0] >= HIT_THRESHOLD else 'not worth it'} "
+                  f"(threshold {HIT_THRESHOLD})")
 
 
 if __name__ == "__main__":

@@ -11,14 +11,12 @@ import argparse
 import json
 import os
 import statistics
-import urllib.request
-
 import pulp
 
-API = "https://fantasy.premierleague.com/api"
+from fpl_api import POS, current_and_next_event, fetch, get
+
 # livefpl publishes predicted effective ownership per gameweek as open JSON.
 LIVEFPL_EO = "https://livefpl.us/predictedEOs/{gw}.json"
-POS = {1: "GK", 2: "DEF", 3: "MID", 4: "FWD"}
 SQUAD = {1: 2, 2: 5, 3: 5, 4: 3}          # 15-man squad by position
 XI_MIN = {1: 1, 2: 3, 3: 2, 4: 1}         # valid formation bounds
 XI_MAX = {1: 1, 2: 5, 3: 5, 4: 3}
@@ -35,16 +33,6 @@ BASELINE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                         "data", "baseline-2025-26.json")
 
 
-def get(path):
-    return _fetch(f"{API}/{path}")
-
-
-def _fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
-
-
 def effective_ownership(gw):
     """{player_id: EO} — ownership plus captaincy, so it can exceed 1.0.
 
@@ -52,21 +40,24 @@ def effective_ownership(gw):
     the field. That risk is what the eo_weight term prices in.
     """
     try:
-        return {int(k): v for k, v in _fetch(LIVEFPL_EO.format(gw=gw)).items()}
+        return {int(k): v for k, v in fetch(LIVEFPL_EO.format(gw=gw)).items()}
     except Exception as e:
         print(f"warning: no EO data ({e}); solving on raw expected points")
         return {}
 
 
 def difficulty_by_team(gameweeks):
-    """{team_id: [difficulty per gameweek]}. Missing GW (blank) -> 5, i.e. no points."""
+    """{team_id: {gw: [difficulty per fixture]}}.
+
+    A list, not a scalar: in a double gameweek a team plays twice and keying by
+    gameweek alone silently discards one of them, valuing a DGW asset at half
+    its worth. A blank gameweek is naturally the empty list.
+    """
     out = {}
     for gw in gameweeks:
-        seen = set()
         for f in get(f"fixtures/?event={gw}"):
-            out.setdefault(f["team_h"], {})[gw] = f["team_h_difficulty"]
-            out.setdefault(f["team_a"], {})[gw] = f["team_a_difficulty"]
-            seen |= {f["team_h"], f["team_a"]}
+            out.setdefault(f["team_h"], {}).setdefault(gw, []).append(f["team_h_difficulty"])
+            out.setdefault(f["team_a"], {}).setdefault(gw, []).append(f["team_a_difficulty"])
     return out
 
 
@@ -80,15 +71,20 @@ def load_baseline():
         return {}
 
 
-def base_points_per_game(p):
-    """Expected points for a full appearance, from last season plus FPL's own estimate."""
-    minutes = p["minutes"]
+def base_points_per_game(hist, live):
+    """Expected points for a full appearance.
+
+    Scoring rate comes from the archived season (`hist`); `ep_next` is FPL's
+    forward projection and must come from the LIVE element (`live`), or every
+    thin-history player stays frozen at his pre-season estimate all year.
+    """
+    minutes = hist["minutes"]
     if minutes < MIN_MINUTES:
         # New signing / fringe: FPL's own estimate is all we have.
-        return float(p["ep_next"] or 0)
+        return float(live["ep_next"] or 0)
     # Preseason, ep_next is a near-flat prior (4.0 for Haaland AND for a midtable
     # midfielder), so blending it in just flattens the premiums. Real minutes beat it.
-    return p["total_points"] / (minutes / 90)
+    return hist["total_points"] / (minutes / 90)
 
 
 def availability(p):
@@ -118,16 +114,18 @@ def score_players(elements, fdr, gameweeks, eo, gw1_weight=0.55, exclude=(),
             continue
         # Rates from the baseline, availability and price from the live feed.
         hist = (baseline or {}).get(p["id"], p)
-        base = base_points_per_game(hist) * start_probability(hist) * availability(p)
+        base = base_points_per_game(hist, p) * start_probability(hist)
         if base <= 0:
             continue
         per_gw = []
-        for gw in gameweeks:
-            diff = fdr.get(p["team"], {}).get(gw)
-            if diff is None:
-                per_gw.append(0.0)  # blank gameweek
-                continue
-            per_gw.append(base * (1 + (3 - diff) * DIFFICULTY_STEP))
+        for i, gw in enumerate(gameweeks):
+            # Sum over fixtures: two in a double, none in a blank.
+            played = fdr.get(p["team"], {}).get(gw, [])
+            pts = sum(base * (1 + (3 - d) * DIFFICULTY_STEP) for d in played)
+            # chance_of_playing is a NEXT-ROUND flag. Applying it across the whole
+            # horizon writes a one-week knock off for five weeks, which makes the
+            # transfer planner recommend selling a player who is back in GW+1.
+            per_gw.append(pts * availability(p) if i == 0 else pts)
         players.append(
             {
                 "id": p["id"],
@@ -156,8 +154,11 @@ def solve(players, bench_weight, must_have=(), eo_weight=0.0):
     by_id = {p["id"]: p for p in players}
     prob += pulp.lpSum(
         by_id[i]["score"] * (start[i] + bench_weight * (pick[i] - start[i]))
-        # Owning a heavily-captained asset is risk reduction, not just points.
-        + eo_weight * by_id[i]["eo"] * by_id[i]["ep_gw1"] * pick[i]
+        # Owning a heavily-captained asset is risk reduction, not just points —
+        # but only if he STARTS. Credited on pick[i], the solver would happily
+        # buy an expensive high-EO backup keeper who can never play.
+        + eo_weight * by_id[i]["eo"] * by_id[i]["ep_gw1"]
+        * (start[i] + bench_weight * (pick[i] - start[i]))
         + by_id[i]["ep_gw1"] * cap[i]
         for i in pick
     )
@@ -214,7 +215,8 @@ def check(squad, xi, teams):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--horizon", type=int, default=5, help="gameweeks of fixtures to weigh")
+    ap.add_argument("--horizon", type=lambda v: max(1, int(v)), default=5,
+                    help="gameweeks of fixtures to weigh")
     ap.add_argument("--bench-weight", type=float, default=0.15)
     ap.add_argument("--exclude", nargs="*", default=[],
                     help="web_names or ids to ban from the squad")
@@ -230,7 +232,10 @@ def main():
 
     boot = get("bootstrap-static/")
     team_name = {t["id"]: t["short_name"] for t in boot["teams"]}
-    gw1 = next(e["id"] for e in boot["events"] if e["is_next"])
+    cur, nxt = current_and_next_event(boot)
+    if nxt is None and cur is None:
+        raise SystemExit("no current or next gameweek; nothing to solve")
+    gw1 = (nxt or cur)["id"]
     gameweeks = list(range(gw1, gw1 + args.horizon))
 
     fdr = difficulty_by_team(gameweeks)
@@ -241,7 +246,8 @@ def main():
     # A club ban must not remove a player the caller explicitly demanded.
     have = {p["name"] for p in players}
     rescued = [e for e in boot["elements"]
-               if e["web_name"] in args.must_have and e["web_name"] not in have]
+               if (e["web_name"] in args.must_have or str(e["id"]) in args.must_have)
+               and e["web_name"] not in have]
     players += score_players(rescued, fdr, gameweeks, eo, args.gw1_weight,
                              baseline=baseline)
     squad, xi, captain = solve(players, args.bench_weight, args.must_have, args.eo_weight)

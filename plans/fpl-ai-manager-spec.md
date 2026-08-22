@@ -190,7 +190,10 @@ horizon, penalised by variance relative to effective ownership:
 ```
 maximise  Σ_gw Σ_p ( EP[p,gw] × start[p,gw] + EP[p,gw] × captain[p,gw] )
         − λ_hit × 4 × extra_transfers
-        − λ_eo  × Σ_p ( EO[p] × (1 − own[p]) × EP[p] )     # template risk
+        − λ_eo  × Σ_p ( EO[p] × (1 − start[p]) × EP[p] )  # template risk
+                                                          # gate on START, not
+                                                          # ownership: a benched
+                                                          # player hedges nothing
 ```
 
 - `λ_eo` is tuned so the agent will captain a 70%-owned premium at slightly lower raw
