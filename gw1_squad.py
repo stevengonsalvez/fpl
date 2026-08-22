@@ -9,6 +9,7 @@ Usage:  python3 gw1_squad.py [--horizon 5] [--bench-weight 0.15]
 
 import argparse
 import json
+import os
 import statistics
 import urllib.request
 
@@ -28,6 +29,10 @@ CLUB_LIMIT = 3
 DIFFICULTY_STEP = 0.12
 # Below this many minutes last season we don't trust points-per-90.
 MIN_MINUTES = 450
+# The live bootstrap resets to current-season totals at GW1 kickoff, so scoring
+# rates come from an archived pre-season snapshot instead. See data/README.
+BASELINE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "data", "baseline-2025-26.json")
 
 
 def get(path):
@@ -65,6 +70,16 @@ def difficulty_by_team(gameweeks):
     return out
 
 
+def load_baseline():
+    """{player_id: last full season's scoring stats}. Empty if the archive is absent."""
+    try:
+        with open(BASELINE) as f:
+            return {e["id"]: e for e in json.load(f)["elements"]}
+    except FileNotFoundError:
+        print(f"warning: no baseline at {BASELINE}; scoring on live season only")
+        return {}
+
+
 def base_points_per_game(p):
     """Expected points for a full appearance, from last season plus FPL's own estimate."""
     minutes = p["minutes"]
@@ -91,14 +106,19 @@ def start_probability(p):
     return min(1.0, max(0.3, p["starts"] / 38))
 
 
-def score_players(elements, fdr, gameweeks, eo, gw1_weight=0.55, exclude=()):
+def score_players(elements, fdr, gameweeks, eo, gw1_weight=0.55, exclude=(),
+                  exclude_clubs=(), team_name=None, baseline=None):
     players = []
     for p in elements:
         if p["status"] in ("u", "n"):  # unavailable / not in squad
             continue
         if p["web_name"] in exclude or str(p["id"]) in exclude:
             continue
-        base = base_points_per_game(p) * start_probability(p) * availability(p)
+        if team_name and team_name.get(p["team"]) in exclude_clubs:
+            continue
+        # Rates from the baseline, availability and price from the live feed.
+        hist = (baseline or {}).get(p["id"], p)
+        base = base_points_per_game(hist) * start_probability(hist) * availability(p)
         if base <= 0:
             continue
         per_gw = []
@@ -198,6 +218,8 @@ def main():
     ap.add_argument("--bench-weight", type=float, default=0.15)
     ap.add_argument("--exclude", nargs="*", default=[],
                     help="web_names or ids to ban from the squad")
+    ap.add_argument("--exclude-club", nargs="*", default=[],
+                    help="club short names to ban, e.g. MCI (keep some with --must-have)")
     ap.add_argument("--must-have", nargs="*", default=[],
                     help="web_names to force into the squad, e.g. Haaland")
     ap.add_argument("--eo-weight", type=float, default=0.35,
@@ -211,8 +233,17 @@ def main():
     gw1 = next(e["id"] for e in boot["events"] if e["is_next"])
     gameweeks = list(range(gw1, gw1 + args.horizon))
 
-    players = score_players(boot["elements"], difficulty_by_team(gameweeks), gameweeks,
-                            effective_ownership(gw1), args.gw1_weight, args.exclude)
+    fdr = difficulty_by_team(gameweeks)
+    eo = effective_ownership(gw1)
+    baseline = load_baseline()
+    players = score_players(boot["elements"], fdr, gameweeks, eo, args.gw1_weight,
+                            args.exclude, args.exclude_club, team_name, baseline)
+    # A club ban must not remove a player the caller explicitly demanded.
+    have = {p["name"] for p in players}
+    rescued = [e for e in boot["elements"]
+               if e["web_name"] in args.must_have and e["web_name"] not in have]
+    players += score_players(rescued, fdr, gameweeks, eo, args.gw1_weight,
+                             baseline=baseline)
     squad, xi, captain = solve(players, args.bench_weight, args.must_have, args.eo_weight)
     check(squad, xi, team_name)
 
