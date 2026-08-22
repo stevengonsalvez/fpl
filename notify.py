@@ -32,7 +32,9 @@ def post(text):
     for chunk in [text[i:i + 1900] for i in range(0, len(text), 1900)]:
         req = urllib.request.Request(
             url, data=json.dumps({"content": chunk}).encode(),
-            headers={"Content-Type": "application/json"})
+            # Discord's edge rejects the default Python-urllib agent with a 403.
+            headers={"Content-Type": "application/json",
+                     "User-Agent": "cunha-matata-fpl/1.0 (+github.com/stevengonsalvez/fpl)"})
         urllib.request.urlopen(req, timeout=20).read()
 
 
@@ -109,6 +111,23 @@ def main():
                 f"**GW{cur['id']} final** — {e['summary_event_points']} pts "
                 f"(average {cur['average_entry_score']}, best {cur['highest_score']})\n"
                 f"overall rank {e['summary_overall_rank']:,} on {e['summary_overall_points']} pts")
+
+    # 4. a manual run should always say something useful, so build a status block
+    if args.force and not lines:
+        e = get(f"entry/{entry}/")
+        flagged = [f"{by_id[p['element']]['web_name']} "
+                   f"({by_id[p['element']]['status']}/"
+                   f"{by_id[p['element']]['chance_of_playing_next_round']})"
+                   for p in picks
+                   if by_id[p["element"]]["status"] != "a"
+                   or by_id[p["element"]]["chance_of_playing_next_round"] not in (None, 100)]
+        cap = next((by_id[p["element"]]["web_name"] for p in picks if p["is_captain"]), "?")
+        lines.append(
+            f"**Status** — GW{cur['id']}: {e['summary_event_points']} pts, "
+            f"overall {e['summary_overall_points']} pts (rank {e['summary_overall_rank']:,})\n"
+            f"captain: {cap}\n"
+            f"GW{nxt['id']} deadline: {nxt['deadline_time']} ({hours:.0f}h)\n"
+            f"flagged: {', '.join(flagged) if flagged else 'none'}")
 
     mem["flags"] = flags
     with open(MEMORY, "w") as f:
