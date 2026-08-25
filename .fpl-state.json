@@ -1,5 +1,7 @@
 {
- "announced": [],
+ "announced": [
+  "gw1-done"
+ ],
  "flags": {
   "165": "a|None|",
   "302": "a|None|",
