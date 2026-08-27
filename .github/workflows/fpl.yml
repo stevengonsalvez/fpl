@@ -2,9 +2,12 @@ name: FPL watch
 
 on:
   schedule:
-    # Every two hours. Deadlines move week to week, so the cron is dumb and
-    # notify.py decides whether there is anything worth saying.
-    - cron: '0 */2 * * *'
+    # Every 30 minutes. GitHub drops and delays scheduled runs under load —
+    # observed gaps of up to 8h on this repo — and the 3h pre-deadline window
+    # is only 3h wide, so a two-hourly cron can miss it entirely. Runs are
+    # cheap (public repo, unlimited minutes) and notify.py stays silent unless
+    # there is something to say, so over-scheduling costs nothing.
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       force:

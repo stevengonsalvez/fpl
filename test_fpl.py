@@ -13,22 +13,21 @@ from gw1_squad import CLUB_LIMIT, SQUAD, XI_MAX, XI_MIN, check
 
 
 def test_deadline_alert_picks_tightest_window():
-    """A run inside the 3h window must file itself as t3, not t24.
+    """A run close to the deadline must file itself under the TIGHTEST window.
 
-    Descending order with a `break` meant that if the 24h run was ever missed,
-    the T-1.5h run consumed the 24h key and the 3h alert never existed.
+    Descending order with a `break` meant that if the earliest alert was ever
+    missed, a run at T-1.5h consumed the 24h key and the urgent alert never
+    existed. Asserted as a property so changing the marks cannot resurrect it.
     """
-    hours = 1.5
-    announced = []           # the 24h alert never fired
-    fired = [m for m in sorted(notify.DEADLINE_ALERTS)
-             if 0 < hours <= m and f"gw2-t{m}" not in announced]
-    assert fired[0] == 3, f"expected the 3h alert to win, got {fired}"
-
-    # and in the normal case, both alerts still fire in turn
-    announced = ["gw2-t24"]
-    fired = [m for m in sorted(notify.DEADLINE_ALERTS)
-             if 0 < hours <= m and f"gw2-t{m}" not in announced]
-    assert fired[0] == 3
+    marks = sorted(notify.DEADLINE_ALERTS)
+    for hours in (0.5, 1.5, 2.5, 5.0, 20.0):
+        tightest = min(m for m in marks if hours <= m)
+        for announced in ([],                                   # nothing fired yet
+                          [f"gw2-t{m}" for m in marks if m > tightest]):
+            fired = [m for m in marks
+                     if 0 < hours <= m and f"gw2-t{m}" not in announced]
+            assert fired[0] == tightest, (
+                f"at T-{hours}h expected t{tightest}, got {fired}")
 
 
 def test_memory_survives_a_corrupt_file():

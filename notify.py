@@ -23,10 +23,11 @@ from fpl_api import POS, UA, current_and_next_event, get
 
 MEMORY = ".fpl-state.json"
 # Hours before a deadline at which we speak up. Kept ascending and checked
-# tightest-first: a run that lands inside the 3h window must file itself as the
-# 3h alert even when the 24h run never happened, or the nudge that matters most
-# is silently consumed by the one that does not.
-DEADLINE_ALERTS = (3, 24)
+# tightest-first: a run that lands inside the tightest window must file itself
+# there even when the earlier alert never fired, or the nudge that matters most
+# is silently consumed by the one that does not. Three marks rather than two so
+# a dropped run loses one reminder instead of all of them.
+DEADLINE_ALERTS = (2, 6, 24)
 
 
 def post(text):
