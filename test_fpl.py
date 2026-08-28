@@ -6,10 +6,12 @@ Plain asserts, no framework, no network. Run: python3 test_fpl.py
 
 import json
 import os
+import pathlib
 import tempfile
 
 import notify
 from gw1_squad import CLUB_LIMIT, SQUAD, XI_MAX, XI_MIN, check
+from points_model import load_samples, passed
 
 
 def test_deadline_alert_picks_tightest_window():
@@ -83,6 +85,32 @@ def test_check_rejects_an_illegal_squad():
         except AssertionError:
             continue
         raise AssertionError(f"check() accepted a squad with {why}")
+
+
+def test_points_features_do_not_leak_a_double_gameweek():
+    """Both DGW fixtures must see only information known before that gameweek."""
+    d = tempfile.mkdtemp()
+    path = os.path.join(d, "2025-26.csv")
+    headers = ("name,position,GW,kickoff_time,fixture,minutes,starts,total_points,"
+               "expected_goals,expected_assists,expected_goals_conceded,was_home\n")
+    rows = [
+        "A,DEF,1,2025-08-01,1,90,1,6,0,0,1,True\n",
+        "A,DEF,2,2025-08-08,2,90,1,2,0,0,2,False\n",
+        "A,DEF,3,2025-08-15,3,90,1,8,0,0,1,True\n",
+        "A,DEF,4,2025-08-22,4,90,1,1,0,0,3,False\n",
+        "A,DEF,4,2025-08-25,5,90,1,10,0,0,0,True\n",
+    ]
+    with open(path, "w") as f:
+        f.write(headers + "".join(rows))
+    samples = load_samples([pathlib.Path(path)])
+    dgw = [s for s in samples if s["gw"] == 4]
+    assert len(dgw) == 2
+    assert dgw[0]["points_4"] == dgw[1]["points_4"] == 16 / 3
+
+
+def test_model_gate_requires_an_actual_baseline_win():
+    assert passed(2.1, 2.1)
+    assert not passed(2.2, 2.1)
 
 
 if __name__ == "__main__":

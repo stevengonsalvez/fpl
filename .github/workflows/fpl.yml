@@ -35,7 +35,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - run: pip install pulp
+      - run: pip install -r requirements.txt
 
       - name: Self-checks
         run: python3 test_fpl.py
