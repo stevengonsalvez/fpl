@@ -125,6 +125,9 @@ engineering.
 | `features/` | Feature engineering, leak-free per-GW joins | `pandas` / `polars` |
 | `models/minutes.py` | P(appears), P(60+ mins) classifier | LightGBM / sklearn |
 | `models/points.py` | Expected points per position, 1..8 GW ahead | LightGBM + ridge baseline |
+| `model_data.py` | Download ignored public historical gameweek cache | stdlib CSV + HTTP |
+| `points_model.py` | Per-position points model plus rolling minutes baseline | sklearn histogram gradient boosting |
+| `backtest_model.py` | Leak-free walk-forward pre-use gate | public FPL history |
 | `optimiser/squad.py` | MILP: squad selection, transfers, captain, bench order, chips | PuLP or OR-Tools CBC |
 | `submit/session.py` | Login → cookie cache → authenticated FPL calls | Playwright + `httpx` |
 | `submit/actions.py` | Transfers, lineup, captain/vice, chip activation | FPL private endpoints |
@@ -346,7 +349,8 @@ GW ends          T−72h            T−3h          T−2h       deadline
 ### Technical Debt Accepted
 - GW1 script is throwaway — deliberately not the real architecture
 - Name-matching FPL players to FBref/Understat is fuzzy; a manual override map is fine
-- First model ships without a full backtest; auto-submit stays off until backtested
+- First model has walk-forward validation but no untouched 2026/27 holdout; auto-submit stays off.
+- The first backtest uses public FPL gameweek history. xG joins remain the next model-data increment.
 
 ## Open Questions
 
