@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 4
 
 **Deadline:** 2026-09-12T12:30:00Z
-**Captured:** 2026-09-12T09:15:43.002204+00:00
+**Captured:** 2026-09-12T11:08:37.672751+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- João Pedro (CHE) £7.7m: 109.5%
-- Havertz (ARS) £7.5m: 102.2%
-- Rogers (CHE) £7.6m: 90.0%
-- Gvardiol (MCI) £5.6m: 82.4%
-- Tarkowski (EVE) £6.0m: 81.7%
+- João Pedro (CHE) £7.7m: 116.4%
+- Havertz (ARS) £7.5m: 104.6%
+- Rogers (CHE) £7.6m: 100.1%
+- Gvardiol (MCI) £5.6m: 83.2%
+- Tarkowski (EVE) £6.0m: 82.9%
 
 ### Falls (Target <= -80%)
-- Senesi (TOT) £5.9m: -108.2%
-- Mateta (CRY) £6.4m: -105.6%
-- Sarr (CRY) £6.3m: -103.8%
-- Gray (TOT) £5.0m: -102.9%
-- Lammens (MUN) £5.0m: -102.7%
+- Senesi (TOT) £5.9m: -113.4%
+- Mateta (CRY) £6.4m: -110.8%
+- Sarr (CRY) £6.3m: -110.6%
+- Palestra (CHE) £5.4m: -107.7%
+- Lammens (MUN) £5.0m: -107.0%
 
 ## 4. Squad Availability Doubts
 
