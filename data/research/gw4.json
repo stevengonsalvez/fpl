@@ -1,0 +1,519 @@
+{
+  "gameweek": 4,
+  "deadline_utc": "2026-09-12T12:30:00Z",
+  "captured_at_utc": "2026-09-12T09:07:19.479568+00:00",
+  "fixtures": [
+    {
+      "home": "AVL",
+      "away": "NFO",
+      "kickoff": "2026-09-12T14:00:00Z"
+    },
+    {
+      "home": "BOU",
+      "away": "BRE",
+      "kickoff": "2026-09-12T14:00:00Z"
+    },
+    {
+      "home": "CHE",
+      "away": "HUL",
+      "kickoff": "2026-09-12T14:00:00Z"
+    },
+    {
+      "home": "CRY",
+      "away": "IPS",
+      "kickoff": "2026-09-12T14:00:00Z"
+    },
+    {
+      "home": "LIV",
+      "away": "FUL",
+      "kickoff": "2026-09-12T14:00:00Z"
+    },
+    {
+      "home": "TOT",
+      "away": "EVE",
+      "kickoff": "2026-09-12T16:30:00Z"
+    },
+    {
+      "home": "SUN",
+      "away": "ARS",
+      "kickoff": "2026-09-12T19:00:00Z"
+    },
+    {
+      "home": "COV",
+      "away": "BHA",
+      "kickoff": "2026-09-13T13:00:00Z"
+    },
+    {
+      "home": "MUN",
+      "away": "MCI",
+      "kickoff": "2026-09-13T15:30:00Z"
+    },
+    {
+      "home": "LEE",
+      "away": "NEW",
+      "kickoff": "2026-09-14T19:00:00Z"
+    }
+  ],
+  "predicted_eo": [
+    {
+      "id": 411,
+      "name": "Haaland",
+      "team": "MCI",
+      "predicted_eo_pct": 105.0
+    },
+    {
+      "id": 165,
+      "name": "Jo\u00e3o Pedro",
+      "team": "CHE",
+      "predicted_eo_pct": 81.0
+    },
+    {
+      "id": 154,
+      "name": "Palmer",
+      "team": "CHE",
+      "predicted_eo_pct": 55.1
+    },
+    {
+      "id": 426,
+      "name": "B.Fernandes",
+      "team": "MUN",
+      "predicted_eo_pct": 52.0
+    },
+    {
+      "id": 8,
+      "name": "Calafiori",
+      "team": "ARS",
+      "predicted_eo_pct": 48.3
+    },
+    {
+      "id": 368,
+      "name": "Szoboszlai",
+      "team": "LIV",
+      "predicted_eo_pct": 39.4
+    },
+    {
+      "id": 1,
+      "name": "Raya",
+      "team": "ARS",
+      "predicted_eo_pct": 39.1
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "team": "CHE",
+      "predicted_eo_pct": 35.1
+    },
+    {
+      "id": 379,
+      "name": "Isak",
+      "team": "LIV",
+      "predicted_eo_pct": 34.4
+    },
+    {
+      "id": 399,
+      "name": "Cherki",
+      "team": "MCI",
+      "predicted_eo_pct": 31.3
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "team": "MUN",
+      "predicted_eo_pct": 24.4
+    },
+    {
+      "id": 4,
+      "name": "Gabriel",
+      "team": "ARS",
+      "predicted_eo_pct": 23.8
+    },
+    {
+      "id": 346,
+      "name": "Calvert-Lewin",
+      "team": "LEE",
+      "predicted_eo_pct": 23.1
+    },
+    {
+      "id": 115,
+      "name": "De Cuyper",
+      "team": "BHA",
+      "predicted_eo_pct": 19.6
+    },
+    {
+      "id": 391,
+      "name": "Gvardiol",
+      "team": "MCI",
+      "predicted_eo_pct": 19.6
+    }
+  ],
+  "price_changes": {
+    "imminent_rises": [
+      {
+        "id": 165,
+        "name": "Jo\u00e3o Pedro",
+        "team": "CHE",
+        "target_pct": 109.5,
+        "cost": 7.7
+      },
+      {
+        "id": 26,
+        "name": "Havertz",
+        "team": "ARS",
+        "target_pct": 102.2,
+        "cost": 7.5
+      },
+      {
+        "id": 40,
+        "name": "Rogers",
+        "team": "CHE",
+        "target_pct": 90.0,
+        "cost": 7.6
+      },
+      {
+        "id": 391,
+        "name": "Gvardiol",
+        "team": "MCI",
+        "target_pct": 82.4,
+        "cost": 5.6
+      },
+      {
+        "id": 229,
+        "name": "Tarkowski",
+        "team": "EVE",
+        "target_pct": 81.7,
+        "cost": 6.0
+      }
+    ],
+    "imminent_falls": [
+      {
+        "id": 498,
+        "name": "Senesi",
+        "team": "TOT",
+        "target_pct": -108.2,
+        "cost": 5.9
+      },
+      {
+        "id": 223,
+        "name": "Mateta",
+        "team": "CRY",
+        "target_pct": -105.6,
+        "cost": 6.4
+      },
+      {
+        "id": 208,
+        "name": "Sarr",
+        "team": "CRY",
+        "target_pct": -103.8,
+        "cost": 6.3
+      },
+      {
+        "id": 522,
+        "name": "Gray",
+        "team": "TOT",
+        "target_pct": -102.9,
+        "cost": 5.0
+      },
+      {
+        "id": 412,
+        "name": "Lammens",
+        "team": "MUN",
+        "target_pct": -102.7,
+        "cost": 5.0
+      },
+      {
+        "id": 278,
+        "name": "Hughes",
+        "team": "HUL",
+        "target_pct": -100.5,
+        "cost": 4.0
+      },
+      {
+        "id": 452,
+        "name": "Bruno G.",
+        "team": "ARS",
+        "target_pct": -100.2,
+        "cost": 6.8
+      },
+      {
+        "id": 48,
+        "name": "Onana",
+        "team": "AVL",
+        "target_pct": -100.1,
+        "cost": 5.0
+      },
+      {
+        "id": 152,
+        "name": "Palestra",
+        "team": "CHE",
+        "target_pct": -99.0,
+        "cost": 5.4
+      },
+      {
+        "id": 105,
+        "name": "Anthony",
+        "team": "BRE",
+        "target_pct": -98.9,
+        "cost": 6.0
+      }
+    ]
+  },
+  "squad_availability": [
+    {
+      "id": 496,
+      "name": "Kinsky",
+      "team": "TOT",
+      "position": "GK",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 499,
+      "name": "Pedro Porro",
+      "team": "TOT",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "d",
+      "chance": 75,
+      "news": "Unspecified injury - 75% chance of playing",
+      "clean": false
+    },
+    {
+      "id": 8,
+      "name": "Calafiori",
+      "team": "ARS",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 4,
+      "name": "Gabriel",
+      "team": "ARS",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 426,
+      "name": "B.Fernandes",
+      "team": "MUN",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 368,
+      "name": "Szoboszlai",
+      "team": "LIV",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 427,
+      "name": "Mbeumo",
+      "team": "MUN",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "team": "CHE",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 346,
+      "name": "Calvert-Lewin",
+      "team": "LEE",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 379,
+      "name": "Isak",
+      "team": "LIV",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 165,
+      "name": "Jo\u00e3o Pedro",
+      "team": "CHE",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 302,
+      "name": "Button",
+      "team": "IPS",
+      "position": "GK",
+      "is_starter": false,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 534,
+      "name": "Hume",
+      "team": "SUN",
+      "position": "DEF",
+      "is_starter": false,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 557,
+      "name": "Tzolis",
+      "team": "ARS",
+      "position": "MID",
+      "is_starter": false,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 423,
+      "name": "Shaw",
+      "team": "MUN",
+      "position": "DEF",
+      "is_starter": false,
+      "status": "d",
+      "chance": 75,
+      "news": "Unspecified injury - 75% chance of playing",
+      "clean": false
+    }
+  ],
+  "top_form": [
+    {
+      "id": 367,
+      "name": "Gakpo",
+      "team": "LIV",
+      "position": "MID",
+      "form": 9.3,
+      "total_points": 28,
+      "cost": 7.2
+    },
+    {
+      "id": 426,
+      "name": "B.Fernandes",
+      "team": "MUN",
+      "position": "MID",
+      "form": 9.0,
+      "total_points": 27,
+      "cost": 12.0
+    },
+    {
+      "id": 572,
+      "name": "Tzolakis",
+      "team": "HUL",
+      "position": "GK",
+      "form": 8.7,
+      "total_points": 26,
+      "cost": 4.6
+    },
+    {
+      "id": 279,
+      "name": "Ajayi",
+      "team": "HUL",
+      "position": "DEF",
+      "form": 8.3,
+      "total_points": 25,
+      "cost": 4.2
+    },
+    {
+      "id": 399,
+      "name": "Cherki",
+      "team": "MCI",
+      "position": "MID",
+      "form": 8.3,
+      "total_points": 25,
+      "cost": 7.8
+    },
+    {
+      "id": 15,
+      "name": "\u00d8degaard",
+      "team": "ARS",
+      "position": "MID",
+      "form": 8.0,
+      "total_points": 24,
+      "cost": 6.7
+    },
+    {
+      "id": 69,
+      "name": "Scott",
+      "team": "BOU",
+      "position": "MID",
+      "form": 8.0,
+      "total_points": 24,
+      "cost": 6.1
+    },
+    {
+      "id": 586,
+      "name": "Mendy",
+      "team": "HUL",
+      "position": "DEF",
+      "form": 8.0,
+      "total_points": 24,
+      "cost": 4.1
+    },
+    {
+      "id": 411,
+      "name": "Haaland",
+      "team": "MCI",
+      "position": "FWD",
+      "form": 8.0,
+      "total_points": 24,
+      "cost": 15.5
+    },
+    {
+      "id": 277,
+      "name": "Egan",
+      "team": "HUL",
+      "position": "DEF",
+      "form": 7.7,
+      "total_points": 23,
+      "cost": 4.1
+    }
+  ]
+}
