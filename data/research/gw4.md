@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 4
 
 **Deadline:** 2026-09-12T12:30:00Z
-**Captured:** 2026-09-12T09:07:19.479568+00:00
+**Captured:** 2026-09-12T09:15:43.002204+00:00
 
 ## 1. Key Fixtures
 
