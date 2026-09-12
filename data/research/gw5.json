@@ -1,7 +1,7 @@
 {
   "gameweek": 5,
   "deadline_utc": "2026-09-18T17:30:00Z",
-  "captured_at_utc": "2026-09-12T19:34:56.214770+00:00",
+  "captured_at_utc": "2026-09-12T22:01:42.973200+00:00",
   "fixtures": [
     {
       "home": "BRE",
@@ -152,43 +152,43 @@
         "id": 165,
         "name": "Jo\u00e3o Pedro",
         "team": "CHE",
-        "target_pct": 136.0,
+        "target_pct": 141.2,
         "cost": 7.7
       },
       {
         "id": 40,
         "name": "Rogers",
         "team": "CHE",
-        "target_pct": 120.5,
+        "target_pct": 131.1,
         "cost": 7.6
       },
       {
         "id": 26,
         "name": "Havertz",
         "team": "ARS",
-        "target_pct": 110.2,
+        "target_pct": 110.1,
         "cost": 7.5
-      },
-      {
-        "id": 391,
-        "name": "Gvardiol",
-        "team": "MCI",
-        "target_pct": 88.7,
-        "cost": 5.6
       },
       {
         "id": 229,
         "name": "Tarkowski",
         "team": "EVE",
-        "target_pct": 88.3,
+        "target_pct": 93.3,
         "cost": 6.0
       },
       {
-        "id": 10,
-        "name": "White",
-        "team": "ARS",
-        "target_pct": 81.5,
-        "cost": 5.5
+        "id": 391,
+        "name": "Gvardiol",
+        "team": "MCI",
+        "target_pct": 90.4,
+        "cost": 5.6
+      },
+      {
+        "id": 68,
+        "name": "Tavernier",
+        "team": "BOU",
+        "target_pct": 81.2,
+        "cost": 6.0
       }
     ],
     "imminent_falls": [
@@ -196,70 +196,70 @@
         "id": 498,
         "name": "Senesi",
         "team": "TOT",
-        "target_pct": -124.6,
+        "target_pct": -129.0,
         "cost": 5.9
       },
       {
         "id": 152,
         "name": "Palestra",
         "team": "CHE",
-        "target_pct": -124.1,
+        "target_pct": -127.5,
         "cost": 5.4
       },
       {
         "id": 208,
         "name": "Sarr",
         "team": "CRY",
-        "target_pct": -120.5,
+        "target_pct": -122.6,
         "cost": 6.3
-      },
-      {
-        "id": 223,
-        "name": "Mateta",
-        "team": "CRY",
-        "target_pct": -119.1,
-        "cost": 6.4
       },
       {
         "id": 160,
         "name": "Garnacho",
         "team": "AVL",
-        "target_pct": -116.8,
+        "target_pct": -121.4,
         "cost": 5.9
+      },
+      {
+        "id": 223,
+        "name": "Mateta",
+        "team": "CRY",
+        "target_pct": -120.8,
+        "cost": 6.4
       },
       {
         "id": 490,
         "name": "Wood",
         "team": "NFO",
-        "target_pct": -114.1,
+        "target_pct": -116.3,
         "cost": 5.9
-      },
-      {
-        "id": 452,
-        "name": "Bruno G.",
-        "team": "ARS",
-        "target_pct": -110.6,
-        "cost": 6.8
       },
       {
         "id": 105,
         "name": "Anthony",
         "team": "BRE",
-        "target_pct": -110.2,
+        "target_pct": -113.0,
         "cost": 6.0
       },
       {
-        "id": 522,
-        "name": "Gray",
-        "team": "TOT",
-        "target_pct": -109.6,
-        "cost": 5.0
+        "id": 19,
+        "name": "Zubimendi",
+        "team": "ARS",
+        "target_pct": -111.6,
+        "cost": 5.4
       },
       {
         "id": 412,
         "name": "Lammens",
         "team": "MUN",
-        "target_pct": -109.4,
+        "target_pct": -111.0,
+        "cost": 5.0
+      },
+      {
+        "id": 522,
+        "name": "Gray",
+        "team": "TOT",
+        "target_pct": -110.4,
         "cost": 5.0
       }
     ]
@@ -442,12 +442,30 @@
       "cost": 7.7
     },
     {
+      "id": 12,
+      "name": "Saka",
+      "team": "ARS",
+      "position": "MID",
+      "form": 7.5,
+      "total_points": 30,
+      "cost": 9.5
+    },
+    {
       "id": 94,
       "name": "Schade",
       "team": "BRE",
       "position": "MID",
       "form": 7.5,
       "total_points": 30,
+      "cost": 6.0
+    },
+    {
+      "id": 1,
+      "name": "Raya",
+      "team": "ARS",
+      "position": "GK",
+      "form": 7.2,
+      "total_points": 29,
       "cost": 6.0
     },
     {
@@ -478,6 +496,15 @@
       "cost": 7.2
     },
     {
+      "id": 8,
+      "name": "Calafiori",
+      "team": "ARS",
+      "position": "DEF",
+      "form": 7.0,
+      "total_points": 28,
+      "cost": 5.8
+    },
+    {
       "id": 69,
       "name": "Scott",
       "team": "BOU",
@@ -494,33 +521,6 @@
       "form": 7.0,
       "total_points": 28,
       "cost": 4.6
-    },
-    {
-      "id": 40,
-      "name": "Rogers",
-      "team": "CHE",
-      "position": "MID",
-      "form": 6.8,
-      "total_points": 27,
-      "cost": 7.6
-    },
-    {
-      "id": 286,
-      "name": "Belloumi",
-      "team": "HUL",
-      "position": "MID",
-      "form": 6.8,
-      "total_points": 27,
-      "cost": 5.0
-    },
-    {
-      "id": 426,
-      "name": "B.Fernandes",
-      "team": "MUN",
-      "position": "MID",
-      "form": 6.8,
-      "total_points": 27,
-      "cost": 12.0
     }
   ]
 }
