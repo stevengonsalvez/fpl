@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-12T17:22:49.037566+00:00
+**Captured:** 2026-09-12T19:34:56.214770+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- João Pedro (CHE) £7.7m: 132.5%
-- Rogers (CHE) £7.6m: 112.9%
-- Havertz (ARS) £7.5m: 109.1%
-- Gvardiol (MCI) £5.6m: 87.5%
-- Tarkowski (EVE) £6.0m: 86.0%
+- João Pedro (CHE) £7.7m: 136.0%
+- Rogers (CHE) £7.6m: 120.5%
+- Havertz (ARS) £7.5m: 110.2%
+- Gvardiol (MCI) £5.6m: 88.7%
+- Tarkowski (EVE) £6.0m: 88.3%
 
 ### Falls (Target <= -80%)
-- Palestra (CHE) £5.4m: -122.0%
-- Senesi (TOT) £5.9m: -120.9%
-- Sarr (CRY) £6.3m: -119.3%
-- Mateta (CRY) £6.4m: -117.9%
-- Garnacho (AVL) £5.9m: -113.5%
+- Senesi (TOT) £5.9m: -124.6%
+- Palestra (CHE) £5.4m: -124.1%
+- Sarr (CRY) £6.3m: -120.5%
+- Mateta (CRY) £6.4m: -119.1%
+- Garnacho (AVL) £5.9m: -116.8%
 
 ## 4. Squad Availability Doubts
 
@@ -59,9 +59,9 @@
 | João Pedro | FWD | CHE | 8.2 | 33 | £7.7m |
 | Schade | MID | BRE | 7.5 | 30 | £6.0m |
 | Tavernier | MID | BOU | 7.2 | 29 | £6.0m |
+| Tarkowski | DEF | EVE | 7.2 | 29 | £6.0m |
 | Gakpo | MID | LIV | 7.2 | 29 | £7.2m |
 | Scott | MID | BOU | 7.0 | 28 | £6.1m |
 | Tzolakis | GK | HUL | 7.0 | 28 | £4.6m |
 | Rogers | MID | CHE | 6.8 | 27 | £7.6m |
-| Belloumi | MID | HUL | 6.8 | 27 | £5.0m |
 
