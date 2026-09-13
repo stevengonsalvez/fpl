@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-13T05:14:14.684531+00:00
+**Captured:** 2026-09-13T10:31:16.819445+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.0m: 97.6%
-- Gvardiol (MCI) £5.6m: 91.8%
-- Tavernier (BOU) £6.0m: 84.1%
+- Tarkowski (EVE) £6.0m: 101.2%
+- Gvardiol (MCI) £5.6m: 92.9%
+- Tavernier (BOU) £6.0m: 86.4%
 
 ### Falls (Target <= -80%)
-- Quenda (CHE) £5.4m: -102.0%
-- Gomez (LIV) £5.0m: -100.6%
-- Kipré (IPS) £4.0m: -99.2%
-- Netz (NFO) £4.5m: -99.1%
-- Roefs (SUN) £5.0m: -98.0%
+- Quenda (CHE) £5.4m: -105.5%
+- Gomez (LIV) £5.0m: -101.6%
+- Netz (NFO) £4.5m: -100.1%
+- Kipré (IPS) £4.0m: -100.0%
+- Roefs (SUN) £5.0m: -99.4%
 
 ## 4. Squad Availability Doubts
 

@@ -1,7 +1,7 @@
 {
   "gameweek": 5,
   "deadline_utc": "2026-09-18T17:30:00Z",
-  "captured_at_utc": "2026-09-13T05:14:14.684531+00:00",
+  "captured_at_utc": "2026-09-13T10:31:16.819445+00:00",
   "fixtures": [
     {
       "home": "BRE",
@@ -152,21 +152,21 @@
         "id": 229,
         "name": "Tarkowski",
         "team": "EVE",
-        "target_pct": 97.6,
+        "target_pct": 101.2,
         "cost": 6.0
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": 91.8,
+        "target_pct": 92.9,
         "cost": 5.6
       },
       {
         "id": 68,
         "name": "Tavernier",
         "team": "BOU",
-        "target_pct": 84.1,
+        "target_pct": 86.4,
         "cost": 6.0
       }
     ],
@@ -175,70 +175,70 @@
         "id": 164,
         "name": "Quenda",
         "team": "CHE",
-        "target_pct": -102.0,
+        "target_pct": -105.5,
         "cost": 5.4
       },
       {
         "id": 359,
         "name": "Gomez",
         "team": "LIV",
-        "target_pct": -100.6,
+        "target_pct": -101.6,
         "cost": 5.0
-      },
-      {
-        "id": 303,
-        "name": "Kipr\u00e9",
-        "team": "IPS",
-        "target_pct": -99.2,
-        "cost": 4.0
       },
       {
         "id": 478,
         "name": "Netz",
         "team": "NFO",
-        "target_pct": -99.1,
+        "target_pct": -100.1,
         "cost": 4.5
+      },
+      {
+        "id": 303,
+        "name": "Kipr\u00e9",
+        "team": "IPS",
+        "target_pct": -100.0,
+        "cost": 4.0
       },
       {
         "id": 529,
         "name": "Roefs",
         "team": "SUN",
-        "target_pct": -98.0,
+        "target_pct": -99.4,
         "cost": 5.0
       },
       {
         "id": 131,
         "name": "Baleba",
         "team": "MUN",
-        "target_pct": -97.6,
+        "target_pct": -98.3,
         "cost": 5.0
       },
       {
         "id": 492,
         "name": "Awoniyi",
         "team": "COV",
-        "target_pct": -96.6,
+        "target_pct": -97.5,
         "cost": 5.5
       },
       {
         "id": 573,
         "name": "Sanchez",
         "team": "BOU",
-        "target_pct": -96.3,
+        "target_pct": -97.1,
         "cost": 4.5
       },
       {
         "id": 162,
         "name": "Andrey Santos",
         "team": "MUN",
-        "target_pct": -94.6,
+        "target_pct": -96.4,
         "cost": 4.9
       },
       {
         "id": 570,
         "name": "Palacios",
         "team": "FUL",
-        "target_pct": -94.1,
+        "target_pct": -95.5,
         "cost": 5.5
       }
     ]
