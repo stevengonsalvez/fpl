@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-13T14:51:08.222739+00:00
+**Captured:** 2026-09-13T17:59:55.752421+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.0m: 105.2%
-- Gvardiol (MCI) £5.6m: 94.2%
-- Tavernier (BOU) £6.0m: 88.9%
+- Tarkowski (EVE) £6.0m: 111.9%
+- Gvardiol (MCI) £5.6m: 102.6%
+- Tavernier (BOU) £6.0m: 93.5%
 
 ### Falls (Target <= -80%)
-- Quenda (CHE) £5.4m: -106.7%
-- Awoniyi (COV) £5.5m: -102.8%
-- Gomez (LIV) £5.0m: -102.3%
-- Netz (NFO) £4.5m: -101.1%
-- Roefs (SUN) £5.0m: -101.1%
+- Quenda (CHE) £5.4m: -110.8%
+- Andrey Santos (MUN) £4.9m: -104.1%
+- Roefs (SUN) £5.0m: -103.8%
+- Gomez (LIV) £5.0m: -102.8%
+- Kipré (IPS) £4.0m: -102.1%
 
 ## 4. Squad Availability Doubts
 
@@ -54,12 +54,12 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
+| Groß | MID | BHA | 8.2 | 33 | £5.6m |
 | João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
+| Gvardiol | DEF | MCI | 8.2 | 33 | £5.6m |
 | De Cuyper | DEF | BHA | 8.0 | 32 | £4.8m |
+| Haaland | FWD | MCI | 8.0 | 32 | £15.5m |
 | Saka | MID | ARS | 7.5 | 30 | £9.5m |
 | Schade | MID | BRE | 7.5 | 30 | £6.0m |
-| Groß | MID | BHA | 7.5 | 30 | £5.6m |
 | Raya | GK | ARS | 7.2 | 29 | £6.0m |
-| Tavernier | MID | BOU | 7.2 | 29 | £6.0m |
-| Tarkowski | DEF | EVE | 7.2 | 29 | £6.0m |
 
