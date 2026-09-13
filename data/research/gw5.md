@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-12T22:01:42.973200+00:00
+**Captured:** 2026-09-13T00:09:41.349357+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- João Pedro (CHE) £7.7m: 141.2%
-- Rogers (CHE) £7.6m: 131.1%
-- Havertz (ARS) £7.5m: 110.1%
-- Tarkowski (EVE) £6.0m: 93.3%
-- Gvardiol (MCI) £5.6m: 90.4%
+- Tarkowski (EVE) £6.0m: 95.3%
+- Gvardiol (MCI) £5.6m: 91.1%
+- Tavernier (BOU) £6.0m: 82.5%
 
 ### Falls (Target <= -80%)
-- Senesi (TOT) £5.9m: -129.0%
-- Palestra (CHE) £5.4m: -127.5%
-- Sarr (CRY) £6.3m: -122.6%
-- Garnacho (AVL) £5.9m: -121.4%
-- Mateta (CRY) £6.4m: -120.8%
+- Gomez (LIV) £5.0m: -99.9%
+- Quenda (CHE) £5.4m: -99.3%
+- Kipré (IPS) £4.0m: -98.9%
+- Netz (NFO) £4.5m: -98.4%
+- Baleba (MUN) £5.0m: -97.5%
 
 ## 4. Squad Availability Doubts
 
@@ -56,7 +54,7 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| João Pedro | FWD | CHE | 8.2 | 33 | £7.7m |
+| João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
 | Saka | MID | ARS | 7.5 | 30 | £9.5m |
 | Schade | MID | BRE | 7.5 | 30 | £6.0m |
 | Raya | GK | ARS | 7.2 | 29 | £6.0m |
