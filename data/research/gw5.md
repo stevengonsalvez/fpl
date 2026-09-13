@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-13T20:42:11.197868+00:00
+**Captured:** 2026-09-13T23:00:29.072888+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.0m: 117.4%
-- Gvardiol (MCI) £5.6m: 115.8%
-- Tavernier (BOU) £6.0m: 98.3%
+- Gvardiol (MCI) £5.7m: 122.7%
+- Tarkowski (EVE) £6.1m: 120.0%
+- Tavernier (BOU) £6.1m: 100.8%
 
 ### Falls (Target <= -80%)
-- Quenda (CHE) £5.4m: -114.7%
-- Andrey Santos (MUN) £4.9m: -109.8%
-- Roefs (SUN) £5.0m: -106.2%
-- Netz (NFO) £4.5m: -104.5%
-- Gomez (LIV) £5.0m: -104.1%
+- Quenda (CHE) £5.3m: -116.5%
+- Andrey Santos (MUN) £4.8m: -112.2%
+- Roefs (SUN) £4.9m: -107.5%
+- Röhl (EVE) £4.9m: -105.4%
+- Palacios (FUL) £5.4m: -105.3%
 
 ## 4. Squad Availability Doubts
 
@@ -56,7 +56,7 @@
 |---|---|---|---|---|---|
 | Groß | MID | BHA | 8.2 | 33 | £5.6m |
 | João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
-| Gvardiol | DEF | MCI | 8.2 | 33 | £5.6m |
+| Gvardiol | DEF | MCI | 8.2 | 33 | £5.7m |
 | Haaland | FWD | MCI | 8.2 | 33 | £15.5m |
 | De Cuyper | DEF | BHA | 8.0 | 32 | £4.8m |
 | Saka | MID | ARS | 7.5 | 30 | £9.5m |
