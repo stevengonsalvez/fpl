@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-13T23:00:29.072888+00:00
+**Captured:** 2026-09-14T01:25:49.985767+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,13 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Gvardiol (MCI) £5.7m: 122.7%
-- Tarkowski (EVE) £6.1m: 120.0%
-- Tavernier (BOU) £6.1m: 100.8%
 
 ### Falls (Target <= -80%)
-- Quenda (CHE) £5.3m: -116.5%
-- Andrey Santos (MUN) £4.8m: -112.2%
-- Roefs (SUN) £4.9m: -107.5%
-- Röhl (EVE) £4.9m: -105.4%
-- Palacios (FUL) £5.4m: -105.3%
+- Caicedo (CHE) £5.4m: -100.5%
+- Tielemans (MUN) £5.9m: -100.3%
+- Madueke (ARS) £6.3m: -100.0%
+- Hughes (CRY) £4.5m: -99.4%
+- Solanke (TOT) £5.9m: -99.0%
 
 ## 4. Squad Availability Doubts
 
