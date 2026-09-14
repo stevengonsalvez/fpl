@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-14T01:25:49.985767+00:00
+**Captured:** 2026-09-14T06:51:45.784201+00:00
 
 ## 1. Key Fixtures
 
@@ -20,27 +20,27 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 127.1% |
-| João Pedro | CHE | 82.9% |
-| B.Fernandes | MUN | 53.3% |
-| Calafiori | ARS | 48.8% |
-| Raya | ARS | 39.2% |
-| Szoboszlai | LIV | 38.4% |
-| Palmer | CHE | 37.8% |
-| Rogers | CHE | 36.9% |
-| Cherki | MCI | 31.6% |
-| Isak | LIV | 25.5% |
+| Haaland | MCI | 136.6% |
+| João Pedro | CHE | 80.6% |
+| B.Fernandes | MUN | 51.3% |
+| Calafiori | ARS | 49.1% |
+| Raya | ARS | 39.8% |
+| Szoboszlai | LIV | 37.6% |
+| Rogers | CHE | 37.5% |
+| Palmer | CHE | 35.9% |
+| Cherki | MCI | 30.5% |
+| Isak | LIV | 24.9% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
 
 ### Falls (Target <= -80%)
-- Caicedo (CHE) £5.4m: -100.5%
-- Tielemans (MUN) £5.9m: -100.3%
-- Madueke (ARS) £6.3m: -100.0%
-- Hughes (CRY) £4.5m: -99.4%
-- Solanke (TOT) £5.9m: -99.0%
+- Madueke (ARS) £6.3m: -101.9%
+- Caicedo (CHE) £5.4m: -101.8%
+- Tielemans (MUN) £5.9m: -101.8%
+- Hughes (CRY) £4.5m: -100.4%
+- Solanke (TOT) £5.9m: -99.9%
 
 ## 4. Squad Availability Doubts
 
