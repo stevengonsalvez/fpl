@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-15T01:21:22.919344+00:00
+**Captured:** 2026-09-15T06:32:08.992129+00:00
 
 ## 1. Key Fixtures
 
@@ -20,30 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 136.6% |
-| João Pedro | CHE | 80.6% |
-| B.Fernandes | MUN | 51.3% |
-| Calafiori | ARS | 49.1% |
-| Raya | ARS | 39.8% |
-| Szoboszlai | LIV | 37.6% |
-| Rogers | CHE | 37.5% |
-| Palmer | CHE | 35.9% |
-| Cherki | MCI | 30.5% |
-| Isak | LIV | 24.9% |
+| Haaland | MCI | 138.5% |
+| João Pedro | CHE | 82.0% |
+| B.Fernandes | MUN | 51.6% |
+| Calafiori | ARS | 49.3% |
+| Raya | ARS | 40.2% |
+| Rogers | CHE | 38.4% |
+| Szoboszlai | LIV | 37.2% |
+| Palmer | CHE | 36.5% |
+| Cherki | MCI | 30.1% |
+| Isak | LIV | 24.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Schade (BRE) £6.0m: 100.4%
-- Belloumi (HUL) £5.0m: 87.7%
-- Haaland (MCI) £15.5m: 84.3%
+- Schade (BRE) £6.0m: 104.8%
+- Belloumi (HUL) £5.0m: 91.5%
+- Haaland (MCI) £15.5m: 85.3%
+- Groß (BHA) £5.6m: 83.6%
+- Gibbs-White (NFO) £7.9m: 82.8%
 
 ### Falls (Target <= -80%)
-- Wilson (COV) £4.5m: -99.9%
-- Wieffer (BHA) £5.0m: -99.8%
-- Amad (MUN) £5.8m: -99.4%
-- Tomiyasu (CRY) £4.5m: -98.8%
-- Mosquera (ARS) £5.4m: -98.4%
+- Wieffer (BHA) £5.0m: -101.4%
+- Mosquera (ARS) £5.4m: -101.2%
+- Wilson (COV) £4.5m: -100.3%
+- Tomiyasu (CRY) £4.5m: -100.3%
+- Amad (MUN) £5.8m: -100.1%
 
 ## 4. Squad Availability Doubts
 
