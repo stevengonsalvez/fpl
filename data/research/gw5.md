@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-15T21:02:20.619037+00:00
+**Captured:** 2026-09-15T23:36:14.758792+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Schade (BRE) £6.0m: 121.6%
-- Gibbs-White (NFO) £7.9m: 111.6%
-- Groß (BHA) £5.6m: 109.6%
-- Belloumi (HUL) £5.0m: 105.0%
-- Haaland (MCI) £15.5m: 89.8%
+- De Cuyper (BHA) £4.8m: 90.6%
+- Haaland (MCI) £15.5m: 90.2%
+- Ødegaard (ARS) £6.7m: 84.0%
 
 ### Falls (Target <= -80%)
-- Mosquera (ARS) £5.4m: -116.0%
-- Wieffer (BHA) £5.0m: -110.4%
-- Goretzka (AVL) £6.0m: -107.0%
-- Tomiyasu (CRY) £4.5m: -105.4%
-- Schär (NEW) £5.0m: -104.6%
+- Tóth.A (BOU) £5.0m: -98.1%
+- Furlong (IPS) £4.0m: -95.9%
+- Shepherd (COV) £4.5m: -95.5%
+- Gallagher (TOT) £5.4m: -95.3%
+- Kesler-Hayden (COV) £4.0m: -94.7%
 
 ## 4. Squad Availability Doubts
 
@@ -57,11 +55,11 @@
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
 | Bogle | DEF | LEE | 9.2 | 37 | £4.5m |
-| Groß | MID | BHA | 8.2 | 33 | £5.6m |
+| Groß | MID | BHA | 8.2 | 33 | £5.7m |
 | João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
 | Gvardiol | DEF | MCI | 8.2 | 33 | £5.7m |
 | Haaland | FWD | MCI | 8.2 | 33 | £15.5m |
 | De Cuyper | DEF | BHA | 8.0 | 32 | £4.8m |
 | Saka | MID | ARS | 7.5 | 30 | £9.5m |
-| Schade | MID | BRE | 7.5 | 30 | £6.0m |
+| Schade | MID | BRE | 7.5 | 30 | £6.1m |
 
