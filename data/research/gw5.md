@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-15T06:32:08.992129+00:00
+**Captured:** 2026-09-15T12:45:58.223702+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Schade (BRE) £6.0m: 104.8%
-- Belloumi (HUL) £5.0m: 91.5%
-- Haaland (MCI) £15.5m: 85.3%
-- Groß (BHA) £5.6m: 83.6%
-- Gibbs-White (NFO) £7.9m: 82.8%
+- Schade (BRE) £6.0m: 112.2%
+- Belloumi (HUL) £5.0m: 97.4%
+- Groß (BHA) £5.6m: 94.9%
+- Gibbs-White (NFO) £7.9m: 94.2%
+- Haaland (MCI) £15.5m: 87.1%
 
 ### Falls (Target <= -80%)
-- Wieffer (BHA) £5.0m: -101.4%
-- Mosquera (ARS) £5.4m: -101.2%
-- Wilson (COV) £4.5m: -100.3%
-- Tomiyasu (CRY) £4.5m: -100.3%
-- Amad (MUN) £5.8m: -100.1%
+- Mosquera (ARS) £5.4m: -107.6%
+- Wieffer (BHA) £5.0m: -105.1%
+- Tomiyasu (CRY) £4.5m: -102.5%
+- Cairney (FUL) £5.0m: -102.2%
+- Amad (MUN) £5.8m: -101.9%
 
 ## 4. Squad Availability Doubts
 
