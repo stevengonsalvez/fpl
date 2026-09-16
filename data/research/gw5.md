@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-16T18:27:53.893490+00:00
+**Captured:** 2026-09-16T21:35:49.748452+00:00
 
 ## 1. Key Fixtures
 
@@ -34,21 +34,22 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £4.8m: 97.2%
-- Haaland (MCI) £15.5m: 93.1%
-- Bogle (LEE) £4.5m: 89.5%
-- Ødegaard (ARS) £6.7m: 89.0%
+- De Cuyper (BHA) £4.8m: 100.5%
+- Haaland (MCI) £15.5m: 94.1%
+- Bogle (LEE) £4.5m: 93.1%
+- Ødegaard (ARS) £6.7m: 90.3%
 
 ### Falls (Target <= -80%)
-- Tóth.A (BOU) £5.0m: -101.7%
-- Furlong (IPS) £4.0m: -98.0%
-- Shepherd (COV) £4.5m: -97.8%
-- Fatawu (IPS) £5.5m: -97.0%
-- Gallagher (TOT) £5.4m: -97.0%
+- Tóth.A (BOU) £5.0m: -101.4%
+- Shepherd (COV) £4.5m: -98.9%
+- Furlong (IPS) £4.0m: -98.6%
+- Fatawu (IPS) £5.5m: -98.1%
+- Gallagher (TOT) £5.4m: -97.9%
 
 ## 4. Squad Availability Doubts
 
 - [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
+- [XI] FWD João Pedro (CHE): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 - [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 
 ## 5. Top Form Assets
