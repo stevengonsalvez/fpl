@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-15T23:36:14.758792+00:00
+**Captured:** 2026-09-16T04:02:58.275747+00:00
 
 ## 1. Key Fixtures
 
@@ -20,29 +20,29 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 138.5% |
-| João Pedro | CHE | 82.0% |
-| B.Fernandes | MUN | 51.6% |
-| Calafiori | ARS | 49.3% |
-| Raya | ARS | 40.2% |
-| Rogers | CHE | 38.4% |
-| Szoboszlai | LIV | 37.2% |
-| Palmer | CHE | 36.5% |
-| Cherki | MCI | 30.1% |
-| Isak | LIV | 24.4% |
+| Haaland | MCI | 143.3% |
+| João Pedro | CHE | 81.2% |
+| B.Fernandes | MUN | 50.6% |
+| Calafiori | ARS | 49.4% |
+| Raya | ARS | 40.6% |
+| Rogers | CHE | 38.8% |
+| Szoboszlai | LIV | 36.2% |
+| Palmer | CHE | 34.8% |
+| Cherki | MCI | 29.7% |
+| Isak | LIV | 25.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £4.8m: 90.6%
-- Haaland (MCI) £15.5m: 90.2%
-- Ødegaard (ARS) £6.7m: 84.0%
+- De Cuyper (BHA) £4.8m: 91.4%
+- Haaland (MCI) £15.5m: 90.6%
+- Ødegaard (ARS) £6.7m: 84.7%
 
 ### Falls (Target <= -80%)
 - Tóth.A (BOU) £5.0m: -98.1%
-- Furlong (IPS) £4.0m: -95.9%
-- Shepherd (COV) £4.5m: -95.5%
-- Gallagher (TOT) £5.4m: -95.3%
+- Furlong (IPS) £4.0m: -96.2%
+- Shepherd (COV) £4.5m: -95.8%
+- Gallagher (TOT) £5.4m: -95.7%
 - Kesler-Hayden (COV) £4.0m: -94.7%
 
 ## 4. Squad Availability Doubts
