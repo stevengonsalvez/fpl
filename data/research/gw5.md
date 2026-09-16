@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-16T04:02:58.275747+00:00
+**Captured:** 2026-09-16T09:26:24.851098+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,17 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £4.8m: 91.4%
-- Haaland (MCI) £15.5m: 90.6%
-- Ødegaard (ARS) £6.7m: 84.7%
+- De Cuyper (BHA) £4.8m: 93.2%
+- Haaland (MCI) £15.5m: 91.3%
+- Ødegaard (ARS) £6.7m: 85.9%
+- Bogle (LEE) £4.5m: 80.4%
 
 ### Falls (Target <= -80%)
 - Tóth.A (BOU) £5.0m: -98.1%
-- Furlong (IPS) £4.0m: -96.2%
-- Shepherd (COV) £4.5m: -95.8%
-- Gallagher (TOT) £5.4m: -95.7%
-- Kesler-Hayden (COV) £4.0m: -94.7%
+- Furlong (IPS) £4.0m: -96.6%
+- Shepherd (COV) £4.5m: -96.5%
+- Gallagher (TOT) £5.4m: -96.1%
+- Kesler-Hayden (COV) £4.0m: -95.0%
 
 ## 4. Squad Availability Doubts
 

@@ -1,7 +1,7 @@
 {
   "gameweek": 5,
   "deadline_utc": "2026-09-18T17:30:00Z",
-  "captured_at_utc": "2026-09-16T04:02:58.275747+00:00",
+  "captured_at_utc": "2026-09-16T09:26:24.851098+00:00",
   "fixtures": [
     {
       "home": "BRE",
@@ -152,22 +152,29 @@
         "id": 115,
         "name": "De Cuyper",
         "team": "BHA",
-        "target_pct": 91.4,
+        "target_pct": 93.2,
         "cost": 4.8
       },
       {
         "id": 411,
         "name": "Haaland",
         "team": "MCI",
-        "target_pct": 90.6,
+        "target_pct": 91.3,
         "cost": 15.5
       },
       {
         "id": 15,
         "name": "\u00d8degaard",
         "team": "ARS",
-        "target_pct": 84.7,
+        "target_pct": 85.9,
         "cost": 6.7
+      },
+      {
+        "id": 330,
+        "name": "Bogle",
+        "team": "LEE",
+        "target_pct": 80.4,
+        "cost": 4.5
       }
     ],
     "imminent_falls": [
@@ -182,63 +189,63 @@
         "id": 308,
         "name": "Furlong",
         "team": "IPS",
-        "target_pct": -96.2,
+        "target_pct": -96.6,
         "cost": 4.0
       },
       {
         "id": 189,
         "name": "Shepherd",
         "team": "COV",
-        "target_pct": -95.8,
+        "target_pct": -96.5,
         "cost": 4.5
       },
       {
         "id": 519,
         "name": "Gallagher",
         "team": "TOT",
-        "target_pct": -95.7,
+        "target_pct": -96.1,
         "cost": 5.4
       },
       {
         "id": 177,
         "name": "Kesler-Hayden",
         "team": "COV",
-        "target_pct": -94.7,
+        "target_pct": -95.0,
         "cost": 4.0
       },
       {
         "id": 315,
         "name": "Fatawu",
         "team": "IPS",
-        "target_pct": -93.5,
+        "target_pct": -94.4,
         "cost": 5.5
       },
       {
         "id": 185,
         "name": "Sakamoto",
         "team": "COV",
-        "target_pct": -92.8,
+        "target_pct": -93.4,
         "cost": 4.9
-      },
-      {
-        "id": 42,
-        "name": "Guessand",
-        "team": "CRY",
-        "target_pct": -92.7,
-        "cost": 5.5
       },
       {
         "id": 96,
         "name": "Damsgaard",
         "team": "BRE",
-        "target_pct": -92.2,
+        "target_pct": -93.3,
+        "cost": 5.5
+      },
+      {
+        "id": 42,
+        "name": "Guessand",
+        "team": "CRY",
+        "target_pct": -93.2,
         "cost": 5.5
       },
       {
         "id": 183,
         "name": "Rudoni",
         "team": "COV",
-        "target_pct": -90.4,
+        "target_pct": -91.1,
         "cost": 5.0
       }
     ]
