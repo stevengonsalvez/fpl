@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-17T19:10:52.760200+00:00
+**Captured:** 2026-09-17T22:22:29.073914+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Bogle (LEE) £4.5m: 115.3%
-- Haaland (MCI) £15.5m: 100.2%
-- Ødegaard (ARS) £6.7m: 97.7%
-- Barnes (NEW) £6.0m: 87.2%
-- Konsa (ARS) £4.5m: 85.5%
+- Bogle (LEE) £4.5m: 122.1%
+- Haaland (MCI) £15.5m: 102.0%
+- Ødegaard (ARS) £6.7m: 100.1%
+- Barnes (NEW) £6.0m: 90.3%
+- Konsa (ARS) £4.5m: 88.0%
 
 ### Falls (Target <= -80%)
-- Wirtz (LIV) £7.4m: -109.5%
-- Wilson (LEE) £6.3m: -107.3%
-- Damsgaard (BRE) £5.5m: -106.2%
-- Fatawu (IPS) £5.5m: -104.9%
-- Sakamoto (COV) £4.9m: -104.7%
+- Wirtz (LIV) £7.4m: -114.9%
+- Wilson (LEE) £6.3m: -111.6%
+- Damsgaard (BRE) £5.5m: -108.5%
+- Frimpong (LIV) £5.4m: -107.1%
+- Sakamoto (COV) £4.9m: -106.9%
 
 ## 4. Squad Availability Doubts
 
