@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-16T21:35:49.748452+00:00
+**Captured:** 2026-09-17T00:13:28.335181+00:00
 
 ## 1. Key Fixtures
 
@@ -34,17 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £4.8m: 100.5%
-- Haaland (MCI) £15.5m: 94.1%
-- Bogle (LEE) £4.5m: 93.1%
-- Ødegaard (ARS) £6.7m: 90.3%
+- Bogle (LEE) £4.5m: 94.8%
+- Haaland (MCI) £15.5m: 94.6%
+- Ødegaard (ARS) £6.7m: 90.9%
 
 ### Falls (Target <= -80%)
-- Tóth.A (BOU) £5.0m: -101.4%
-- Shepherd (COV) £4.5m: -98.9%
-- Furlong (IPS) £4.0m: -98.6%
-- Fatawu (IPS) £5.5m: -98.1%
-- Gallagher (TOT) £5.4m: -97.9%
+- Shepherd (COV) £4.5m: -99.5%
+- Furlong (IPS) £4.0m: -98.9%
+- Fatawu (IPS) £5.5m: -98.5%
+- Damsgaard (BRE) £5.5m: -98.3%
+- Gallagher (TOT) £5.4m: -98.3%
 
 ## 4. Squad Availability Doubts
 
@@ -61,7 +60,7 @@
 | João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
 | Gvardiol | DEF | MCI | 8.2 | 33 | £5.7m |
 | Haaland | FWD | MCI | 8.2 | 33 | £15.5m |
-| De Cuyper | DEF | BHA | 8.0 | 32 | £4.8m |
+| De Cuyper | DEF | BHA | 8.0 | 32 | £4.9m |
 | Saka | MID | ARS | 7.5 | 30 | £9.5m |
 | Schade | MID | BRE | 7.5 | 30 | £6.1m |
 
