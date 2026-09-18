@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-18T10:51:23.695553+00:00
+**Captured:** 2026-09-18T14:50:39.451199+00:00
 
 ## 1. Key Fixtures
 
@@ -34,23 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barnes (NEW) £6.0m: 101.7%
-- Konsa (ARS) £4.5m: 96.0%
-- Dewsbury-Hall (EVE) £6.5m: 82.8%
-- Raya (ARS) £6.0m: 82.6%
+- Barnes (NEW) £6.0m: 112.8%
+- Konsa (ARS) £4.5m: 103.0%
+- Dewsbury-Hall (EVE) £6.5m: 93.4%
+- Mykolenko (EVE) £4.5m: 88.0%
+- Raya (ARS) £6.0m: 86.3%
 
 ### Falls (Target <= -80%)
-- Awoniyi (COV) £5.5m: -109.2%
-- Tel (TOT) £5.8m: -107.7%
-- Tonali (TOT) £5.4m: -107.4%
-- David (BHA) £6.0m: -106.7%
-- Elanga (NEW) £6.2m: -106.2%
+- Tonali (TOT) £5.4m: -212.3%
+- Elanga (NEW) £6.2m: -134.4%
+- Tel (TOT) £5.8m: -122.8%
+- Awoniyi (COV) £5.5m: -122.0%
+- Ndiaye (MCI) £5.9m: -114.0%
 
 ## 4. Squad Availability Doubts
 
-- [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 - [XI] FWD João Pedro (CHE): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
-- [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
+- [BEN] DEF Shaw (MUN): status=d, chance=50%, news: Unspecified injury - 50% chance of playing
 
 ## 5. Top Form Assets
 

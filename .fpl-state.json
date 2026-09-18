@@ -8,7 +8,8 @@
   "gw4-t6",
   "gw4-t2",
   "gw4-done",
-  "gw5-t24"
+  "gw5-t24",
+  "gw5-t6"
  ],
  "flags": {
   "165": "d|75|Unspecified injury - 75% chance of playing",
@@ -18,11 +19,11 @@
   "379": "a|None|",
   "4": "a|None|",
   "40": "a|None|",
-  "423": "d|75|Unspecified injury - 75% chance of playing",
+  "423": "d|50|Unspecified injury - 50% chance of playing",
   "426": "a|None|",
   "427": "a|None|",
   "496": "a|None|",
-  "499": "d|75|Unspecified injury - 75% chance of playing",
+  "499": "a|100|",
   "534": "a|None|",
   "557": "a|None|",
   "8": "a|None|"

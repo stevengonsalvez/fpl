@@ -1,7 +1,7 @@
 {
   "gameweek": 5,
   "deadline_utc": "2026-09-18T17:30:00Z",
-  "captured_at_utc": "2026-09-18T10:51:23.695553+00:00",
+  "captured_at_utc": "2026-09-18T14:50:39.451199+00:00",
   "fixtures": [
     {
       "home": "BRE",
@@ -152,101 +152,115 @@
         "id": 453,
         "name": "Barnes",
         "team": "NEW",
-        "target_pct": 101.7,
+        "target_pct": 112.8,
         "cost": 6.0
       },
       {
         "id": 31,
         "name": "Konsa",
         "team": "ARS",
-        "target_pct": 96.0,
+        "target_pct": 103.0,
         "cost": 4.5
       },
       {
         "id": 236,
         "name": "Dewsbury-Hall",
         "team": "EVE",
-        "target_pct": 82.8,
+        "target_pct": 93.4,
         "cost": 6.5
+      },
+      {
+        "id": 233,
+        "name": "Mykolenko",
+        "team": "EVE",
+        "target_pct": 88.0,
+        "cost": 4.5
       },
       {
         "id": 1,
         "name": "Raya",
         "team": "ARS",
-        "target_pct": 82.6,
+        "target_pct": 86.3,
         "cost": 6.0
+      },
+      {
+        "id": 167,
+        "name": "Delap",
+        "team": "NFO",
+        "target_pct": 83.5,
+        "cost": 5.5
       }
     ],
     "imminent_falls": [
       {
-        "id": 492,
-        "name": "Awoniyi",
-        "team": "COV",
-        "target_pct": -109.2,
-        "cost": 5.5
-      },
-      {
-        "id": 514,
-        "name": "Tel",
-        "team": "TOT",
-        "target_pct": -107.7,
-        "cost": 5.8
-      },
-      {
         "id": 455,
         "name": "Tonali",
         "team": "TOT",
-        "target_pct": -107.4,
+        "target_pct": -212.3,
         "cost": 5.4
-      },
-      {
-        "id": 594,
-        "name": "David",
-        "team": "BHA",
-        "target_pct": -106.7,
-        "cost": 6.0
       },
       {
         "id": 454,
         "name": "Elanga",
         "team": "NEW",
-        "target_pct": -106.2,
+        "target_pct": -134.4,
         "cost": 6.2
       },
       {
-        "id": 200,
-        "name": "Lacroix",
-        "team": "CHE",
-        "target_pct": -105.6,
-        "cost": 6.0
+        "id": 514,
+        "name": "Tel",
+        "team": "TOT",
+        "target_pct": -122.8,
+        "cost": 5.8
+      },
+      {
+        "id": 492,
+        "name": "Awoniyi",
+        "team": "COV",
+        "target_pct": -122.0,
+        "cost": 5.5
       },
       {
         "id": 237,
         "name": "Ndiaye",
         "team": "MCI",
-        "target_pct": -105.6,
+        "target_pct": -114.0,
         "cost": 5.9
       },
       {
-        "id": 465,
-        "name": "Osula",
-        "team": "NEW",
-        "target_pct": -104.1,
-        "cost": 5.9
+        "id": 594,
+        "name": "David",
+        "team": "BHA",
+        "target_pct": -113.5,
+        "cost": 6.0
       },
       {
-        "id": 188,
-        "name": "Torp",
-        "team": "COV",
-        "target_pct": -103.9,
-        "cost": 5.4
+        "id": 200,
+        "name": "Lacroix",
+        "team": "CHE",
+        "target_pct": -111.8,
+        "cost": 6.0
+      },
+      {
+        "id": 565,
+        "name": "M.Sangar\u00e9",
+        "team": "BRE",
+        "target_pct": -110.7,
+        "cost": 5.7
       },
       {
         "id": 108,
         "name": "Wilson",
         "team": "BRE",
-        "target_pct": -103.8,
+        "target_pct": -109.3,
         "cost": 5.5
+      },
+      {
+        "id": 188,
+        "name": "Torp",
+        "team": "COV",
+        "target_pct": -108.7,
+        "cost": 5.4
       }
     ]
   },
@@ -268,10 +282,10 @@
       "team": "TOT",
       "position": "DEF",
       "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
-      "clean": false
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
     },
     {
       "id": 8,
@@ -401,8 +415,8 @@
       "position": "DEF",
       "is_starter": false,
       "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
+      "chance": 50,
+      "news": "Unspecified injury - 50% chance of playing",
       "clean": false
     },
     {
