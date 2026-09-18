@@ -41,11 +41,24 @@ def build_reminder_text():
     tin = sorted(boot["elements"], key=lambda x: x["transfers_in_event"], reverse=True)[:3]
     tin_str = ", ".join(f"{p['web_name']} ({teams[p['team']]})" for p in tin)
 
+    form_players = sorted(boot["elements"], key=lambda x: float(x.get("form") or 0), reverse=True)[:3]
+    form_str = ", ".join(f"{p['web_name']} ({teams[p['team']]}, {p['total_points']} pts)" for p in form_players)
+
+    parts = deadline_str.split(",")
+    day_part = parts[0]
+    time_part = parts[1].strip() if len(parts) > 1 else ""
+
     body = (
         f"FPL GW{gw_id} reminder\n\n"
-        f"Deadline: {deadline_str} ({dl[:16]} UTC).\n\n"
-        f"Key Fixtures:\n" + "\n".join(fix_lines[:5]) + "\n\n"
-        f"Transfer momentum: {tin_str}."
+        f"Deadline: Today ({day_part}), {time_part} (17:30 UTC).\n"
+        f"Note: Friday night early kickoff (Brentford v Chelsea at 20:00 BST).\n\n"
+        f"Key Fixtures:\n" + "\n".join(fix_lines[:6]) + "\n\n"
+        f"High-profile plays & notes:\n"
+        f"• Captain picks: Haaland (MCI v SUN), Isak (LIV at BOU), Palmer (CHE at BRE), Bruno Fernandes (MUN at FUL).\n"
+        f"• Top form: {form_str}.\n"
+        f"• Transfer momentum: {tin_str}.\n"
+        f"• Flag watch: João Pedro (CHE, 75% doubt, plays tonight), Pedro Porro (TOT, 75%), Shaw (MUN, 75%).\n\n"
+        f"Cunha Matata: 2 free transfers banked, Isak (C). Remember changes lock at 18:30 BST!"
     )
     return body
 
