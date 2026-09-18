@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-18T05:39:03.118660+00:00
+**Captured:** 2026-09-18T08:53:43.206821+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barnes (NEW) £6.0m: 94.5%
-- Konsa (ARS) £4.5m: 90.7%
-- Raya (ARS) £6.0m: 80.1%
+- Barnes (NEW) £6.0m: 98.2%
+- Konsa (ARS) £4.5m: 93.7%
+- Raya (ARS) £6.0m: 81.4%
 
 ### Falls (Target <= -80%)
-- David (BHA) £6.0m: -101.9%
-- Lacroix (CHE) £6.0m: -101.4%
-- Osula (NEW) £5.9m: -101.1%
-- Awoniyi (COV) £5.5m: -101.0%
-- Tel (TOT) £5.8m: -100.7%
+- Awoniyi (COV) £5.5m: -105.4%
+- David (BHA) £6.0m: -104.4%
+- Tel (TOT) £5.8m: -104.2%
+- Lacroix (CHE) £6.0m: -103.7%
+- Tonali (TOT) £5.4m: -103.5%
 
 ## 4. Squad Availability Doubts
 
