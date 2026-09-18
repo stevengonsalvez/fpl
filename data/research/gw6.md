@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-18T18:14:21.020113+00:00
+**Captured:** 2026-09-18T21:08:22.400877+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barnes (NEW) £6.0m: 129.7%
-- Konsa (ARS) £4.5m: 114.0%
-- Dewsbury-Hall (EVE) £6.5m: 108.6%
-- Mykolenko (EVE) £4.5m: 103.0%
-- Delap (NFO) £5.5m: 102.8%
+- Barnes (NEW) £6.0m: 134.0%
+- Konsa (ARS) £4.5m: 118.1%
+- Dewsbury-Hall (EVE) £6.5m: 111.7%
+- Delap (NFO) £5.5m: 106.9%
+- Mykolenko (EVE) £4.5m: 106.3%
 
 ### Falls (Target <= -80%)
-- Tonali (TOT) £5.4m: -227.3%
-- Elanga (NEW) £6.2m: -180.4%
-- Tel (TOT) £5.8m: -146.6%
-- Awoniyi (COV) £5.5m: -140.9%
-- Ndiaye (MCI) £5.9m: -127.3%
+- Tonali (TOT) £5.4m: -226.2%
+- Elanga (NEW) £6.2m: -178.6%
+- Tel (TOT) £5.8m: -149.4%
+- Awoniyi (COV) £5.5m: -142.1%
+- Ndiaye (MCI) £5.9m: -129.1%
 
 ## 4. Squad Availability Doubts
 
@@ -56,12 +56,12 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Bogle | DEF | LEE | 9.2 | 37 | £4.6m |
-| Groß | MID | BHA | 8.2 | 33 | £5.7m |
-| João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
-| Gvardiol | DEF | MCI | 8.2 | 33 | £5.7m |
-| Haaland | FWD | MCI | 8.2 | 33 | £15.6m |
-| De Cuyper | DEF | BHA | 8.0 | 32 | £4.9m |
-| Saka | MID | ARS | 7.5 | 30 | £9.5m |
-| Schade | MID | BRE | 7.5 | 30 | £6.1m |
+| Schade | MID | BRE | 7.8 | 39 | £6.1m |
+| Bogle | DEF | LEE | 7.4 | 37 | £4.6m |
+| Groß | MID | BHA | 6.6 | 33 | £5.7m |
+| João Pedro | FWD | CHE | 6.6 | 33 | £7.8m |
+| Gvardiol | DEF | MCI | 6.6 | 33 | £5.7m |
+| Haaland | FWD | MCI | 6.6 | 33 | £15.6m |
+| De Cuyper | DEF | BHA | 6.4 | 32 | £4.9m |
+| Saka | MID | ARS | 6.0 | 30 | £9.5m |
 
