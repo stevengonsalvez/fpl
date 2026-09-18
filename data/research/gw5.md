@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-17T22:22:29.073914+00:00
+**Captured:** 2026-09-18T00:40:58.177137+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,15 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Bogle (LEE) £4.5m: 122.1%
-- Haaland (MCI) £15.5m: 102.0%
-- Ødegaard (ARS) £6.7m: 100.1%
-- Barnes (NEW) £6.0m: 90.3%
-- Konsa (ARS) £4.5m: 88.0%
+- Barnes (NEW) £6.0m: 92.1%
+- Konsa (ARS) £4.5m: 89.1%
 
 ### Falls (Target <= -80%)
-- Wirtz (LIV) £7.4m: -114.9%
-- Wilson (LEE) £6.3m: -111.6%
-- Damsgaard (BRE) £5.5m: -108.5%
-- Frimpong (LIV) £5.4m: -107.1%
-- Sakamoto (COV) £4.9m: -106.9%
+- David (BHA) £6.0m: -100.3%
+- Osula (NEW) £5.9m: -100.2%
+- Lacroix (CHE) £6.0m: -100.0%
+- Kesler-Hayden (COV) £4.0m: -99.5%
+- Yoro (MUN) £4.9m: -99.1%
 
 ## 4. Squad Availability Doubts
 
@@ -57,11 +54,11 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Bogle | DEF | LEE | 9.2 | 37 | £4.5m |
+| Bogle | DEF | LEE | 9.2 | 37 | £4.6m |
 | Groß | MID | BHA | 8.2 | 33 | £5.7m |
 | João Pedro | FWD | CHE | 8.2 | 33 | £7.8m |
 | Gvardiol | DEF | MCI | 8.2 | 33 | £5.7m |
-| Haaland | FWD | MCI | 8.2 | 33 | £15.5m |
+| Haaland | FWD | MCI | 8.2 | 33 | £15.6m |
 | De Cuyper | DEF | BHA | 8.0 | 32 | £4.9m |
 | Saka | MID | ARS | 7.5 | 30 | £9.5m |
 | Schade | MID | BRE | 7.5 | 30 | £6.1m |

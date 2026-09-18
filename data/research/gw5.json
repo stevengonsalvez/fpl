@@ -1,7 +1,7 @@
 {
   "gameweek": 5,
   "deadline_utc": "2026-09-18T17:30:00Z",
-  "captured_at_utc": "2026-09-17T22:22:29.073914+00:00",
+  "captured_at_utc": "2026-09-18T00:40:58.177137+00:00",
   "fixtures": [
     {
       "home": "BRE",
@@ -149,111 +149,90 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 330,
-        "name": "Bogle",
-        "team": "LEE",
-        "target_pct": 122.1,
-        "cost": 4.5
-      },
-      {
-        "id": 411,
-        "name": "Haaland",
-        "team": "MCI",
-        "target_pct": 102.0,
-        "cost": 15.5
-      },
-      {
-        "id": 15,
-        "name": "\u00d8degaard",
-        "team": "ARS",
-        "target_pct": 100.1,
-        "cost": 6.7
-      },
-      {
         "id": 453,
         "name": "Barnes",
         "team": "NEW",
-        "target_pct": 90.3,
+        "target_pct": 92.1,
         "cost": 6.0
       },
       {
         "id": 31,
         "name": "Konsa",
         "team": "ARS",
-        "target_pct": 88.0,
+        "target_pct": 89.1,
         "cost": 4.5
       }
     ],
     "imminent_falls": [
       {
-        "id": 366,
-        "name": "Wirtz",
-        "team": "LIV",
-        "target_pct": -114.9,
-        "cost": 7.4
+        "id": 594,
+        "name": "David",
+        "team": "BHA",
+        "target_pct": -100.3,
+        "cost": 6.0
       },
       {
-        "id": 260,
-        "name": "Wilson",
-        "team": "LEE",
-        "target_pct": -111.6,
-        "cost": 6.3
+        "id": 465,
+        "name": "Osula",
+        "team": "NEW",
+        "target_pct": -100.2,
+        "cost": 5.9
       },
       {
-        "id": 96,
-        "name": "Damsgaard",
-        "team": "BRE",
-        "target_pct": -108.5,
-        "cost": 5.5
+        "id": 200,
+        "name": "Lacroix",
+        "team": "CHE",
+        "target_pct": -100.0,
+        "cost": 6.0
       },
       {
-        "id": 357,
-        "name": "Frimpong",
-        "team": "LIV",
-        "target_pct": -107.1,
-        "cost": 5.4
-      },
-      {
-        "id": 185,
-        "name": "Sakamoto",
+        "id": 177,
+        "name": "Kesler-Hayden",
         "team": "COV",
-        "target_pct": -106.9,
+        "target_pct": -99.5,
+        "cost": 4.0
+      },
+      {
+        "id": 420,
+        "name": "Yoro",
+        "team": "MUN",
+        "target_pct": -99.1,
         "cost": 4.9
       },
       {
-        "id": 315,
-        "name": "Fatawu",
-        "team": "IPS",
-        "target_pct": -106.5,
+        "id": 188,
+        "name": "Torp",
+        "team": "COV",
+        "target_pct": -99.0,
+        "cost": 5.4
+      },
+      {
+        "id": 108,
+        "name": "Wilson",
+        "team": "BRE",
+        "target_pct": -98.8,
         "cost": 5.5
       },
       {
-        "id": 189,
-        "name": "Shepherd",
-        "team": "COV",
-        "target_pct": -106.2,
-        "cost": 4.5
-      },
-      {
-        "id": 499,
-        "name": "Pedro Porro",
-        "team": "TOT",
-        "target_pct": -104.4,
-        "cost": 5.5
-      },
-      {
-        "id": 183,
-        "name": "Rudoni",
-        "team": "COV",
-        "target_pct": -104.0,
-        "cost": 5.0
-      },
-      {
-        "id": 308,
-        "name": "Furlong",
-        "team": "IPS",
-        "target_pct": -102.9,
+        "id": 539,
+        "name": "O'Nien",
+        "team": "SUN",
+        "target_pct": -98.8,
         "cost": 4.0
+      },
+      {
+        "id": 492,
+        "name": "Awoniyi",
+        "team": "COV",
+        "target_pct": -98.6,
+        "cost": 5.5
+      },
+      {
+        "id": 237,
+        "name": "Ndiaye",
+        "team": "MCI",
+        "target_pct": -98.5,
+        "cost": 5.9
       }
     ]
   },
@@ -432,7 +411,7 @@
       "position": "DEF",
       "form": 9.2,
       "total_points": 37,
-      "cost": 4.5
+      "cost": 4.6
     },
     {
       "id": 124,
@@ -468,7 +447,7 @@
       "position": "FWD",
       "form": 8.2,
       "total_points": 33,
-      "cost": 15.5
+      "cost": 15.6
     },
     {
       "id": 115,
