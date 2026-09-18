@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 5
 
 **Deadline:** 2026-09-18T17:30:00Z
-**Captured:** 2026-09-18T00:40:58.177137+00:00
+**Captured:** 2026-09-18T05:39:03.118660+00:00
 
 ## 1. Key Fixtures
 
@@ -20,29 +20,30 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 144.8% |
-| João Pedro | CHE | 58.7% |
-| B.Fernandes | MUN | 49.9% |
+| Haaland | MCI | 151.8% |
+| João Pedro | CHE | 54.9% |
 | Calafiori | ARS | 49.5% |
-| Raya | ARS | 40.8% |
-| Palmer | CHE | 39.9% |
-| Rogers | CHE | 39.4% |
-| Szoboszlai | LIV | 35.8% |
-| Cherki | MCI | 29.6% |
-| Isak | LIV | 23.6% |
+| B.Fernandes | MUN | 49.1% |
+| Raya | ARS | 41.0% |
+| Rogers | CHE | 39.9% |
+| Szoboszlai | LIV | 35.3% |
+| Palmer | CHE | 34.5% |
+| Cherki | MCI | 29.5% |
+| Gvardiol | MCI | 24.3% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barnes (NEW) £6.0m: 92.1%
-- Konsa (ARS) £4.5m: 89.1%
+- Barnes (NEW) £6.0m: 94.5%
+- Konsa (ARS) £4.5m: 90.7%
+- Raya (ARS) £6.0m: 80.1%
 
 ### Falls (Target <= -80%)
-- David (BHA) £6.0m: -100.3%
-- Osula (NEW) £5.9m: -100.2%
-- Lacroix (CHE) £6.0m: -100.0%
-- Kesler-Hayden (COV) £4.0m: -99.5%
-- Yoro (MUN) £4.9m: -99.1%
+- David (BHA) £6.0m: -101.9%
+- Lacroix (CHE) £6.0m: -101.4%
+- Osula (NEW) £5.9m: -101.1%
+- Awoniyi (COV) £5.5m: -101.0%
+- Tel (TOT) £5.8m: -100.7%
 
 ## 4. Squad Availability Doubts
 
