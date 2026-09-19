@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-19T00:12:23.428656+00:00
+**Captured:** 2026-09-19T03:54:30.871697+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 126.9% |
-| João Pedro | CHE | 67.2% |
-| B.Fernandes | MUN | 57.0% |
-| Calafiori | ARS | 49.6% |
-| Rogers | CHE | 41.9% |
-| Raya | ARS | 41.0% |
-| Szoboszlai | LIV | 35.2% |
-| Palmer | CHE | 31.2% |
-| Cherki | MCI | 29.1% |
-| Gvardiol | MCI | 24.3% |
+| Haaland | MCI | 131.8% |
+| B.Fernandes | MUN | 54.8% |
+| João Pedro | CHE | 52.4% |
+| Calafiori | ARS | 50.1% |
+| Rogers | CHE | 43.0% |
+| Raya | ARS | 41.5% |
+| Szoboszlai | LIV | 34.5% |
+| Palmer | CHE | 31.0% |
+| Cherki | MCI | 28.9% |
+| Gvardiol | MCI | 25.5% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Raya (ARS) £6.0m: 94.9%
-- Calafiori (ARS) £5.8m: 85.8%
-- Barry (EVE) £5.6m: 83.1%
-- Wissa (NEW) £6.2m: 82.1%
-- Tzolakis (HUL) £4.6m: 80.3%
+- Raya (ARS) £6.0m: 95.3%
+- Calafiori (ARS) £5.8m: 86.0%
+- Barry (EVE) £5.6m: 83.2%
+- Wissa (NEW) £6.2m: 82.4%
+- Tzolakis (HUL) £4.6m: 80.5%
 
 ### Falls (Target <= -80%)
-- Reinildo (SUN) £4.5m: -99.9%
-- Georginio (BHA) £5.4m: -99.5%
-- Maeda (IPS) £5.4m: -99.5%
+- Reinildo (SUN) £4.5m: -100.2%
+- Maeda (IPS) £5.4m: -99.9%
+- Georginio (BHA) £5.4m: -99.7%
 - Ji-soo (BRE) £4.5m: -99.4%
-- Alderete (SUN) £4.9m: -99.2%
+- Mudryk (TOT) £5.4m: -99.3%
 
 ## 4. Squad Availability Doubts
 
