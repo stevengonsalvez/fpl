@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-19T03:54:30.871697+00:00
+**Captured:** 2026-09-19T08:40:41.335154+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Raya (ARS) £6.0m: 95.3%
-- Calafiori (ARS) £5.8m: 86.0%
-- Barry (EVE) £5.6m: 83.2%
-- Wissa (NEW) £6.2m: 82.4%
-- Tzolakis (HUL) £4.6m: 80.5%
+- Raya (ARS) £6.0m: 95.9%
+- Calafiori (ARS) £5.8m: 86.4%
+- Barry (EVE) £5.6m: 83.3%
+- Wissa (NEW) £6.2m: 83.0%
+- Tzolakis (HUL) £4.6m: 80.8%
 
 ### Falls (Target <= -80%)
-- Reinildo (SUN) £4.5m: -100.2%
-- Maeda (IPS) £5.4m: -99.9%
-- Georginio (BHA) £5.4m: -99.7%
-- Ji-soo (BRE) £4.5m: -99.4%
-- Mudryk (TOT) £5.4m: -99.3%
+- Reinildo (SUN) £4.5m: -100.8%
+- Maeda (IPS) £5.4m: -100.7%
+- Mudryk (TOT) £5.4m: -100.4%
+- Georginio (BHA) £5.4m: -100.0%
+- Ji-soo (BRE) £4.5m: -99.8%
 
 ## 4. Squad Availability Doubts
 
