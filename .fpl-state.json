@@ -8,7 +8,7 @@
   "gw5-t6"
  ],
  "flags": {
-  "165": "d|75|Unspecified injury - 75% chance of playing",
+  "165": "d|75|Knee injury - 75% chance of playing",
   "302": "a|None|",
   "346": "a|None|",
   "368": "a|None|",
@@ -19,7 +19,7 @@
   "426": "a|None|",
   "427": "a|None|",
   "496": "a|None|",
-  "499": "a|100|",
+  "499": "d|75|Unspecified injury - 75% chance of playing",
   "534": "a|None|",
   "557": "a|None|",
   "8": "a|None|"
