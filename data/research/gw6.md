@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-18T21:08:22.400877+00:00
+**Captured:** 2026-09-19T00:12:23.428656+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barnes (NEW) £6.0m: 134.0%
-- Konsa (ARS) £4.5m: 118.1%
-- Dewsbury-Hall (EVE) £6.5m: 111.7%
-- Delap (NFO) £5.5m: 106.9%
-- Mykolenko (EVE) £4.5m: 106.3%
+- Raya (ARS) £6.0m: 94.9%
+- Calafiori (ARS) £5.8m: 85.8%
+- Barry (EVE) £5.6m: 83.1%
+- Wissa (NEW) £6.2m: 82.1%
+- Tzolakis (HUL) £4.6m: 80.3%
 
 ### Falls (Target <= -80%)
-- Tonali (TOT) £5.4m: -226.2%
-- Elanga (NEW) £6.2m: -178.6%
-- Tel (TOT) £5.8m: -149.4%
-- Awoniyi (COV) £5.5m: -142.1%
-- Ndiaye (MCI) £5.9m: -129.1%
+- Reinildo (SUN) £4.5m: -99.9%
+- Georginio (BHA) £5.4m: -99.5%
+- Maeda (IPS) £5.4m: -99.5%
+- Ji-soo (BRE) £4.5m: -99.4%
+- Alderete (SUN) £4.9m: -99.2%
 
 ## 4. Squad Availability Doubts
 

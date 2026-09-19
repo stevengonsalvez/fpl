@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-09-18T21:08:22.400877+00:00",
+  "captured_at_utc": "2026-09-19T00:12:23.428656+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -149,146 +149,111 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 453,
-        "name": "Barnes",
-        "team": "NEW",
-        "target_pct": 134.0,
-        "cost": 6.0
-      },
-      {
-        "id": 31,
-        "name": "Konsa",
-        "team": "ARS",
-        "target_pct": 118.1,
-        "cost": 4.5
-      },
-      {
-        "id": 236,
-        "name": "Dewsbury-Hall",
-        "team": "EVE",
-        "target_pct": 111.7,
-        "cost": 6.5
-      },
-      {
-        "id": 167,
-        "name": "Delap",
-        "team": "NFO",
-        "target_pct": 106.9,
-        "cost": 5.5
-      },
-      {
-        "id": 233,
-        "name": "Mykolenko",
-        "team": "EVE",
-        "target_pct": 106.3,
-        "cost": 4.5
-      },
-      {
         "id": 1,
         "name": "Raya",
         "team": "ARS",
-        "target_pct": 93.6,
+        "target_pct": 94.9,
         "cost": 6.0
       },
       {
         "id": 8,
         "name": "Calafiori",
         "team": "ARS",
-        "target_pct": 85.3,
+        "target_pct": 85.8,
         "cost": 5.8
       },
       {
         "id": 249,
         "name": "Barry",
         "team": "EVE",
-        "target_pct": 82.9,
+        "target_pct": 83.1,
         "cost": 5.6
       },
       {
         "id": 464,
         "name": "Wissa",
         "team": "NEW",
-        "target_pct": 81.1,
+        "target_pct": 82.1,
         "cost": 6.2
       },
       {
         "id": 572,
         "name": "Tzolakis",
         "team": "HUL",
-        "target_pct": 80.0,
+        "target_pct": 80.3,
         "cost": 4.6
       }
     ],
     "imminent_falls": [
       {
-        "id": 455,
-        "name": "Tonali",
-        "team": "TOT",
-        "target_pct": -226.2,
+        "id": 536,
+        "name": "Reinildo",
+        "team": "SUN",
+        "target_pct": -99.9,
+        "cost": 4.5
+      },
+      {
+        "id": 125,
+        "name": "Georginio",
+        "team": "BHA",
+        "target_pct": -99.5,
         "cost": 5.4
       },
       {
-        "id": 454,
-        "name": "Elanga",
-        "team": "NEW",
-        "target_pct": -178.6,
-        "cost": 6.2
+        "id": 562,
+        "name": "Maeda",
+        "team": "IPS",
+        "target_pct": -99.5,
+        "cost": 5.4
       },
       {
-        "id": 514,
-        "name": "Tel",
+        "id": 92,
+        "name": "Ji-soo",
+        "team": "BRE",
+        "target_pct": -99.4,
+        "cost": 4.5
+      },
+      {
+        "id": 535,
+        "name": "Alderete",
+        "team": "SUN",
+        "target_pct": -99.2,
+        "cost": 4.9
+      },
+      {
+        "id": 312,
+        "name": "Taylor",
+        "team": "IPS",
+        "target_pct": -98.9,
+        "cost": 4.5
+      },
+      {
+        "id": 578,
+        "name": "Mudryk",
         "team": "TOT",
-        "target_pct": -149.4,
-        "cost": 5.8
+        "target_pct": -98.7,
+        "cost": 5.4
       },
       {
-        "id": 492,
-        "name": "Awoniyi",
-        "team": "COV",
-        "target_pct": -142.1,
+        "id": 25,
+        "name": "Gy\u00f6keres",
+        "team": "ARS",
+        "target_pct": -97.8,
+        "cost": 7.2
+      },
+      {
+        "id": 7,
+        "name": "Lewis-Skelly",
+        "team": "ARS",
+        "target_pct": -97.7,
         "cost": 5.5
       },
       {
-        "id": 237,
-        "name": "Ndiaye",
-        "team": "MCI",
-        "target_pct": -129.1,
-        "cost": 5.9
-      },
-      {
-        "id": 565,
-        "name": "M.Sangar\u00e9",
-        "team": "BRE",
-        "target_pct": -127.1,
-        "cost": 5.7
-      },
-      {
-        "id": 552,
-        "name": "Brobbey",
-        "team": "SUN",
-        "target_pct": -126.0,
-        "cost": 5.8
-      },
-      {
-        "id": 594,
-        "name": "David",
-        "team": "BHA",
-        "target_pct": -123.5,
-        "cost": 6.0
-      },
-      {
-        "id": 423,
-        "name": "Shaw",
-        "team": "MUN",
-        "target_pct": -122.6,
-        "cost": 4.4
-      },
-      {
-        "id": 369,
-        "name": "Ngumoha",
-        "team": "LIV",
-        "target_pct": -121.3,
-        "cost": 5.8
+        "id": 267,
+        "name": "Luki\u0107",
+        "team": "IPS",
+        "target_pct": -97.6,
+        "cost": 5.0
       }
     ]
   },
