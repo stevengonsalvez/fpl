@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-19T16:41:41.083183+00:00
+**Captured:** 2026-09-19T19:22:55.925776+00:00
 
 ## 1. Key Fixtures
 
@@ -34,22 +34,22 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £5.7m: 101.4%
-- Raya (ARS) £6.0m: 98.3%
-- Calafiori (ARS) £5.8m: 87.3%
-- Barry (EVE) £5.6m: 86.2%
-- Tzolakis (HUL) £4.6m: 82.2%
+- Groß (BHA) £5.7m: 130.7%
+- Raya (ARS) £6.0m: 98.6%
+- Barry (EVE) £5.6m: 87.2%
+- Calafiori (ARS) £5.8m: 87.0%
+- Tzolakis (HUL) £4.6m: 83.2%
 
 ### Falls (Target <= -80%)
-- Maeda (IPS) £5.4m: -106.3%
-- Mudryk (TOT) £5.4m: -105.8%
-- Lewis-Skelly (ARS) £5.5m: -104.3%
-- Georginio (BHA) £5.4m: -104.1%
-- Reinildo (SUN) £4.5m: -103.8%
+- Maeda (IPS) £5.4m: -108.4%
+- Mudryk (TOT) £5.4m: -107.6%
+- Lewis-Skelly (ARS) £5.5m: -106.8%
+- Georginio (BHA) £5.4m: -105.0%
+- Reinildo (SUN) £4.5m: -104.9%
 
 ## 4. Squad Availability Doubts
 
-- [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
+- [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [XI] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
 - [BEN] DEF Shaw (MUN): status=d, chance=50%, news: Unspecified injury - 50% chance of playing
 
