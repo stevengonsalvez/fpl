@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-09-19T21:57:44.310941+00:00",
+  "captured_at_utc": "2026-09-20T01:37:39.293757+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -149,111 +149,104 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 124,
-        "name": "Gro\u00df",
-        "team": "BHA",
-        "target_pct": 146.6,
-        "cost": 5.7
-      },
-      {
         "id": 1,
         "name": "Raya",
         "team": "ARS",
-        "target_pct": 99.0,
+        "target_pct": 99.4,
         "cost": 6.0
       },
       {
         "id": 249,
         "name": "Barry",
         "team": "EVE",
-        "target_pct": 87.8,
+        "target_pct": 88.3,
         "cost": 5.6
       },
       {
         "id": 8,
         "name": "Calafiori",
         "team": "ARS",
-        "target_pct": 86.8,
+        "target_pct": 86.7,
         "cost": 5.8
       },
       {
         "id": 572,
         "name": "Tzolakis",
         "team": "HUL",
-        "target_pct": 83.7,
+        "target_pct": 84.2,
         "cost": 4.6
       }
     ],
     "imminent_falls": [
       {
-        "id": 562,
-        "name": "Maeda",
-        "team": "IPS",
-        "target_pct": -109.7,
-        "cost": 5.4
-      },
-      {
-        "id": 578,
-        "name": "Mudryk",
-        "team": "TOT",
-        "target_pct": -108.5,
-        "cost": 5.4
-      },
-      {
-        "id": 7,
-        "name": "Lewis-Skelly",
-        "team": "ARS",
-        "target_pct": -108.0,
-        "cost": 5.5
-      },
-      {
-        "id": 125,
-        "name": "Georginio",
-        "team": "BHA",
-        "target_pct": -105.7,
-        "cost": 5.4
-      },
-      {
-        "id": 536,
-        "name": "Reinildo",
-        "team": "SUN",
-        "target_pct": -105.4,
-        "cost": 4.5
-      },
-      {
-        "id": 187,
-        "name": "Eccles",
-        "team": "COV",
-        "target_pct": -103.2,
-        "cost": 4.9
-      },
-      {
-        "id": 535,
-        "name": "Alderete",
-        "team": "SUN",
-        "target_pct": -103.2,
-        "cost": 4.9
-      },
-      {
-        "id": 267,
-        "name": "Luki\u0107",
-        "team": "IPS",
-        "target_pct": -103.0,
+        "id": 62,
+        "name": "Diakit\u00e9",
+        "team": "BOU",
+        "target_pct": -99.0,
         "cost": 5.0
       },
       {
-        "id": 25,
-        "name": "Gy\u00f6keres",
-        "team": "ARS",
-        "target_pct": -102.5,
-        "cost": 7.2
+        "id": 337,
+        "name": "Aaronson",
+        "team": "LEE",
+        "target_pct": -98.9,
+        "cost": 5.4
       },
       {
-        "id": 324,
-        "name": "Mehmeti",
-        "team": "IPS",
-        "target_pct": -102.4,
+        "id": 232,
+        "name": "O'Brien",
+        "team": "EVE",
+        "target_pct": -98.6,
         "cost": 4.9
+      },
+      {
+        "id": 448,
+        "name": "Burn",
+        "team": "NEW",
+        "target_pct": -97.6,
+        "cost": 4.9
+      },
+      {
+        "id": 158,
+        "name": "Gittens",
+        "team": "CHE",
+        "target_pct": -96.6,
+        "cost": 5.9
+      },
+      {
+        "id": 575,
+        "name": "Yirenkyi",
+        "team": "COV",
+        "target_pct": -95.3,
+        "cost": 4.9
+      },
+      {
+        "id": 61,
+        "name": "Truffert",
+        "team": "BOU",
+        "target_pct": -94.8,
+        "cost": 5.5
+      },
+      {
+        "id": 571,
+        "name": "Florentino",
+        "team": "IPS",
+        "target_pct": -94.4,
+        "cost": 4.9
+      },
+      {
+        "id": 202,
+        "name": "Richards",
+        "team": "CRY",
+        "target_pct": -94.2,
+        "cost": 5.0
+      },
+      {
+        "id": 9,
+        "name": "Hincapie",
+        "team": "ARS",
+        "target_pct": -94.0,
+        "cost": 5.3
       }
     ]
   },
@@ -432,7 +425,7 @@
       "position": "MID",
       "form": 9.4,
       "total_points": 47,
-      "cost": 5.7
+      "cost": 5.8
     },
     {
       "id": 229,
