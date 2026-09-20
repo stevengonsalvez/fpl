@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-20T01:37:39.293757+00:00
+**Captured:** 2026-09-20T06:52:10.249573+00:00
 
 ## 1. Key Fixtures
 
@@ -20,30 +20,30 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 131.8% |
-| B.Fernandes | MUN | 54.8% |
-| João Pedro | CHE | 52.4% |
+| Haaland | MCI | 121.2% |
+| B.Fernandes | MUN | 55.1% |
+| João Pedro | CHE | 52.8% |
 | Calafiori | ARS | 50.1% |
-| Rogers | CHE | 43.0% |
-| Raya | ARS | 41.5% |
-| Szoboszlai | LIV | 34.5% |
-| Palmer | CHE | 31.0% |
-| Cherki | MCI | 28.9% |
-| Gvardiol | MCI | 25.5% |
+| Rogers | CHE | 43.8% |
+| Raya | ARS | 41.8% |
+| Szoboszlai | LIV | 34.1% |
+| Palmer | CHE | 31.1% |
+| Cherki | MCI | 28.6% |
+| Gvardiol | MCI | 25.7% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Raya (ARS) £6.0m: 99.4%
-- Barry (EVE) £5.6m: 88.3%
-- Calafiori (ARS) £5.8m: 86.7%
-- Tzolakis (HUL) £4.6m: 84.2%
+- Raya (ARS) £6.0m: 99.5%
+- Barry (EVE) £5.6m: 88.5%
+- Calafiori (ARS) £5.8m: 86.6%
+- Tzolakis (HUL) £4.6m: 84.5%
 
 ### Falls (Target <= -80%)
+- Aaronson (LEE) £5.4m: -99.5%
 - Diakité (BOU) £5.0m: -99.0%
-- Aaronson (LEE) £5.4m: -98.9%
-- O'Brien (EVE) £4.9m: -98.6%
-- Burn (NEW) £4.9m: -97.6%
+- O'Brien (EVE) £4.9m: -98.7%
+- Burn (NEW) £4.9m: -97.8%
 - Gittens (CHE) £5.9m: -96.6%
 
 ## 4. Squad Availability Doubts
