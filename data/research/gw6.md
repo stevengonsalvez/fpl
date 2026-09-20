@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-20T21:26:58.201444+00:00
+**Captured:** 2026-09-20T23:25:38.760114+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Kostoulas (BHA) £5.5m: 104.1%
-- Raya (ARS) £6.0m: 102.1%
-- Schade (BRE) £6.1m: 95.3%
-- Barry (EVE) £5.6m: 91.3%
-- Tzolakis (HUL) £4.6m: 89.7%
+- Schade (BRE) £6.1m: 99.1%
+- Barry (EVE) £5.6m: 91.5%
+- Tzolakis (HUL) £4.6m: 90.2%
+- Hall (NEW) £5.2m: 87.7%
+- Calafiori (ARS) £5.8m: 85.9%
 
 ### Falls (Target <= -80%)
-- Aaronson (LEE) £5.4m: -109.5%
-- Sessegnon (FUL) £4.4m: -104.7%
-- Fernandes (TOT) £5.8m: -104.0%
-- Burn (NEW) £4.9m: -103.6%
-- Hincapie (ARS) £5.3m: -103.2%
+- Gusto (CHE) £5.0m: -99.9%
+- Simms (COV) £5.0m: -99.9%
+- Lerma (CRY) £4.9m: -98.9%
+- Doucouré (CRY) £4.9m: -98.7%
+- B.Fernandes (MUN) £12.0m: -98.7%
 
 ## 4. Squad Availability Doubts
 
