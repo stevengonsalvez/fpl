@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-20T12:07:01.909205+00:00
+**Captured:** 2026-09-20T16:24:08.505913+00:00
 
 ## 1. Key Fixtures
 
@@ -34,23 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Raya (ARS) £6.0m: 99.6%
-- Barry (EVE) £5.6m: 89.2%
-- Calafiori (ARS) £5.8m: 86.5%
-- Tzolakis (HUL) £4.6m: 85.2%
+- Raya (ARS) £6.0m: 100.3%
+- Barry (EVE) £5.6m: 90.3%
+- Kostoulas (BHA) £5.5m: 89.8%
+- Tzolakis (HUL) £4.6m: 87.5%
+- Calafiori (ARS) £5.8m: 86.2%
 
 ### Falls (Target <= -80%)
-- Aaronson (LEE) £5.4m: -100.5%
-- Diakité (BOU) £5.0m: -99.3%
-- O'Brien (EVE) £4.9m: -99.2%
-- Burn (NEW) £4.9m: -98.7%
-- Gittens (CHE) £5.9m: -97.6%
+- Aaronson (LEE) £5.4m: -105.5%
+- Sessegnon (FUL) £4.4m: -102.8%
+- Burn (NEW) £4.9m: -101.3%
+- Diakité (BOU) £5.0m: -101.1%
+- Yirenkyi (COV) £4.9m: -100.3%
 
 ## 4. Squad Availability Doubts
 
 - [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [XI] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
-- [BEN] DEF Shaw (MUN): status=d, chance=50%, news: Unspecified injury - 50% chance of playing
 
 ## 5. Top Form Assets
 
@@ -58,10 +58,10 @@
 |---|---|---|---|---|---|
 | Groß | MID | BHA | 9.4 | 47 | £5.8m |
 | Tarkowski | DEF | EVE | 8.6 | 43 | £6.1m |
+| Bogle | DEF | LEE | 8.4 | 42 | £4.6m |
 | Schade | MID | BRE | 7.8 | 39 | £6.1m |
+| Haaland | FWD | MCI | 7.8 | 39 | £15.6m |
 | De Cuyper | DEF | BHA | 7.6 | 38 | £4.9m |
-| Bogle | DEF | LEE | 7.4 | 37 | £4.6m |
+| Gvardiol | DEF | MCI | 7.4 | 37 | £5.7m |
 | Maitland-Niles | DEF | EVE | 7.0 | 21 | £4.5m |
-| Tzolakis | GK | HUL | 6.8 | 34 | £4.6m |
-| João Pedro | FWD | CHE | 6.6 | 33 | £7.8m |
 
