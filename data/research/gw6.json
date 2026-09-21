@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-09-20T23:25:38.760114+00:00",
+  "captured_at_utc": "2026-09-21T01:26:36.068838+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -152,28 +152,28 @@
         "id": 94,
         "name": "Schade",
         "team": "BRE",
-        "target_pct": 99.1,
+        "target_pct": 100.8,
         "cost": 6.1
       },
       {
         "id": 249,
         "name": "Barry",
         "team": "EVE",
-        "target_pct": 91.5,
+        "target_pct": 91.6,
         "cost": 5.6
       },
       {
         "id": 572,
         "name": "Tzolakis",
         "team": "HUL",
-        "target_pct": 90.2,
+        "target_pct": 90.5,
         "cost": 4.6
       },
       {
         "id": 449,
         "name": "Hall",
         "team": "NEW",
-        "target_pct": 87.7,
+        "target_pct": 88.6,
         "cost": 5.2
       },
       {
@@ -189,70 +189,70 @@
         "id": 144,
         "name": "Gusto",
         "team": "CHE",
-        "target_pct": -99.9,
+        "target_pct": -100.3,
         "cost": 5.0
       },
       {
         "id": 195,
         "name": "Simms",
         "team": "COV",
-        "target_pct": -99.9,
+        "target_pct": -100.3,
         "cost": 5.0
       },
       {
         "id": 213,
         "name": "Lerma",
         "team": "CRY",
-        "target_pct": -98.9,
-        "cost": 4.9
-      },
-      {
-        "id": 218,
-        "name": "Doucour\u00e9",
-        "team": "CRY",
-        "target_pct": -98.7,
+        "target_pct": -99.3,
         "cost": 4.9
       },
       {
         "id": 426,
         "name": "B.Fernandes",
         "team": "MUN",
-        "target_pct": -98.7,
+        "target_pct": -99.1,
         "cost": 12.0
+      },
+      {
+        "id": 218,
+        "name": "Doucour\u00e9",
+        "team": "CRY",
+        "target_pct": -98.9,
+        "cost": 4.9
       },
       {
         "id": 61,
         "name": "Truffert",
         "team": "BOU",
-        "target_pct": -98.5,
+        "target_pct": -98.7,
         "cost": 5.5
       },
       {
         "id": 186,
         "name": "Mason-Clark",
         "team": "COV",
-        "target_pct": -98.2,
+        "target_pct": -98.5,
         "cost": 5.4
       },
       {
         "id": 323,
         "name": "McAteer",
         "team": "IPS",
-        "target_pct": -97.1,
+        "target_pct": -97.5,
         "cost": 4.5
       },
       {
         "id": 297,
         "name": "Gyabi",
         "team": "HUL",
-        "target_pct": -97.0,
+        "target_pct": -97.3,
         "cost": 4.5
       },
       {
         "id": 387,
         "name": "O'Reilly",
         "team": "MCI",
-        "target_pct": -96.8,
+        "target_pct": -97.2,
         "cost": 6.4
       }
     ]
