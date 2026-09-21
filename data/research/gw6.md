@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-21T01:26:36.068838+00:00
+**Captured:** 2026-09-21T06:57:49.700908+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 121.2% |
-| B.Fernandes | MUN | 55.1% |
-| João Pedro | CHE | 52.8% |
-| Calafiori | ARS | 50.1% |
-| Rogers | CHE | 43.8% |
-| Raya | ARS | 41.8% |
-| Szoboszlai | LIV | 34.1% |
-| Palmer | CHE | 31.1% |
-| Cherki | MCI | 28.6% |
-| Gvardiol | MCI | 25.7% |
+| Haaland | MCI | 123.1% |
+| B.Fernandes | MUN | 52.9% |
+| João Pedro | CHE | 51.5% |
+| Calafiori | ARS | 50.0% |
+| Rogers | CHE | 42.7% |
+| Raya | ARS | 42.0% |
+| Szoboszlai | LIV | 33.6% |
+| Palmer | CHE | 30.1% |
+| Cherki | MCI | 29.5% |
+| Gvardiol | MCI | 26.0% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Schade (BRE) £6.1m: 100.8%
-- Barry (EVE) £5.6m: 91.6%
-- Tzolakis (HUL) £4.6m: 90.5%
-- Hall (NEW) £5.2m: 88.6%
+- Schade (BRE) £6.1m: 104.5%
+- Barry (EVE) £5.6m: 91.9%
+- Tzolakis (HUL) £4.6m: 91.2%
+- Hall (NEW) £5.2m: 90.7%
 - Calafiori (ARS) £5.8m: 85.9%
 
 ### Falls (Target <= -80%)
-- Gusto (CHE) £5.0m: -100.3%
-- Simms (COV) £5.0m: -100.3%
-- Lerma (CRY) £4.9m: -99.3%
-- B.Fernandes (MUN) £12.0m: -99.1%
-- Doucouré (CRY) £4.9m: -98.9%
+- Gusto (CHE) £5.0m: -101.2%
+- Simms (COV) £5.0m: -101.2%
+- Doucouré (CRY) £4.9m: -100.5%
+- Lerma (CRY) £4.9m: -100.0%
+- B.Fernandes (MUN) £12.0m: -99.9%
 
 ## 4. Squad Availability Doubts
 
