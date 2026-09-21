@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-21T13:55:09.457927+00:00
+**Captured:** 2026-09-21T19:09:09.142069+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Schade (BRE) £6.1m: 112.3%
-- Hall (NEW) £5.2m: 95.9%
-- Tzolakis (HUL) £4.6m: 92.6%
-- Barry (EVE) £5.6m: 92.5%
+- Schade (BRE) £6.1m: 118.6%
+- Hall (NEW) £5.2m: 99.9%
+- Tzolakis (HUL) £4.6m: 93.5%
+- Barry (EVE) £5.6m: 92.9%
 - Calafiori (ARS) £5.8m: 86.0%
 
 ### Falls (Target <= -80%)
-- Simms (COV) £5.0m: -103.5%
-- Gusto (CHE) £5.0m: -103.1%
-- Doucouré (CRY) £4.9m: -102.7%
-- Lerma (CRY) £4.9m: -101.6%
-- B.Fernandes (MUN) £12.0m: -101.5%
+- Simms (COV) £5.0m: -105.1%
+- Gusto (CHE) £5.0m: -104.3%
+- Doucouré (CRY) £4.9m: -104.0%
+- João Pedro (CHE) £7.8m: -103.5%
+- Lerma (CRY) £4.9m: -103.0%
 
 ## 4. Squad Availability Doubts
 
@@ -57,9 +57,9 @@
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
 | Groß | MID | BHA | 9.4 | 47 | £5.8m |
-| Tarkowski | DEF | EVE | 8.6 | 43 | £6.1m |
-| Bogle | DEF | LEE | 8.4 | 42 | £4.6m |
-| Schade | MID | BRE | 7.8 | 39 | £6.1m |
+| Tarkowski | DEF | EVE | 9.2 | 43 | £6.1m |
+| Schade | MID | BRE | 9.0 | 39 | £6.1m |
+| Bogle | DEF | LEE | 9.0 | 42 | £4.6m |
 | Haaland | FWD | MCI | 7.8 | 39 | £15.6m |
 | De Cuyper | DEF | BHA | 7.6 | 38 | £4.9m |
 | Gvardiol | DEF | MCI | 7.4 | 37 | £5.7m |
