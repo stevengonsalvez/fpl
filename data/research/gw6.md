@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-21T06:57:49.700908+00:00
+**Captured:** 2026-09-21T13:55:09.457927+00:00
 
 ## 1. Key Fixtures
 
@@ -34,23 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Schade (BRE) £6.1m: 104.5%
-- Barry (EVE) £5.6m: 91.9%
-- Tzolakis (HUL) £4.6m: 91.2%
-- Hall (NEW) £5.2m: 90.7%
-- Calafiori (ARS) £5.8m: 85.9%
+- Schade (BRE) £6.1m: 112.3%
+- Hall (NEW) £5.2m: 95.9%
+- Tzolakis (HUL) £4.6m: 92.6%
+- Barry (EVE) £5.6m: 92.5%
+- Calafiori (ARS) £5.8m: 86.0%
 
 ### Falls (Target <= -80%)
-- Gusto (CHE) £5.0m: -101.2%
-- Simms (COV) £5.0m: -101.2%
-- Doucouré (CRY) £4.9m: -100.5%
-- Lerma (CRY) £4.9m: -100.0%
-- B.Fernandes (MUN) £12.0m: -99.9%
+- Simms (COV) £5.0m: -103.5%
+- Gusto (CHE) £5.0m: -103.1%
+- Doucouré (CRY) £4.9m: -102.7%
+- Lerma (CRY) £4.9m: -101.6%
+- B.Fernandes (MUN) £12.0m: -101.5%
 
 ## 4. Squad Availability Doubts
 
 - [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
-- [XI] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
+- [BEN] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
 
 ## 5. Top Form Assets
 
@@ -63,5 +63,5 @@
 | Haaland | FWD | MCI | 7.8 | 39 | £15.6m |
 | De Cuyper | DEF | BHA | 7.6 | 38 | £4.9m |
 | Gvardiol | DEF | MCI | 7.4 | 37 | £5.7m |
-| Maitland-Niles | DEF | EVE | 7.0 | 21 | £4.5m |
+| B.Fernandes | MID | MUN | 7.2 | 31 | £12.0m |
 
