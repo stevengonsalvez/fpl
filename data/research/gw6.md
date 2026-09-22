@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-22T01:30:17.593558+00:00
+**Captured:** 2026-09-22T06:44:53.466087+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 123.1% |
+| Haaland | MCI | 118.5% |
 | B.Fernandes | MUN | 52.9% |
-| João Pedro | CHE | 51.5% |
-| Calafiori | ARS | 50.0% |
+| João Pedro | CHE | 52.1% |
+| Calafiori | ARS | 50.9% |
 | Rogers | CHE | 42.7% |
-| Raya | ARS | 42.0% |
+| Raya | ARS | 42.2% |
 | Szoboszlai | LIV | 33.6% |
-| Palmer | CHE | 30.1% |
-| Cherki | MCI | 29.5% |
-| Gvardiol | MCI | 26.0% |
+| Cherki | MCI | 29.4% |
+| Groß | BHA | 27.1% |
+| Semenyo | MCI | 26.9% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tzolakis (HUL) £4.6m: 94.5%
-- Barry (EVE) £5.6m: 93.4%
-- Calafiori (ARS) £5.8m: 86.2%
-- De Cuyper (BHA) £4.9m: 81.8%
-- Saka (ARS) £9.5m: 80.0%
+- Tzolakis (HUL) £4.6m: 94.9%
+- Barry (EVE) £5.6m: 93.5%
+- Calafiori (ARS) £5.8m: 86.3%
+- De Cuyper (BHA) £4.9m: 83.0%
+- Saka (ARS) £9.5m: 80.1%
 
 ### Falls (Target <= -80%)
-- Maatsen (AVL) £4.5m: -100.1%
+- Maatsen (AVL) £4.5m: -100.5%
 - Gyabi (HUL) £4.5m: -99.6%
-- Maguire (MUN) £4.9m: -98.5%
-- Butland (HUL) £4.5m: -97.7%
-- Wharton (CRY) £5.5m: -97.6%
+- Maguire (MUN) £4.9m: -98.9%
+- Wharton (CRY) £5.5m: -98.1%
+- Butland (HUL) £4.5m: -97.8%
 
 ## 4. Squad Availability Doubts
 
