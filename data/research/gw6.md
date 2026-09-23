@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-23T01:41:53.730639+00:00
+**Captured:** 2026-09-23T07:32:54.297430+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 118.5% |
-| B.Fernandes | MUN | 52.9% |
-| João Pedro | CHE | 52.1% |
-| Calafiori | ARS | 50.9% |
-| Rogers | CHE | 42.7% |
+| Haaland | MCI | 120.3% |
+| João Pedro | CHE | 51.0% |
+| B.Fernandes | MUN | 50.1% |
+| Calafiori | ARS | 50.0% |
+| Rogers | CHE | 42.5% |
 | Raya | ARS | 42.2% |
-| Szoboszlai | LIV | 33.6% |
-| Cherki | MCI | 29.4% |
-| Groß | BHA | 27.1% |
-| Semenyo | MCI | 26.9% |
+| Szoboszlai | LIV | 32.7% |
+| Cherki | MCI | 29.1% |
+| Groß | BHA | 28.1% |
+| Palmer | CHE | 27.1% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tzolakis (HUL) £4.6m: 97.2%
-- Barry (EVE) £5.6m: 94.5%
-- De Cuyper (BHA) £4.9m: 89.2%
-- Calafiori (ARS) £5.8m: 86.9%
-- Saka (ARS) £9.5m: 81.2%
+- Tzolakis (HUL) £4.6m: 97.5%
+- Barry (EVE) £5.6m: 94.6%
+- De Cuyper (BHA) £4.9m: 89.9%
+- Calafiori (ARS) £5.8m: 87.0%
+- Saka (ARS) £9.5m: 81.3%
 
 ### Falls (Target <= -80%)
-- Butland (HUL) £4.5m: -99.1%
+- Butland (HUL) £4.5m: -99.2%
+- Smith Rowe (FUL) £5.4m: -97.7%
 - Gozo (CRY) £5.0m: -97.5%
-- Smith Rowe (FUL) £5.4m: -97.3%
-- Eze (ARS) £6.3m: -97.0%
-- Ellborg (SUN) £4.5m: -95.2%
+- Eze (ARS) £6.3m: -97.4%
+- Ellborg (SUN) £4.5m: -95.1%
 
 ## 4. Squad Availability Doubts
 
