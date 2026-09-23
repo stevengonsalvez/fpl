@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-09-22T23:12:01.050712+00:00",
+  "captured_at_utc": "2026-09-23T01:41:53.730639+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -152,7 +152,7 @@
         "id": 572,
         "name": "Tzolakis",
         "team": "HUL",
-        "target_pct": 97.1,
+        "target_pct": 97.2,
         "cost": 4.6
       },
       {
@@ -166,7 +166,7 @@
         "id": 115,
         "name": "De Cuyper",
         "team": "BHA",
-        "target_pct": 88.9,
+        "target_pct": 89.2,
         "cost": 4.9
       },
       {
@@ -180,7 +180,7 @@
         "id": 12,
         "name": "Saka",
         "team": "ARS",
-        "target_pct": 81.1,
+        "target_pct": 81.2,
         "cost": 9.5
       }
     ],
@@ -189,42 +189,42 @@
         "id": 274,
         "name": "Butland",
         "team": "HUL",
-        "target_pct": -99.0,
+        "target_pct": -99.1,
         "cost": 4.5
       },
       {
         "id": 595,
         "name": "Gozo",
         "team": "CRY",
-        "target_pct": -97.4,
+        "target_pct": -97.5,
         "cost": 5.0
       },
       {
         "id": 262,
         "name": "Smith Rowe",
         "team": "FUL",
-        "target_pct": -97.1,
+        "target_pct": -97.3,
         "cost": 5.4
       },
       {
         "id": 14,
         "name": "Eze",
         "team": "ARS",
-        "target_pct": -96.9,
+        "target_pct": -97.0,
         "cost": 6.3
       },
       {
         "id": 531,
         "name": "Ellborg",
         "team": "SUN",
-        "target_pct": -95.3,
+        "target_pct": -95.2,
         "cost": 4.5
       },
       {
         "id": 135,
         "name": "Yohanna",
         "team": "BHA",
-        "target_pct": -94.4,
+        "target_pct": -94.7,
         "cost": 4.9
       },
       {
@@ -235,24 +235,24 @@
         "cost": 5.0
       },
       {
-        "id": 170,
-        "name": "Emegha",
-        "team": "CHE",
-        "target_pct": -92.8,
-        "cost": 5.0
-      },
-      {
         "id": 626,
         "name": "Zepa",
         "team": "FUL",
-        "target_pct": -92.8,
+        "target_pct": -93.0,
         "cost": 4.5
+      },
+      {
+        "id": 170,
+        "name": "Emegha",
+        "team": "CHE",
+        "target_pct": -92.9,
+        "cost": 5.0
       },
       {
         "id": 358,
         "name": "Kerkez",
         "team": "LIV",
-        "target_pct": -92.5,
+        "target_pct": -92.6,
         "cost": 5.4
       }
     ]
