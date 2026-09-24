@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-23T23:53:50.307039+00:00
+**Captured:** 2026-09-24T03:55:01.463264+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 120.3% |
-| João Pedro | CHE | 51.0% |
-| B.Fernandes | MUN | 50.1% |
+| Haaland | MCI | 118.0% |
+| B.Fernandes | MUN | 51.9% |
+| João Pedro | CHE | 50.6% |
 | Calafiori | ARS | 50.0% |
-| Rogers | CHE | 42.5% |
 | Raya | ARS | 42.2% |
+| Rogers | CHE | 42.2% |
 | Szoboszlai | LIV | 32.7% |
-| Cherki | MCI | 29.1% |
-| Groß | BHA | 28.1% |
-| Palmer | CHE | 27.1% |
+| Cherki | MCI | 29.2% |
+| Groß | BHA | 28.4% |
+| Gvardiol | MCI | 26.2% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tzolakis (HUL) £4.6m: 98.7%
+- Tzolakis (HUL) £4.6m: 98.8%
 - Barry (EVE) £5.6m: 95.4%
-- De Cuyper (BHA) £4.9m: 93.1%
+- De Cuyper (BHA) £4.9m: 93.4%
 - Calafiori (ARS) £5.8m: 87.3%
-- Tarkowski (EVE) £6.1m: 84.2%
+- Tarkowski (EVE) £6.1m: 84.5%
 
 ### Falls (Target <= -80%)
-- Smith Rowe (FUL) £5.4m: -99.1%
-- Eze (ARS) £6.3m: -98.5%
-- Gozo (CRY) £5.0m: -97.9%
+- Smith Rowe (FUL) £5.4m: -99.2%
+- Eze (ARS) £6.3m: -98.6%
+- Gozo (CRY) £5.0m: -97.3%
 - Yohanna (BHA) £4.9m: -96.6%
-- Zepa (FUL) £4.5m: -95.4%
+- Zepa (FUL) £4.5m: -95.5%
 
 ## 4. Squad Availability Doubts
 
