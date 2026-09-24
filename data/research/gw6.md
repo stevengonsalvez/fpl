@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-24T03:55:01.463264+00:00
+**Captured:** 2026-09-24T09:09:09.409532+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tzolakis (HUL) £4.6m: 98.8%
-- Barry (EVE) £5.6m: 95.4%
-- De Cuyper (BHA) £4.9m: 93.4%
-- Calafiori (ARS) £5.8m: 87.3%
-- Tarkowski (EVE) £6.1m: 84.5%
+- Tzolakis (HUL) £4.6m: 99.0%
+- Barry (EVE) £5.6m: 95.5%
+- De Cuyper (BHA) £4.9m: 94.0%
+- Calafiori (ARS) £5.8m: 87.4%
+- Tarkowski (EVE) £6.1m: 85.1%
 
 ### Falls (Target <= -80%)
-- Smith Rowe (FUL) £5.4m: -99.2%
-- Eze (ARS) £6.3m: -98.6%
+- Smith Rowe (FUL) £5.4m: -99.4%
+- Eze (ARS) £6.3m: -98.8%
 - Gozo (CRY) £5.0m: -97.3%
-- Yohanna (BHA) £4.9m: -96.6%
-- Zepa (FUL) £4.5m: -95.5%
+- Yohanna (BHA) £4.9m: -97.0%
+- Zepa (FUL) £4.5m: -95.8%
 
 ## 4. Squad Availability Doubts
 
