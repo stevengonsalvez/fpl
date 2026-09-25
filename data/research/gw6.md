@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-25T00:42:44.408938+00:00
+**Captured:** 2026-09-25T05:58:34.113548+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 118.0% |
-| B.Fernandes | MUN | 51.9% |
-| João Pedro | CHE | 50.6% |
-| Calafiori | ARS | 50.0% |
+| Haaland | MCI | 117.8% |
+| B.Fernandes | MUN | 52.1% |
+| Calafiori | ARS | 49.9% |
+| João Pedro | CHE | 49.6% |
 | Raya | ARS | 42.2% |
-| Rogers | CHE | 42.2% |
-| Szoboszlai | LIV | 32.7% |
-| Cherki | MCI | 29.2% |
-| Groß | BHA | 28.4% |
-| Gvardiol | MCI | 26.2% |
+| Rogers | CHE | 42.1% |
+| Szoboszlai | LIV | 32.5% |
+| Cherki | MCI | 29.3% |
+| Groß | BHA | 28.6% |
+| Gvardiol | MCI | 26.3% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £4.9m: 96.6%
-- Barry (EVE) £5.6m: 96.2%
-- Calafiori (ARS) £5.8m: 87.7%
-- Tarkowski (EVE) £6.1m: 87.5%
-- Saka (ARS) £9.5m: 83.0%
+- De Cuyper (BHA) £4.9m: 97.0%
+- Barry (EVE) £5.6m: 96.4%
+- Calafiori (ARS) £5.8m: 87.8%
+- Tarkowski (EVE) £6.1m: 87.8%
+- Saka (ARS) £9.5m: 83.1%
 
 ### Falls (Target <= -80%)
-- Eze (ARS) £6.3m: -99.6%
+- Eze (ARS) £6.3m: -99.7%
 - Gozo (CRY) £5.0m: -99.5%
-- Yohanna (BHA) £4.9m: -97.6%
-- Zepa (FUL) £4.5m: -97.2%
-- Ellborg (SUN) £4.5m: -96.0%
+- Yohanna (BHA) £4.9m: -97.7%
+- Zepa (FUL) £4.5m: -97.3%
+- Ellborg (SUN) £4.5m: -96.1%
 
 ## 4. Squad Availability Doubts
 
