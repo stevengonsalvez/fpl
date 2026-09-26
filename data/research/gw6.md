@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-26T01:55:34.357097+00:00
+**Captured:** 2026-09-26T07:17:14.344548+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 117.8% |
-| B.Fernandes | MUN | 52.1% |
-| Calafiori | ARS | 49.9% |
+| Haaland | MCI | 115.3% |
+| B.Fernandes | MUN | 57.5% |
+| Calafiori | ARS | 49.8% |
 | João Pedro | CHE | 49.6% |
 | Raya | ARS | 42.2% |
-| Rogers | CHE | 42.1% |
-| Szoboszlai | LIV | 32.5% |
-| Cherki | MCI | 29.3% |
+| Rogers | CHE | 41.9% |
+| Szoboszlai | LIV | 32.4% |
+| Cherki | MCI | 29.1% |
 | Groß | BHA | 28.6% |
 | Gvardiol | MCI | 26.3% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barry (EVE) £5.6m: 98.1%
-- Tarkowski (EVE) £6.1m: 91.0%
+- Barry (EVE) £5.6m: 98.2%
+- Tarkowski (EVE) £6.1m: 91.3%
 - Calafiori (ARS) £5.8m: 88.9%
-- Saka (ARS) £9.5m: 84.7%
-- King (FUL) £5.5m: 81.6%
+- Saka (ARS) £9.5m: 84.9%
+- King (FUL) £5.5m: 81.7%
 
 ### Falls (Target <= -80%)
-- Zepa (FUL) £4.5m: -99.6%
-- Emegha (CHE) £5.0m: -98.1%
+- Zepa (FUL) £4.5m: -99.7%
+- Emegha (CHE) £5.0m: -98.2%
 - Morita (HUL) £5.0m: -97.1%
-- Ellborg (SUN) £4.5m: -97.0%
-- Dorgu (MUN) £5.8m: -96.8%
+- Ellborg (SUN) £4.5m: -97.1%
+- Dorgu (MUN) £5.8m: -96.9%
 
 ## 4. Squad Availability Doubts
 
