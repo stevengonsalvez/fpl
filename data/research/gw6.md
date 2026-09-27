@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-27T06:57:07.157098+00:00
+**Captured:** 2026-09-27T12:56:14.892558+00:00
 
 ## 1. Key Fixtures
 
@@ -34,22 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barry (EVE) £5.6m: 99.1%
-- Tarkowski (EVE) £6.1m: 93.3%
-- Calafiori (ARS) £5.8m: 89.5%
-- Saka (ARS) £9.5m: 85.8%
-- Groß (BHA) £5.8m: 83.8%
+- Barry (EVE) £5.6m: 99.3%
+- Tarkowski (EVE) £6.1m: 93.7%
+- Calafiori (ARS) £5.8m: 89.6%
+- Saka (ARS) £9.5m: 85.9%
+- Groß (BHA) £5.8m: 84.3%
 
 ### Falls (Target <= -80%)
-- Emegha (CHE) £5.0m: -99.4%
-- Morita (HUL) £5.0m: -98.2%
-- Nørgaard (EVE) £4.9m: -97.8%
-- Ellborg (SUN) £4.5m: -97.8%
-- Dorgu (MUN) £5.8m: -97.7%
+- Emegha (CHE) £5.0m: -99.7%
+- Morita (HUL) £5.0m: -98.3%
+- Diarra (SUN) £5.4m: -98.0%
+- Ellborg (SUN) £4.5m: -97.9%
+- Dorgu (MUN) £5.8m: -97.8%
 
 ## 4. Squad Availability Doubts
 
 - [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
+- [XI] FWD Isak (LIV): status=d, chance=75%, news: Foot injury - 75% chance of playing
 - [BEN] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
 
 ## 5. Top Form Assets
