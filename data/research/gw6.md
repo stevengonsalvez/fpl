@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-27T12:56:14.892558+00:00
+**Captured:** 2026-09-27T17:36:48.119043+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barry (EVE) £5.6m: 99.3%
-- Tarkowski (EVE) £6.1m: 93.7%
-- Calafiori (ARS) £5.8m: 89.6%
-- Saka (ARS) £9.5m: 85.9%
-- Groß (BHA) £5.8m: 84.3%
+- Barry (EVE) £5.6m: 99.8%
+- Tarkowski (EVE) £6.1m: 94.4%
+- Calafiori (ARS) £5.8m: 90.0%
+- Saka (ARS) £9.5m: 86.3%
+- Groß (BHA) £5.8m: 85.0%
 
 ### Falls (Target <= -80%)
-- Emegha (CHE) £5.0m: -99.7%
-- Morita (HUL) £5.0m: -98.3%
-- Diarra (SUN) £5.4m: -98.0%
-- Ellborg (SUN) £4.5m: -97.9%
-- Dorgu (MUN) £5.8m: -97.8%
+- Emegha (CHE) £5.0m: -100.3%
+- Morita (HUL) £5.0m: -99.1%
+- Diarra (SUN) £5.4m: -98.9%
+- Ellborg (SUN) £4.5m: -98.5%
+- Dorgu (MUN) £5.8m: -98.4%
 
 ## 4. Squad Availability Doubts
 
