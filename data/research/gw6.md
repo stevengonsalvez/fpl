@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-27T01:11:48.840419+00:00
+**Captured:** 2026-09-27T06:57:07.157098+00:00
 
 ## 1. Key Fixtures
 
@@ -21,31 +21,31 @@
 | Player | Team | Predicted EO |
 |---|---|---|
 | Haaland | MCI | 115.3% |
-| B.Fernandes | MUN | 57.5% |
+| B.Fernandes | MUN | 57.4% |
 | Calafiori | ARS | 49.8% |
-| João Pedro | CHE | 49.6% |
+| João Pedro | CHE | 49.5% |
 | Raya | ARS | 42.2% |
 | Rogers | CHE | 41.9% |
 | Szoboszlai | LIV | 32.4% |
 | Cherki | MCI | 29.1% |
-| Groß | BHA | 28.6% |
+| Groß | BHA | 28.8% |
 | Gvardiol | MCI | 26.3% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Barry (EVE) £5.6m: 99.0%
-- Tarkowski (EVE) £6.1m: 93.1%
+- Barry (EVE) £5.6m: 99.1%
+- Tarkowski (EVE) £6.1m: 93.3%
 - Calafiori (ARS) £5.8m: 89.5%
-- Saka (ARS) £9.5m: 85.7%
-- Groß (BHA) £5.8m: 83.6%
+- Saka (ARS) £9.5m: 85.8%
+- Groß (BHA) £5.8m: 83.8%
 
 ### Falls (Target <= -80%)
-- Emegha (CHE) £5.0m: -99.3%
-- Morita (HUL) £5.0m: -98.1%
+- Emegha (CHE) £5.0m: -99.4%
+- Morita (HUL) £5.0m: -98.2%
+- Nørgaard (EVE) £4.9m: -97.8%
 - Ellborg (SUN) £4.5m: -97.8%
-- Nørgaard (EVE) £4.9m: -97.6%
-- Dorgu (MUN) £5.8m: -97.6%
+- Dorgu (MUN) £5.8m: -97.7%
 
 ## 4. Squad Availability Doubts
 
