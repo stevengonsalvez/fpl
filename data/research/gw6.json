@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-09-27T17:36:48.119043+00:00",
+  "captured_at_utc": "2026-09-27T21:06:11.416344+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -152,56 +152,56 @@
         "id": 249,
         "name": "Barry",
         "team": "EVE",
-        "target_pct": 99.8,
+        "target_pct": 100.3,
         "cost": 5.6
       },
       {
         "id": 229,
         "name": "Tarkowski",
         "team": "EVE",
-        "target_pct": 94.4,
+        "target_pct": 95.1,
         "cost": 6.1
       },
       {
         "id": 8,
         "name": "Calafiori",
         "team": "ARS",
-        "target_pct": 90.0,
+        "target_pct": 90.4,
         "cost": 5.8
       },
       {
         "id": 12,
         "name": "Saka",
         "team": "ARS",
-        "target_pct": 86.3,
+        "target_pct": 86.7,
         "cost": 9.5
       },
       {
         "id": 124,
         "name": "Gro\u00df",
         "team": "BHA",
-        "target_pct": 85.0,
+        "target_pct": 85.5,
         "cost": 5.8
       },
       {
         "id": 268,
         "name": "King",
         "team": "FUL",
-        "target_pct": 83.1,
+        "target_pct": 83.5,
         "cost": 5.5
       },
       {
         "id": 40,
         "name": "Rogers",
         "team": "CHE",
-        "target_pct": 81.3,
+        "target_pct": 81.7,
         "cost": 7.7
       },
       {
         "id": 316,
         "name": "Emersonn",
         "team": "IPS",
-        "target_pct": 80.2,
+        "target_pct": 80.5,
         "cost": 5.5
       }
     ],
@@ -210,70 +210,70 @@
         "id": 170,
         "name": "Emegha",
         "team": "CHE",
-        "target_pct": -100.3,
+        "target_pct": -100.8,
         "cost": 5.0
       },
       {
         "id": 563,
         "name": "Morita",
         "team": "HUL",
-        "target_pct": -99.1,
+        "target_pct": -99.5,
         "cost": 5.0
       },
       {
         "id": 543,
         "name": "Diarra",
         "team": "SUN",
-        "target_pct": -98.9,
+        "target_pct": -99.3,
         "cost": 5.4
-      },
-      {
-        "id": 531,
-        "name": "Ellborg",
-        "team": "SUN",
-        "target_pct": -98.5,
-        "cost": 4.5
       },
       {
         "id": 415,
         "name": "Dorgu",
         "team": "MUN",
-        "target_pct": -98.4,
+        "target_pct": -98.9,
         "cost": 5.8
+      },
+      {
+        "id": 531,
+        "name": "Ellborg",
+        "team": "SUN",
+        "target_pct": -98.9,
+        "cost": 4.5
       },
       {
         "id": 21,
         "name": "N\u00f8rgaard",
         "team": "EVE",
-        "target_pct": -98.3,
+        "target_pct": -98.8,
         "cost": 4.9
       },
       {
         "id": 358,
         "name": "Kerkez",
         "team": "LIV",
-        "target_pct": -97.6,
+        "target_pct": -97.9,
         "cost": 5.4
       },
       {
         "id": 34,
         "name": "Pau",
         "team": "AVL",
-        "target_pct": -97.1,
+        "target_pct": -97.6,
         "cost": 4.5
       },
       {
         "id": 193,
         "name": "Wright",
         "team": "COV",
-        "target_pct": -96.9,
+        "target_pct": -97.5,
         "cost": 5.4
       },
       {
         "id": 202,
         "name": "Richards",
         "team": "CRY",
-        "target_pct": -96.6,
+        "target_pct": -96.9,
         "cost": 5.0
       }
     ]
@@ -465,15 +465,6 @@
       "cost": 6.1
     },
     {
-      "id": 411,
-      "name": "Haaland",
-      "team": "MCI",
-      "position": "FWD",
-      "form": 9.2,
-      "total_points": 39,
-      "cost": 15.6
-    },
-    {
       "id": 94,
       "name": "Schade",
       "team": "BRE",
@@ -492,6 +483,24 @@
       "cost": 4.6
     },
     {
+      "id": 397,
+      "name": "Semenyo",
+      "team": "MCI",
+      "position": "MID",
+      "form": 8.7,
+      "total_points": 33,
+      "cost": 8.4
+    },
+    {
+      "id": 411,
+      "name": "Haaland",
+      "team": "MCI",
+      "position": "FWD",
+      "form": 8.0,
+      "total_points": 39,
+      "cost": 15.6
+    },
+    {
       "id": 379,
       "name": "Isak",
       "team": "LIV",
@@ -501,13 +510,22 @@
       "cost": 9.1
     },
     {
-      "id": 397,
-      "name": "Semenyo",
+      "id": 204,
+      "name": "Mitchell",
+      "team": "CRY",
+      "position": "DEF",
+      "form": 7.7,
+      "total_points": 24,
+      "cost": 4.5
+    },
+    {
+      "id": 391,
+      "name": "Gvardiol",
       "team": "MCI",
-      "position": "MID",
-      "form": 7.8,
-      "total_points": 33,
-      "cost": 8.4
+      "position": "DEF",
+      "form": 7.7,
+      "total_points": 37,
+      "cost": 5.7
     },
     {
       "id": 426,
@@ -517,24 +535,6 @@
       "form": 7.2,
       "total_points": 31,
       "cost": 11.9
-    },
-    {
-      "id": 69,
-      "name": "Scott",
-      "team": "BOU",
-      "position": "MID",
-      "form": 7.0,
-      "total_points": 30,
-      "cost": 6.1
-    },
-    {
-      "id": 649,
-      "name": "Maitland-Niles",
-      "team": "EVE",
-      "position": "DEF",
-      "form": 7.0,
-      "total_points": 21,
-      "cost": 4.5
     }
   ]
 }
