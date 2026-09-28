@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-09-28T11:38:58.047177+00:00",
+  "captured_at_utc": "2026-09-28T19:26:16.466164+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -152,121 +152,121 @@
         "id": 229,
         "name": "Tarkowski",
         "team": "EVE",
-        "target_pct": 96.1,
+        "target_pct": 96.8,
         "cost": 6.1
       },
       {
         "id": 8,
         "name": "Calafiori",
         "team": "ARS",
-        "target_pct": 90.9,
+        "target_pct": 91.2,
         "cost": 5.8
       },
       {
         "id": 12,
         "name": "Saka",
         "team": "ARS",
-        "target_pct": 87.3,
+        "target_pct": 87.7,
         "cost": 9.5
       },
       {
         "id": 124,
         "name": "Gro\u00df",
         "team": "BHA",
-        "target_pct": 86.5,
+        "target_pct": 87.3,
         "cost": 5.8
       },
       {
         "id": 268,
         "name": "King",
         "team": "FUL",
-        "target_pct": 84.1,
+        "target_pct": 84.5,
         "cost": 5.5
       },
       {
         "id": 40,
         "name": "Rogers",
         "team": "CHE",
-        "target_pct": 82.3,
+        "target_pct": 82.8,
         "cost": 7.7
       },
       {
         "id": 316,
         "name": "Emersonn",
         "team": "IPS",
-        "target_pct": 80.9,
+        "target_pct": 81.2,
         "cost": 5.5
       }
     ],
     "imminent_falls": [
       {
-        "id": 563,
-        "name": "Morita",
-        "team": "HUL",
-        "target_pct": -100.3,
-        "cost": 5.0
-      },
-      {
         "id": 543,
         "name": "Diarra",
         "team": "SUN",
-        "target_pct": -99.8,
+        "target_pct": -101.5,
         "cost": 5.4
       },
       {
-        "id": 531,
-        "name": "Ellborg",
-        "team": "SUN",
-        "target_pct": -99.5,
-        "cost": 4.5
+        "id": 563,
+        "name": "Morita",
+        "team": "HUL",
+        "target_pct": -100.8,
+        "cost": 5.0
       },
       {
         "id": 21,
         "name": "N\u00f8rgaard",
         "team": "EVE",
-        "target_pct": -99.4,
+        "target_pct": -100.0,
         "cost": 4.9
+      },
+      {
+        "id": 531,
+        "name": "Ellborg",
+        "team": "SUN",
+        "target_pct": -99.7,
+        "cost": 4.5
       },
       {
         "id": 358,
         "name": "Kerkez",
         "team": "LIV",
-        "target_pct": -98.5,
+        "target_pct": -99.0,
         "cost": 5.4
       },
       {
         "id": 34,
         "name": "Pau",
         "team": "AVL",
-        "target_pct": -98.2,
+        "target_pct": -98.7,
         "cost": 4.5
       },
       {
         "id": 193,
         "name": "Wright",
         "team": "COV",
-        "target_pct": -98.1,
+        "target_pct": -98.5,
         "cost": 5.4
-      },
-      {
-        "id": 202,
-        "name": "Richards",
-        "team": "CRY",
-        "target_pct": -97.4,
-        "cost": 5.0
       },
       {
         "id": 17,
         "name": "Merino",
         "team": "ARS",
-        "target_pct": -97.3,
+        "target_pct": -97.7,
         "cost": 5.8
+      },
+      {
+        "id": 202,
+        "name": "Richards",
+        "team": "CRY",
+        "target_pct": -97.7,
+        "cost": 5.0
       },
       {
         "id": 421,
         "name": "Heaven",
         "team": "MUN",
-        "target_pct": -97.1,
+        "target_pct": -97.6,
         "cost": 4.4
       }
     ]
@@ -449,15 +449,6 @@
       "cost": 5.8
     },
     {
-      "id": 229,
-      "name": "Tarkowski",
-      "team": "EVE",
-      "position": "DEF",
-      "form": 9.2,
-      "total_points": 43,
-      "cost": 6.1
-    },
-    {
       "id": 94,
       "name": "Schade",
       "team": "BRE",
@@ -485,6 +476,24 @@
       "cost": 8.4
     },
     {
+      "id": 229,
+      "name": "Tarkowski",
+      "team": "EVE",
+      "position": "DEF",
+      "form": 8.3,
+      "total_points": 43,
+      "cost": 6.1
+    },
+    {
+      "id": 350,
+      "name": "A.Becker",
+      "team": "LIV",
+      "position": "GK",
+      "form": 8.3,
+      "total_points": 27,
+      "cost": 5.5
+    },
+    {
       "id": 411,
       "name": "Haaland",
       "team": "MCI",
@@ -492,15 +501,6 @@
       "form": 8.0,
       "total_points": 39,
       "cost": 15.6
-    },
-    {
-      "id": 379,
-      "name": "Isak",
-      "team": "LIV",
-      "position": "FWD",
-      "form": 7.8,
-      "total_points": 33,
-      "cost": 9.1
     },
     {
       "id": 204,
@@ -512,6 +512,15 @@
       "cost": 4.5
     },
     {
+      "id": 379,
+      "name": "Isak",
+      "team": "LIV",
+      "position": "FWD",
+      "form": 7.7,
+      "total_points": 33,
+      "cost": 9.1
+    },
+    {
       "id": 391,
       "name": "Gvardiol",
       "team": "MCI",
@@ -519,15 +528,6 @@
       "form": 7.7,
       "total_points": 37,
       "cost": 5.7
-    },
-    {
-      "id": 426,
-      "name": "B.Fernandes",
-      "team": "MUN",
-      "position": "MID",
-      "form": 7.2,
-      "total_points": 31,
-      "cost": 11.9
     }
   ]
 }
