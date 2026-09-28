@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-27T23:53:35.085886+00:00
+**Captured:** 2026-09-28T04:31:12.742411+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 115.3% |
-| B.Fernandes | MUN | 57.4% |
-| Calafiori | ARS | 49.8% |
-| João Pedro | CHE | 49.5% |
+| Haaland | MCI | 111.4% |
+| B.Fernandes | MUN | 59.4% |
+| Calafiori | ARS | 51.0% |
+| João Pedro | CHE | 50.5% |
+| Rogers | CHE | 42.2% |
 | Raya | ARS | 42.2% |
-| Rogers | CHE | 41.9% |
-| Szoboszlai | LIV | 32.4% |
-| Cherki | MCI | 29.1% |
-| Groß | BHA | 28.8% |
-| Gvardiol | MCI | 26.3% |
+| Szoboszlai | LIV | 33.5% |
+| Groß | BHA | 29.1% |
+| Cherki | MCI | 28.7% |
+| Gvardiol | MCI | 26.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.1m: 95.3%
-- Calafiori (ARS) £5.8m: 90.5%
-- Saka (ARS) £9.5m: 86.9%
-- Groß (BHA) £5.8m: 85.7%
-- King (FUL) £5.5m: 83.6%
+- Tarkowski (EVE) £6.1m: 95.5%
+- Calafiori (ARS) £5.8m: 90.6%
+- Saka (ARS) £9.5m: 87.0%
+- Groß (BHA) £5.8m: 85.9%
+- King (FUL) £5.5m: 83.8%
 
 ### Falls (Target <= -80%)
-- Morita (HUL) £5.0m: -99.8%
-- Diarra (SUN) £5.4m: -99.4%
-- Ellborg (SUN) £4.5m: -99.1%
-- Nørgaard (EVE) £4.9m: -98.9%
-- Kerkez (LIV) £5.4m: -98.1%
+- Morita (HUL) £5.0m: -99.9%
+- Diarra (SUN) £5.4m: -99.5%
+- Ellborg (SUN) £4.5m: -99.3%
+- Nørgaard (EVE) £4.9m: -99.0%
+- Kerkez (LIV) £5.4m: -98.2%
 
 ## 4. Squad Availability Doubts
 
