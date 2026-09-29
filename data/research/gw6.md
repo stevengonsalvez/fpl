@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-29T11:17:38.866094+00:00
+**Captured:** 2026-09-29T16:58:06.291779+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.1m: 98.2%
-- Calafiori (ARS) £5.8m: 92.0%
-- Saka (ARS) £9.5m: 88.7%
-- Groß (BHA) £5.8m: 88.7%
-- King (FUL) £5.5m: 85.4%
+- Tarkowski (EVE) £6.1m: 98.9%
+- Calafiori (ARS) £5.8m: 92.4%
+- Groß (BHA) £5.8m: 89.4%
+- Saka (ARS) £9.5m: 89.2%
+- King (FUL) £5.5m: 85.9%
 
 ### Falls (Target <= -80%)
-- Kerkez (LIV) £5.4m: -100.1%
-- Pau (AVL) £4.5m: -99.7%
-- Wright (COV) £5.4m: -99.6%
-- Merino (ARS) £5.8m: -98.8%
-- Heaven (MUN) £4.4m: -98.8%
+- Kerkez (LIV) £5.4m: -100.6%
+- Pau (AVL) £4.5m: -100.3%
+- Wright (COV) £5.4m: -100.1%
+- Heaven (MUN) £4.4m: -99.3%
+- Merino (ARS) £5.8m: -99.2%
 
 ## 4. Squad Availability Doubts
 
@@ -57,12 +57,12 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Groß | MID | BHA | 11.2 | 47 | £5.8m |
-| Schade | MID | BRE | 9.0 | 39 | £6.2m |
-| Bogle | DEF | LEE | 9.0 | 42 | £4.6m |
+| Bogle | DEF | LEE | 11.3 | 42 | £4.6m |
+| Groß | MID | BHA | 10.7 | 47 | £5.8m |
+| Schade | MID | BRE | 8.7 | 39 | £6.2m |
+| Vuskovic | DEF | BHA | 8.7 | 32 | £5.0m |
 | Semenyo | MID | MCI | 8.7 | 33 | £8.4m |
 | Tarkowski | DEF | EVE | 8.3 | 43 | £6.1m |
 | A.Becker | GK | LIV | 8.3 | 27 | £5.5m |
 | Haaland | FWD | MCI | 8.0 | 39 | £15.6m |
-| Mitchell | DEF | CRY | 7.7 | 24 | £4.5m |
 
