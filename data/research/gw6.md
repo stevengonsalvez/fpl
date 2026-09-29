@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-29T00:02:01.368507+00:00
+**Captured:** 2026-09-29T05:00:00.369379+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 111.4% |
-| B.Fernandes | MUN | 59.4% |
-| Calafiori | ARS | 51.0% |
-| João Pedro | CHE | 50.5% |
-| Rogers | CHE | 42.2% |
-| Raya | ARS | 42.2% |
-| Szoboszlai | LIV | 33.5% |
-| Groß | BHA | 29.1% |
+| Haaland | MCI | 112.9% |
+| B.Fernandes | MUN | 60.5% |
+| João Pedro | CHE | 50.3% |
+| Calafiori | ARS | 49.8% |
+| Rogers | CHE | 42.4% |
+| Raya | ARS | 42.3% |
+| Szoboszlai | LIV | 32.4% |
+| Groß | BHA | 29.5% |
 | Cherki | MCI | 28.7% |
 | Gvardiol | MCI | 26.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.1m: 97.5%
-- Calafiori (ARS) £5.8m: 91.6%
-- Saka (ARS) £9.5m: 88.2%
-- Groß (BHA) £5.8m: 87.9%
-- King (FUL) £5.5m: 84.9%
+- Tarkowski (EVE) £6.1m: 97.7%
+- Calafiori (ARS) £5.8m: 91.7%
+- Saka (ARS) £9.5m: 88.3%
+- Groß (BHA) £5.8m: 88.1%
+- King (FUL) £5.5m: 85.1%
 
 ### Falls (Target <= -80%)
-- Kerkez (LIV) £5.4m: -99.5%
-- Pau (AVL) £4.5m: -99.2%
-- Wright (COV) £5.4m: -99.0%
-- Heaven (MUN) £4.4m: -98.2%
-- Merino (ARS) £5.8m: -98.1%
+- Kerkez (LIV) £5.4m: -99.6%
+- Pau (AVL) £4.5m: -99.3%
+- Wright (COV) £5.4m: -99.2%
+- Merino (ARS) £5.8m: -98.4%
+- Heaven (MUN) £4.4m: -98.4%
 
 ## 4. Squad Availability Doubts
 
