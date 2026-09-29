@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-29T05:00:00.369379+00:00
+**Captured:** 2026-09-29T11:17:38.866094+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.1m: 97.7%
-- Calafiori (ARS) £5.8m: 91.7%
-- Saka (ARS) £9.5m: 88.3%
-- Groß (BHA) £5.8m: 88.1%
-- King (FUL) £5.5m: 85.1%
+- Tarkowski (EVE) £6.1m: 98.2%
+- Calafiori (ARS) £5.8m: 92.0%
+- Saka (ARS) £9.5m: 88.7%
+- Groß (BHA) £5.8m: 88.7%
+- King (FUL) £5.5m: 85.4%
 
 ### Falls (Target <= -80%)
-- Kerkez (LIV) £5.4m: -99.6%
-- Pau (AVL) £4.5m: -99.3%
-- Wright (COV) £5.4m: -99.2%
-- Merino (ARS) £5.8m: -98.4%
-- Heaven (MUN) £4.4m: -98.4%
+- Kerkez (LIV) £5.4m: -100.1%
+- Pau (AVL) £4.5m: -99.7%
+- Wright (COV) £5.4m: -99.6%
+- Merino (ARS) £5.8m: -98.8%
+- Heaven (MUN) £4.4m: -98.8%
 
 ## 4. Squad Availability Doubts
 
