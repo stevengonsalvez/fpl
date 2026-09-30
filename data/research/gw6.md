@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-30T00:41:56.627216+00:00
+**Captured:** 2026-09-30T06:25:44.768891+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 112.9% |
-| B.Fernandes | MUN | 60.5% |
-| João Pedro | CHE | 50.3% |
-| Calafiori | ARS | 49.8% |
-| Rogers | CHE | 42.4% |
+| Haaland | MCI | 124.5% |
+| Calafiori | ARS | 49.9% |
+| João Pedro | CHE | 49.4% |
+| B.Fernandes | MUN | 43.9% |
+| Rogers | CHE | 43.3% |
 | Raya | ARS | 42.3% |
 | Szoboszlai | LIV | 32.4% |
-| Groß | BHA | 29.5% |
-| Cherki | MCI | 28.7% |
+| Groß | BHA | 30.1% |
+| Cherki | MCI | 29.0% |
 | Gvardiol | MCI | 26.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.1m: 99.7%
-- Calafiori (ARS) £5.8m: 92.8%
-- Groß (BHA) £5.8m: 90.2%
-- Saka (ARS) £9.5m: 89.6%
-- King (FUL) £5.5m: 86.3%
+- Tarkowski (EVE) £6.1m: 99.9%
+- Calafiori (ARS) £5.8m: 92.9%
+- Groß (BHA) £5.8m: 90.4%
+- Saka (ARS) £9.5m: 89.7%
+- King (FUL) £5.5m: 86.5%
 
 ### Falls (Target <= -80%)
-- Heaven (MUN) £4.4m: -99.9%
-- Merino (ARS) £5.8m: -99.7%
-- Richards (CRY) £5.0m: -99.3%
-- Aït-Nouri (MCI) £5.3m: -96.4%
-- Henderson (CRY) £5.0m: -96.1%
+- Heaven (MUN) £4.4m: -100.0%
+- Merino (ARS) £5.8m: -99.9%
+- Richards (CRY) £5.0m: -99.4%
+- Aït-Nouri (MCI) £5.3m: -96.5%
+- Henderson (CRY) £5.0m: -96.2%
 
 ## 4. Squad Availability Doubts
 
