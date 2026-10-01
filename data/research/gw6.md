@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-01T01:30:12.134472+00:00
+**Captured:** 2026-10-01T07:43:40.333833+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 124.5% |
-| Calafiori | ARS | 49.9% |
-| João Pedro | CHE | 49.4% |
-| B.Fernandes | MUN | 43.9% |
-| Rogers | CHE | 43.3% |
+| Haaland | MCI | 124.7% |
+| João Pedro | CHE | 50.4% |
+| Calafiori | ARS | 49.8% |
+| B.Fernandes | MUN | 44.0% |
+| Rogers | CHE | 43.4% |
 | Raya | ARS | 42.3% |
-| Szoboszlai | LIV | 32.4% |
-| Groß | BHA | 30.1% |
+| Szoboszlai | LIV | 32.5% |
+| Groß | BHA | 30.4% |
 | Cherki | MCI | 29.0% |
 | Gvardiol | MCI | 26.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Calafiori (ARS) £5.8m: 93.6%
-- Groß (BHA) £5.8m: 92.0%
-- Saka (ARS) £9.5m: 90.7%
-- King (FUL) £5.5m: 87.5%
-- Rogers (CHE) £7.7m: 86.3%
+- Calafiori (ARS) £5.8m: 93.7%
+- Groß (BHA) £5.8m: 92.3%
+- Saka (ARS) £9.5m: 90.9%
+- King (FUL) £5.5m: 87.7%
+- Rogers (CHE) £7.7m: 86.5%
 
 ### Falls (Target <= -80%)
-- Aït-Nouri (MCI) £5.3m: -97.4%
-- Henderson (CRY) £5.0m: -97.3%
-- I.Sangaré (NFO) £4.9m: -96.9%
-- Longstaff (LEE) £4.9m: -96.7%
-- Szoboszlai (LIV) £7.0m: -96.5%
+- Aït-Nouri (MCI) £5.3m: -97.6%
+- Henderson (CRY) £5.0m: -97.4%
+- I.Sangaré (NFO) £4.9m: -97.1%
+- Longstaff (LEE) £4.9m: -96.9%
+- Szoboszlai (LIV) £7.0m: -96.6%
 
 ## 4. Squad Availability Doubts
 
