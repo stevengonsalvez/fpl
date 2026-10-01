@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-09-30T22:30:00.453628+00:00
+**Captured:** 2026-10-01T01:30:12.134472+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tarkowski (EVE) £6.1m: 101.5%
 - Calafiori (ARS) £5.8m: 93.6%
-- Groß (BHA) £5.8m: 91.9%
-- Saka (ARS) £9.5m: 90.6%
-- King (FUL) £5.5m: 87.4%
+- Groß (BHA) £5.8m: 92.0%
+- Saka (ARS) £9.5m: 90.7%
+- King (FUL) £5.5m: 87.5%
+- Rogers (CHE) £7.7m: 86.3%
 
 ### Falls (Target <= -80%)
-- Heaven (MUN) £4.4m: -101.0%
-- Merino (ARS) £5.8m: -100.7%
-- Richards (CRY) £5.0m: -100.1%
-- Aït-Nouri (MCI) £5.3m: -97.3%
-- Henderson (CRY) £5.0m: -97.2%
+- Aït-Nouri (MCI) £5.3m: -97.4%
+- Henderson (CRY) £5.0m: -97.3%
+- I.Sangaré (NFO) £4.9m: -96.9%
+- Longstaff (LEE) £4.9m: -96.7%
+- Szoboszlai (LIV) £7.0m: -96.5%
 
 ## 4. Squad Availability Doubts
 
@@ -62,7 +62,7 @@
 | Schade | MID | BRE | 8.7 | 39 | £6.2m |
 | Vuskovic | DEF | BHA | 8.7 | 32 | £5.0m |
 | Semenyo | MID | MCI | 8.7 | 33 | £8.4m |
-| Tarkowski | DEF | EVE | 8.3 | 43 | £6.1m |
+| Tarkowski | DEF | EVE | 8.3 | 43 | £6.2m |
 | A.Becker | GK | LIV | 8.3 | 27 | £5.5m |
 | Haaland | FWD | MCI | 8.0 | 39 | £15.6m |
 
