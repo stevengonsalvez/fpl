@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-10-02T13:01:38.976944+00:00",
+  "captured_at_utc": "2026-10-02T18:37:11.006600+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -152,128 +152,128 @@
         "id": 124,
         "name": "Gro\u00df",
         "team": "BHA",
-        "target_pct": 95.7,
+        "target_pct": 97.6,
         "cost": 5.8
       },
       {
         "id": 8,
         "name": "Calafiori",
         "team": "ARS",
-        "target_pct": 95.4,
+        "target_pct": 96.7,
         "cost": 5.8
       },
       {
         "id": 12,
         "name": "Saka",
         "team": "ARS",
-        "target_pct": 93.0,
+        "target_pct": 94.4,
         "cost": 9.5
       },
       {
         "id": 268,
         "name": "King",
         "team": "FUL",
-        "target_pct": 89.9,
+        "target_pct": 91.3,
         "cost": 5.5
       },
       {
         "id": 40,
         "name": "Rogers",
         "team": "CHE",
-        "target_pct": 88.9,
+        "target_pct": 90.3,
         "cost": 7.7
       },
       {
         "id": 316,
         "name": "Emersonn",
         "team": "IPS",
-        "target_pct": 85.4,
+        "target_pct": 86.5,
         "cost": 5.5
       },
       {
         "id": 552,
         "name": "Brobbey",
         "team": "SUN",
-        "target_pct": 82.0,
+        "target_pct": 82.9,
         "cost": 5.7
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": 80.5,
+        "target_pct": 81.6,
         "cost": 5.7
       }
     ],
     "imminent_falls": [
       {
-        "id": 392,
-        "name": "A\u00eft-Nouri",
-        "team": "MCI",
-        "target_pct": -99.7,
-        "cost": 5.3
+        "id": 488,
+        "name": "I.Sangar\u00e9",
+        "team": "NFO",
+        "target_pct": -101.1,
+        "cost": 4.9
       },
       {
         "id": 198,
         "name": "Henderson",
         "team": "CRY",
-        "target_pct": -99.6,
+        "target_pct": -101.0,
         "cost": 5.0
       },
       {
-        "id": 488,
-        "name": "I.Sangar\u00e9",
-        "team": "NFO",
-        "target_pct": -99.5,
+        "id": 392,
+        "name": "A\u00eft-Nouri",
+        "team": "MCI",
+        "target_pct": -101.0,
+        "cost": 5.3
+      },
+      {
+        "id": 351,
+        "name": "Mamardashvili",
+        "team": "LIV",
+        "target_pct": -100.3,
         "cost": 4.9
       },
       {
         "id": 339,
         "name": "Longstaff",
         "team": "LEE",
-        "target_pct": -99.1,
-        "cost": 4.9
-      },
-      {
-        "id": 351,
-        "name": "Mamardashvili",
-        "team": "LIV",
-        "target_pct": -98.8,
+        "target_pct": -100.2,
         "cost": 4.9
       },
       {
         "id": 368,
         "name": "Szoboszlai",
         "team": "LIV",
-        "target_pct": -98.7,
+        "target_pct": -100.2,
         "cost": 7.0
       },
       {
         "id": 180,
         "name": "Woolfenden",
         "team": "COV",
-        "target_pct": -98.2,
+        "target_pct": -99.5,
         "cost": 4.0
       },
       {
         "id": 406,
         "name": "Kova\u010di\u0107",
         "team": "MCI",
-        "target_pct": -97.8,
+        "target_pct": -99.2,
         "cost": 5.4
       },
       {
         "id": 241,
         "name": "McNeil",
         "team": "CRY",
-        "target_pct": -97.6,
+        "target_pct": -99.0,
         "cost": 5.4
       },
       {
         "id": 142,
         "name": "James",
         "team": "CHE",
-        "target_pct": -97.4,
+        "target_pct": -98.8,
         "cost": 5.4
       }
     ]
@@ -373,10 +373,10 @@
       "team": "ARS",
       "position": "MID",
       "is_starter": true,
-      "status": "a",
-      "chance": null,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Hamstring injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 379,

@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-02T13:01:38.976944+00:00
+**Captured:** 2026-10-02T18:37:11.006600+00:00
 
 ## 1. Key Fixtures
 
@@ -34,22 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £5.8m: 95.7%
-- Calafiori (ARS) £5.8m: 95.4%
-- Saka (ARS) £9.5m: 93.0%
-- King (FUL) £5.5m: 89.9%
-- Rogers (CHE) £7.7m: 88.9%
+- Groß (BHA) £5.8m: 97.6%
+- Calafiori (ARS) £5.8m: 96.7%
+- Saka (ARS) £9.5m: 94.4%
+- King (FUL) £5.5m: 91.3%
+- Rogers (CHE) £7.7m: 90.3%
 
 ### Falls (Target <= -80%)
-- Aït-Nouri (MCI) £5.3m: -99.7%
-- Henderson (CRY) £5.0m: -99.6%
-- I.Sangaré (NFO) £4.9m: -99.5%
-- Longstaff (LEE) £4.9m: -99.1%
-- Mamardashvili (LIV) £4.9m: -98.8%
+- I.Sangaré (NFO) £4.9m: -101.1%
+- Henderson (CRY) £5.0m: -101.0%
+- Aït-Nouri (MCI) £5.3m: -101.0%
+- Mamardashvili (LIV) £4.9m: -100.3%
+- Longstaff (LEE) £4.9m: -100.2%
 
 ## 4. Squad Availability Doubts
 
 - [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
+- [XI] MID Tzolis (ARS): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [XI] FWD Isak (LIV): status=d, chance=75%, news: Thigh injury - 75% chance of playing
 - [BEN] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
 
