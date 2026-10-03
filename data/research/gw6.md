@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-03T13:10:07.469103+00:00
+**Captured:** 2026-10-03T17:31:39.864040+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £5.8m: 99.8%
-- Calafiori (ARS) £5.8m: 97.5%
-- Saka (ARS) £9.5m: 95.6%
-- King (FUL) £5.5m: 92.6%
-- Rogers (CHE) £7.7m: 91.6%
+- Groß (BHA) £5.8m: 100.5%
+- Calafiori (ARS) £5.8m: 98.0%
+- Saka (ARS) £9.5m: 96.2%
+- King (FUL) £5.5m: 93.1%
+- Rogers (CHE) £7.7m: 92.2%
 
 ### Falls (Target <= -80%)
-- Woolfenden (COV) £4.0m: -100.4%
-- Kovačić (MCI) £5.4m: -100.4%
-- James (CHE) £5.4m: -100.0%
-- McNeil (CRY) £5.4m: -100.0%
-- Dowell (HUL) £4.5m: -99.8%
+- Kovačić (MCI) £5.4m: -100.9%
+- Woolfenden (COV) £4.0m: -100.8%
+- James (CHE) £5.4m: -100.6%
+- McNeil (CRY) £5.4m: -100.5%
+- Dowell (HUL) £4.5m: -100.2%
 
 ## 4. Squad Availability Doubts
 
