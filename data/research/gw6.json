@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-10-03T20:47:13.393269+00:00",
+  "captured_at_utc": "2026-10-03T23:37:59.606248+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -149,139 +149,132 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 124,
-        "name": "Gro\u00df",
-        "team": "BHA",
-        "target_pct": 101.0,
-        "cost": 5.8
-      },
-      {
         "id": 8,
         "name": "Calafiori",
         "team": "ARS",
-        "target_pct": 98.2,
+        "target_pct": 98.3,
         "cost": 5.8
       },
       {
         "id": 12,
         "name": "Saka",
         "team": "ARS",
-        "target_pct": 96.6,
+        "target_pct": 96.9,
         "cost": 9.5
       },
       {
         "id": 268,
         "name": "King",
         "team": "FUL",
-        "target_pct": 93.3,
+        "target_pct": 93.5,
         "cost": 5.5
       },
       {
         "id": 40,
         "name": "Rogers",
         "team": "CHE",
-        "target_pct": 92.5,
+        "target_pct": 92.6,
         "cost": 7.7
       },
       {
         "id": 316,
         "name": "Emersonn",
         "team": "IPS",
-        "target_pct": 87.8,
+        "target_pct": 88.0,
         "cost": 5.5
       },
       {
         "id": 552,
         "name": "Brobbey",
         "team": "SUN",
-        "target_pct": 83.6,
+        "target_pct": 83.7,
         "cost": 5.7
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": 83.0,
+        "target_pct": 83.1,
         "cost": 5.7
       },
       {
         "id": 98,
         "name": "Janelt",
         "team": "BRE",
-        "target_pct": 80.7,
+        "target_pct": 80.8,
         "cost": 5.0
       }
     ],
     "imminent_falls": [
       {
-        "id": 406,
-        "name": "Kova\u010di\u0107",
-        "team": "MCI",
-        "target_pct": -101.1,
-        "cost": 5.4
-      },
-      {
-        "id": 180,
-        "name": "Woolfenden",
-        "team": "COV",
-        "target_pct": -101.0,
-        "cost": 4.0
-      },
-      {
-        "id": 142,
-        "name": "James",
-        "team": "CHE",
-        "target_pct": -100.9,
-        "cost": 5.4
-      },
-      {
-        "id": 241,
-        "name": "McNeil",
-        "team": "CRY",
-        "target_pct": -100.8,
-        "cost": 5.4
-      },
-      {
-        "id": 288,
-        "name": "Dowell",
-        "team": "HUL",
-        "target_pct": -100.5,
-        "cost": 4.5
-      },
-      {
-        "id": 419,
-        "name": "Martinez",
-        "team": "MUN",
-        "target_pct": -100.0,
-        "cost": 5.0
-      },
-      {
         "id": 416,
         "name": "De Ligt",
         "team": "MUN",
-        "target_pct": -99.1,
+        "target_pct": -99.2,
         "cost": 5.0
       },
       {
         "id": 221,
         "name": "Drakes-Thomas",
         "team": "CRY",
-        "target_pct": -98.5,
+        "target_pct": -98.6,
         "cost": 4.5
       },
       {
         "id": 428,
         "name": "Cunha",
         "team": "MUN",
-        "target_pct": -96.8,
+        "target_pct": -96.9,
         "cost": 7.9
       },
       {
         "id": 456,
         "name": "J.Ramsey",
         "team": "NEW",
-        "target_pct": -96.8,
+        "target_pct": -96.9,
         "cost": 4.9
+      },
+      {
+        "id": 550,
+        "name": "Jocelin.T",
+        "team": "SUN",
+        "target_pct": -96.9,
+        "cost": 5.0
+      },
+      {
+        "id": 306,
+        "name": "Greaves",
+        "team": "IPS",
+        "target_pct": -94.9,
+        "cost": 4.0
+      },
+      {
+        "id": 381,
+        "name": "Koumas",
+        "team": "LIV",
+        "target_pct": -94.7,
+        "cost": 5.0
+      },
+      {
+        "id": 621,
+        "name": "McAidoo",
+        "team": "MCI",
+        "target_pct": -93.7,
+        "cost": 4.5
+      },
+      {
+        "id": 245,
+        "name": "Dibling",
+        "team": "EVE",
+        "target_pct": -93.6,
+        "cost": 5.4
+      },
+      {
+        "id": 207,
+        "name": "Mingueza",
+        "team": "CRY",
+        "target_pct": -92.4,
+        "cost": 4.4
       }
     ]
   },
@@ -469,7 +462,7 @@
       "position": "MID",
       "form": 10.7,
       "total_points": 47,
-      "cost": 5.8
+      "cost": 5.9
     },
     {
       "id": 94,
