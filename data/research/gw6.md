@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-03T01:47:49.045403+00:00
+**Captured:** 2026-10-03T07:47:51.758415+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 126.9% |
-| João Pedro | CHE | 52.4% |
+| Haaland | MCI | 120.7% |
 | Calafiori | ARS | 51.0% |
-| B.Fernandes | MUN | 46.4% |
-| Rogers | CHE | 43.6% |
+| João Pedro | CHE | 50.3% |
+| B.Fernandes | MUN | 43.9% |
+| Rogers | CHE | 43.7% |
 | Raya | ARS | 42.3% |
-| Szoboszlai | LIV | 33.6% |
-| Groß | BHA | 30.3% |
+| Groß | BHA | 30.8% |
+| Szoboszlai | LIV | 30.4% |
 | Cherki | MCI | 28.9% |
 | Gvardiol | MCI | 26.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £5.8m: 98.6%
-- Calafiori (ARS) £5.8m: 97.1%
-- Saka (ARS) £9.5m: 95.0%
-- King (FUL) £5.5m: 92.0%
-- Rogers (CHE) £7.7m: 90.9%
+- Groß (BHA) £5.8m: 99.0%
+- Calafiori (ARS) £5.8m: 97.3%
+- Saka (ARS) £9.5m: 95.2%
+- King (FUL) £5.5m: 92.2%
+- Rogers (CHE) £7.7m: 91.2%
 
 ### Falls (Target <= -80%)
-- Woolfenden (COV) £4.0m: -100.0%
-- Kovačić (MCI) £5.4m: -99.9%
-- McNeil (CRY) £5.4m: -99.5%
-- James (CHE) £5.4m: -99.4%
-- Dowell (HUL) £4.5m: -99.3%
+- Woolfenden (COV) £4.0m: -100.1%
+- Kovačić (MCI) £5.4m: -100.1%
+- McNeil (CRY) £5.4m: -99.7%
+- James (CHE) £5.4m: -99.6%
+- Dowell (HUL) £4.5m: -99.4%
 
 ## 4. Squad Availability Doubts
 
