@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-04T15:55:48.689433+00:00
+**Captured:** 2026-10-04T19:21:48.178286+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Calafiori (ARS) £5.8m: 99.0%
-- Saka (ARS) £9.5m: 98.0%
-- King (FUL) £5.5m: 94.4%
-- Rogers (CHE) £7.7m: 93.7%
-- Emersonn (IPS) £5.5m: 88.6%
+- Calafiori (ARS) £5.8m: 99.6%
+- Saka (ARS) £9.5m: 98.8%
+- King (FUL) £5.5m: 95.1%
+- Rogers (CHE) £7.7m: 94.4%
+- Emersonn (IPS) £5.5m: 89.2%
 
 ### Falls (Target <= -80%)
-- De Ligt (MUN) £5.0m: -99.6%
-- Drakes-Thomas (CRY) £4.5m: -99.4%
-- J.Ramsey (NEW) £4.9m: -97.9%
-- Cunha (MUN) £7.9m: -97.4%
-- Jocelin.T (SUN) £5.0m: -97.3%
+- De Ligt (MUN) £5.0m: -100.2%
+- Drakes-Thomas (CRY) £4.5m: -100.0%
+- J.Ramsey (NEW) £4.9m: -98.6%
+- Cunha (MUN) £7.9m: -97.9%
+- Jocelin.T (SUN) £5.0m: -97.6%
 
 ## 4. Squad Availability Doubts
 
@@ -63,7 +63,7 @@
 | Schade | MID | BRE | 8.7 | 39 | £6.2m |
 | Vuskovic | DEF | BHA | 8.7 | 32 | £5.0m |
 | Semenyo | MID | MCI | 8.7 | 33 | £8.4m |
+| A.Becker | GK | LIV | 8.5 | 27 | £5.5m |
 | Tarkowski | DEF | EVE | 8.3 | 43 | £6.2m |
-| A.Becker | GK | LIV | 8.3 | 27 | £5.5m |
-| Haaland | FWD | MCI | 8.0 | 39 | £15.6m |
+| Davis | DEF | IPS | 8.0 | 25 | £4.0m |
 
