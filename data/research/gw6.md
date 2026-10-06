@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-06T10:40:35.222719+00:00
+**Captured:** 2026-10-06T17:04:53.978826+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- King (FUL) £5.5m: 100.6%
-- Rogers (CHE) £7.7m: 99.6%
-- Emersonn (IPS) £5.5m: 91.6%
-- Gvardiol (MCI) £5.7m: 86.4%
+- King (FUL) £5.5m: 101.9%
+- Rogers (CHE) £7.7m: 100.7%
+- Emersonn (IPS) £5.5m: 92.1%
+- Gvardiol (MCI) £5.7m: 86.8%
 - Brobbey (SUN) £5.7m: 85.5%
 
 ### Falls (Target <= -80%)
-- Cunha (MUN) £7.9m: -98.9%
-- Greaves (IPS) £4.0m: -98.6%
-- McAidoo (MCI) £4.5m: -98.6%
-- Dibling (EVE) £5.4m: -96.7%
-- Koumas (LIV) £5.0m: -96.6%
+- McAidoo (MCI) £4.5m: -99.2%
+- Greaves (IPS) £4.0m: -99.0%
+- Cunha (MUN) £7.9m: -98.8%
+- Yates (NFO) £4.5m: -97.1%
+- Dibling (EVE) £5.4m: -96.9%
 
 ## 4. Squad Availability Doubts
 
@@ -60,10 +60,10 @@
 |---|---|---|---|---|---|
 | Groß | MID | BHA | 15.5 | 47 | £5.9m |
 | Schade | MID | BRE | 12.0 | 39 | £6.2m |
+| Tarkowski | DEF | EVE | 11.0 | 43 | £6.2m |
 | Kostoulas | FWD | BHA | 10.0 | 28 | £5.6m |
 | Bogle | DEF | LEE | 10.0 | 42 | £4.6m |
 | Semenyo | MID | MCI | 10.0 | 33 | £8.4m |
 | Brobbey | FWD | SUN | 9.0 | 24 | £5.7m |
 | Schuster | DEF | BRE | 8.5 | 21 | £4.5m |
-| De Cuyper | DEF | BHA | 8.5 | 38 | £5.0m |
 
