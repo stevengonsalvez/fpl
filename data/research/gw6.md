@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-06T03:14:10.070723+00:00
+**Captured:** 2026-10-06T10:40:35.222719+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- King (FUL) £5.5m: 99.6%
-- Rogers (CHE) £7.7m: 98.6%
-- Emersonn (IPS) £5.5m: 91.3%
-- Gvardiol (MCI) £5.7m: 86.1%
-- Brobbey (SUN) £5.7m: 85.4%
+- King (FUL) £5.5m: 100.6%
+- Rogers (CHE) £7.7m: 99.6%
+- Emersonn (IPS) £5.5m: 91.6%
+- Gvardiol (MCI) £5.7m: 86.4%
+- Brobbey (SUN) £5.7m: 85.5%
 
 ### Falls (Target <= -80%)
 - Cunha (MUN) £7.9m: -98.9%
-- Greaves (IPS) £4.0m: -98.4%
-- McAidoo (MCI) £4.5m: -98.2%
-- Jocelin.T (SUN) £5.0m: -97.5%
-- Dibling (EVE) £5.4m: -96.2%
+- Greaves (IPS) £4.0m: -98.6%
+- McAidoo (MCI) £4.5m: -98.6%
+- Dibling (EVE) £5.4m: -96.7%
+- Koumas (LIV) £5.0m: -96.6%
 
 ## 4. Squad Availability Doubts
 
