@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-07T07:36:05.455019+00:00
+**Captured:** 2026-10-07T15:19:17.611809+00:00
 
 ## 1. Key Fixtures
 
@@ -34,17 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Emersonn (IPS) £5.5m: 92.7%
-- Gvardiol (MCI) £5.7m: 87.3%
-- Brobbey (SUN) £5.7m: 85.4%
-- Janelt (BRE) £5.0m: 83.9%
+- Emersonn (IPS) £5.5m: 93.2%
+- Gvardiol (MCI) £5.7m: 87.7%
+- Brobbey (SUN) £5.7m: 85.3%
+- Janelt (BRE) £5.0m: 84.1%
+- Davis (IPS) £4.0m: 80.2%
 
 ### Falls (Target <= -80%)
-- Greaves (IPS) £4.0m: -99.9%
-- McAidoo (MCI) £4.5m: -99.9%
-- Cunha (MUN) £7.9m: -98.6%
-- Yates (NFO) £4.5m: -97.9%
-- Mingueza (CRY) £4.4m: -97.0%
+- McAidoo (MCI) £4.5m: -101.0%
+- Greaves (IPS) £4.0m: -100.4%
+- Yates (NFO) £4.5m: -98.5%
+- Cunha (MUN) £7.9m: -98.2%
+- Mingueza (CRY) £4.4m: -97.9%
 
 ## 4. Squad Availability Doubts
 
