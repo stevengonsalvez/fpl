@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-07T01:16:09.070786+00:00
+**Captured:** 2026-10-07T07:36:05.455019+00:00
 
 ## 1. Key Fixtures
 
@@ -20,31 +20,31 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 130.1% |
-| B.Fernandes | MUN | 58.9% |
-| Calafiori | ARS | 49.8% |
-| João Pedro | CHE | 49.3% |
-| Rogers | CHE | 43.3% |
+| Haaland | MCI | 124.1% |
+| B.Fernandes | MUN | 60.6% |
+| João Pedro | CHE | 50.4% |
+| Calafiori | ARS | 49.9% |
+| Rogers | CHE | 45.8% |
 | Raya | ARS | 42.3% |
-| Groß | BHA | 34.1% |
+| Groß | BHA | 34.4% |
 | Szoboszlai | LIV | 29.1% |
 | Cherki | MCI | 29.0% |
-| De Cuyper | BHA | 26.6% |
+| De Cuyper | BHA | 26.7% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Emersonn (IPS) £5.5m: 92.5%
-- Gvardiol (MCI) £5.7m: 87.2%
-- Brobbey (SUN) £5.7m: 85.5%
-- Janelt (BRE) £5.0m: 83.8%
+- Emersonn (IPS) £5.5m: 92.7%
+- Gvardiol (MCI) £5.7m: 87.3%
+- Brobbey (SUN) £5.7m: 85.4%
+- Janelt (BRE) £5.0m: 83.9%
 
 ### Falls (Target <= -80%)
-- McAidoo (MCI) £4.5m: -99.8%
-- Greaves (IPS) £4.0m: -99.6%
-- Cunha (MUN) £7.9m: -98.7%
-- Yates (NFO) £4.5m: -97.6%
-- Dibling (EVE) £5.4m: -96.8%
+- Greaves (IPS) £4.0m: -99.9%
+- McAidoo (MCI) £4.5m: -99.9%
+- Cunha (MUN) £7.9m: -98.6%
+- Yates (NFO) £4.5m: -97.9%
+- Mingueza (CRY) £4.4m: -97.0%
 
 ## 4. Squad Availability Doubts
 
