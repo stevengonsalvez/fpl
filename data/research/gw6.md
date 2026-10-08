@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-08T00:49:50.796330+00:00
+**Captured:** 2026-10-08T07:08:16.541477+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 124.1% |
-| B.Fernandes | MUN | 60.6% |
-| João Pedro | CHE | 50.4% |
+| Haaland | MCI | 119.7% |
+| João Pedro | CHE | 50.3% |
 | Calafiori | ARS | 49.9% |
-| Rogers | CHE | 45.8% |
-| Raya | ARS | 42.3% |
-| Groß | BHA | 34.4% |
-| Szoboszlai | LIV | 29.1% |
-| Cherki | MCI | 29.0% |
-| De Cuyper | BHA | 26.7% |
+| B.Fernandes | MUN | 49.6% |
+| Rogers | CHE | 43.7% |
+| Raya | ARS | 42.4% |
+| Saka | ARS | 37.8% |
+| Groß | BHA | 35.1% |
+| Szoboszlai | LIV | 29.2% |
+| Cherki | MCI | 29.2% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Emersonn (IPS) £5.5m: 93.9%
-- Gvardiol (MCI) £5.7m: 88.3%
+- Emersonn (IPS) £5.5m: 94.2%
+- Gvardiol (MCI) £5.7m: 88.5%
 - Brobbey (SUN) £5.7m: 85.1%
-- Janelt (BRE) £5.0m: 84.3%
-- Davis (IPS) £4.0m: 80.8%
+- Janelt (BRE) £5.0m: 84.4%
+- Davis (IPS) £4.0m: 81.0%
 
 ### Falls (Target <= -80%)
-- Yates (NFO) £4.5m: -99.5%
-- Mingueza (CRY) £4.4m: -98.4%
-- Dibling (EVE) £5.4m: -98.1%
-- Rashford (MUN) £7.0m: -98.0%
-- Cunha (MUN) £7.9m: -97.8%
+- Yates (NFO) £4.5m: -99.7%
+- Rashford (MUN) £7.0m: -98.6%
+- Mingueza (CRY) £4.4m: -98.5%
+- Dibling (EVE) £5.4m: -98.5%
+- Cunha (MUN) £7.9m: -97.6%
 
 ## 4. Squad Availability Doubts
 
