@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-09T01:03:13.144930+00:00
+**Captured:** 2026-10-09T07:50:56.729037+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 119.7% |
-| João Pedro | CHE | 50.3% |
-| Calafiori | ARS | 49.9% |
-| B.Fernandes | MUN | 49.6% |
+| Haaland | MCI | 112.0% |
+| Calafiori | ARS | 50.0% |
+| B.Fernandes | MUN | 49.0% |
+| João Pedro | CHE | 49.0% |
+| Saka | ARS | 48.6% |
 | Rogers | CHE | 43.7% |
-| Raya | ARS | 42.4% |
-| Saka | ARS | 37.8% |
-| Groß | BHA | 35.1% |
-| Szoboszlai | LIV | 29.2% |
-| Cherki | MCI | 29.2% |
+| Raya | ARS | 42.6% |
+| Groß | BHA | 35.6% |
+| Cherki | MCI | 29.1% |
+| Szoboszlai | LIV | 28.7% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Emersonn (IPS) £5.5m: 96.7%
-- Gvardiol (MCI) £5.7m: 90.2%
-- Janelt (BRE) £5.0m: 84.7%
-- Davis (IPS) £4.0m: 82.8%
-- Gonzalo (FUL) £6.0m: 80.7%
+- Emersonn (IPS) £5.5m: 97.6%
+- Gvardiol (MCI) £5.7m: 90.7%
+- Janelt (BRE) £5.0m: 84.8%
+- Gonzalo (FUL) £6.0m: 83.8%
+- Davis (IPS) £4.0m: 83.5%
 
 ### Falls (Target <= -80%)
-- Hamer (COV) £5.4m: -99.2%
-- Rulli (MCI) £5.0m: -98.4%
-- Nyoni (LIV) £4.9m: -97.6%
-- Gabriel (ARS) £8.0m: -96.6%
-- Jocelin.T (SUN) £5.0m: -96.6%
+- Hamer (COV) £5.4m: -100.0%
+- Rulli (MCI) £5.0m: -98.6%
+- Jocelin.T (SUN) £5.0m: -98.1%
+- Nyoni (LIV) £4.9m: -97.5%
+- Gabriel (ARS) £8.0m: -96.7%
 
 ## 4. Squad Availability Doubts
 
