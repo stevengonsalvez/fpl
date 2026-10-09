@@ -1,7 +1,7 @@
 {
   "gameweek": 6,
   "deadline_utc": "2026-10-10T10:00:00Z",
-  "captured_at_utc": "2026-10-09T07:50:56.729037+00:00",
+  "captured_at_utc": "2026-10-09T15:05:56.400506+00:00",
   "fixtures": [
     {
       "home": "ARS",
@@ -149,111 +149,118 @@
   "price_changes": {
     "imminent_rises": [
       {
+        "id": 569,
+        "name": "Gonzalo",
+        "team": "FUL",
+        "target_pct": 100.9,
+        "cost": 6.0
+      },
+      {
         "id": 316,
         "name": "Emersonn",
         "team": "IPS",
-        "target_pct": 97.6,
+        "target_pct": 100.9,
         "cost": 5.5
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": 90.7,
+        "target_pct": 92.8,
         "cost": 5.7
-      },
-      {
-        "id": 98,
-        "name": "Janelt",
-        "team": "BRE",
-        "target_pct": 84.8,
-        "cost": 5.0
-      },
-      {
-        "id": 569,
-        "name": "Gonzalo",
-        "team": "FUL",
-        "target_pct": 83.8,
-        "cost": 6.0
       },
       {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 83.5,
+        "target_pct": 85.7,
         "cost": 4.0
+      },
+      {
+        "id": 98,
+        "name": "Janelt",
+        "team": "BRE",
+        "target_pct": 85.1,
+        "cost": 5.0
+      },
+      {
+        "id": 464,
+        "name": "Wissa",
+        "team": "NEW",
+        "target_pct": 84.2,
+        "cost": 6.2
       }
     ],
     "imminent_falls": [
       {
+        "id": 10,
+        "name": "White",
+        "team": "ARS",
+        "target_pct": -133.5,
+        "cost": 5.5
+      },
+      {
         "id": 584,
         "name": "Hamer",
         "team": "COV",
-        "target_pct": -100.0,
+        "target_pct": -104.0,
+        "cost": 5.4
+      },
+      {
+        "id": 375,
+        "name": "Nyoni",
+        "team": "LIV",
+        "target_pct": -101.3,
+        "cost": 4.9
+      },
+      {
+        "id": 190,
+        "name": "Tchaouna",
+        "team": "COV",
+        "target_pct": -99.7,
         "cost": 5.4
       },
       {
         "id": 587,
         "name": "Rulli",
         "team": "MCI",
-        "target_pct": -98.6,
+        "target_pct": -99.0,
         "cost": 5.0
       },
       {
         "id": 550,
         "name": "Jocelin.T",
         "team": "SUN",
-        "target_pct": -98.1,
+        "target_pct": -99.0,
         "cost": 5.0
-      },
-      {
-        "id": 375,
-        "name": "Nyoni",
-        "team": "LIV",
-        "target_pct": -97.5,
-        "cost": 4.9
-      },
-      {
-        "id": 4,
-        "name": "Gabriel",
-        "team": "ARS",
-        "target_pct": -96.7,
-        "cost": 8.0
-      },
-      {
-        "id": 190,
-        "name": "Tchaouna",
-        "team": "COV",
-        "target_pct": -96.5,
-        "cost": 5.4
       },
       {
         "id": 313,
         "name": "Clarke",
         "team": "IPS",
-        "target_pct": -96.3,
+        "target_pct": -98.3,
         "cost": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Gabriel",
+        "team": "ARS",
+        "target_pct": -97.2,
+        "cost": 8.0
       },
       {
         "id": 134,
         "name": "Oriola",
         "team": "BHA",
-        "target_pct": -94.4,
+        "target_pct": -97.0,
         "cost": 4.5
       },
       {
-        "id": 428,
-        "name": "Cunha",
-        "team": "MUN",
-        "target_pct": -94.4,
-        "cost": 7.9
-      },
-      {
-        "id": 360,
-        "name": "Bradley",
-        "team": "LIV",
-        "target_pct": -93.9,
-        "cost": 5.0
+        "id": 70,
+        "name": "Kluivert",
+        "team": "BOU",
+        "target_pct": -95.1,
+        "cost": 6.0
       }
     ]
   },
@@ -275,9 +282,9 @@
       "team": "TOT",
       "position": "DEF",
       "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Hamstring injury - Unknown return date",
       "clean": false
     },
     {
@@ -352,9 +359,9 @@
       "team": "ARS",
       "position": "MID",
       "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Hamstring injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Hamstring injury - Expected back 24 Oct",
       "clean": false
     },
     {
@@ -363,9 +370,9 @@
       "team": "LIV",
       "position": "FWD",
       "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Thigh injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Thigh injury - Unknown return date",
       "clean": false
     },
     {
@@ -396,10 +403,10 @@
       "team": "CHE",
       "position": "FWD",
       "is_starter": false,
-      "status": "d",
-      "chance": 75,
-      "news": "Knee injury - 75% chance of playing",
-      "clean": false
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
     },
     {
       "id": 423,

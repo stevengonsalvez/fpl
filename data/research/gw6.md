@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-09T07:50:56.729037+00:00
+**Captured:** 2026-10-09T15:05:56.400506+00:00
 
 ## 1. Key Fixtures
 
@@ -34,25 +34,24 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Emersonn (IPS) £5.5m: 97.6%
-- Gvardiol (MCI) £5.7m: 90.7%
-- Janelt (BRE) £5.0m: 84.8%
-- Gonzalo (FUL) £6.0m: 83.8%
-- Davis (IPS) £4.0m: 83.5%
+- Gonzalo (FUL) £6.0m: 100.9%
+- Emersonn (IPS) £5.5m: 100.9%
+- Gvardiol (MCI) £5.7m: 92.8%
+- Davis (IPS) £4.0m: 85.7%
+- Janelt (BRE) £5.0m: 85.1%
 
 ### Falls (Target <= -80%)
-- Hamer (COV) £5.4m: -100.0%
-- Rulli (MCI) £5.0m: -98.6%
-- Jocelin.T (SUN) £5.0m: -98.1%
-- Nyoni (LIV) £4.9m: -97.5%
-- Gabriel (ARS) £8.0m: -96.7%
+- White (ARS) £5.5m: -133.5%
+- Hamer (COV) £5.4m: -104.0%
+- Nyoni (LIV) £4.9m: -101.3%
+- Tchaouna (COV) £5.4m: -99.7%
+- Rulli (MCI) £5.0m: -99.0%
 
 ## 4. Squad Availability Doubts
 
-- [XI] DEF Pedro Porro (TOT): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
-- [XI] MID Tzolis (ARS): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
-- [XI] FWD Isak (LIV): status=d, chance=75%, news: Thigh injury - 75% chance of playing
-- [BEN] FWD João Pedro (CHE): status=d, chance=75%, news: Knee injury - 75% chance of playing
+- [XI] DEF Pedro Porro (TOT): status=i, chance=0%, news: Hamstring injury - Unknown return date
+- [XI] MID Tzolis (ARS): status=i, chance=0%, news: Hamstring injury - Expected back 24 Oct
+- [XI] FWD Isak (LIV): status=i, chance=0%, news: Thigh injury - Unknown return date
 
 ## 5. Top Form Assets
 
