@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 6
 
 **Deadline:** 2026-10-10T10:00:00Z
-**Captured:** 2026-10-10T00:14:05.626679+00:00
+**Captured:** 2026-10-10T06:14:54.097870+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 112.0% |
-| Calafiori | ARS | 50.0% |
-| B.Fernandes | MUN | 49.0% |
-| João Pedro | CHE | 49.0% |
-| Saka | ARS | 48.6% |
-| Rogers | CHE | 43.7% |
-| Raya | ARS | 42.6% |
-| Groß | BHA | 35.6% |
+| Haaland | MCI | 101.6% |
+| João Pedro | CHE | 71.3% |
+| B.Fernandes | MUN | 52.7% |
+| Calafiori | ARS | 50.4% |
+| Rogers | CHE | 44.8% |
+| Raya | ARS | 43.4% |
+| Groß | BHA | 38.3% |
+| Palmer | CHE | 38.2% |
+| Saka | ARS | 31.9% |
 | Cherki | MCI | 29.1% |
-| Szoboszlai | LIV | 28.7% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Gvardiol (MCI) £5.7m: 97.2%
-- Wissa (NEW) £6.2m: 96.7%
-- Davis (IPS) £4.0m: 90.0%
-- Janelt (BRE) £5.0m: 85.2%
-- Groß (BHA) £5.9m: 84.3%
+- Wissa (NEW) £6.2m: 100.3%
+- Gvardiol (MCI) £5.7m: 98.3%
+- Groß (BHA) £5.9m: 95.8%
+- Davis (IPS) £4.0m: 91.7%
+- Janelt (BRE) £5.0m: 85.1%
 
 ### Falls (Target <= -80%)
-- Bentancur (TOT) £5.5m: -99.4%
-- Chilwell (CRY) £4.5m: -99.1%
-- Hjertø-Dahl (HUL) £4.9m: -99.0%
-- Rulli (MCI) £5.0m: -99.0%
-- Burrowes (AVL) £4.5m: -98.3%
+- Bentancur (TOT) £5.5m: -103.8%
+- Chilwell (CRY) £4.5m: -102.3%
+- Hjertø-Dahl (HUL) £4.9m: -101.0%
+- Rulli (MCI) £5.0m: -100.0%
+- Burrowes (AVL) £4.5m: -99.6%
 
 ## 4. Squad Availability Doubts
 
