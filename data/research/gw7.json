@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-10T12:55:02.401408+00:00",
+  "captured_at_utc": "2026-10-10T17:42:15.671445+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -149,53 +149,60 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 464,
-        "name": "Wissa",
-        "team": "NEW",
-        "target_pct": 115.3,
-        "cost": 6.2
-      },
-      {
         "id": 124,
         "name": "Gro\u00df",
         "team": "BHA",
-        "target_pct": 107.6,
+        "target_pct": 135.8,
         "cost": 5.9
+      },
+      {
+        "id": 464,
+        "name": "Wissa",
+        "team": "NEW",
+        "target_pct": 111.7,
+        "cost": 6.2
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": 103.3,
+        "target_pct": 107.4,
         "cost": 5.7
       },
       {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 97.7,
+        "target_pct": 97.6,
         "cost": 4.0
       },
       {
         "id": 330,
         "name": "Bogle",
         "team": "LEE",
-        "target_pct": 91.2,
+        "target_pct": 94.2,
         "cost": 4.6
       },
       {
         "id": 166,
         "name": "N.Jackson",
         "team": "AVL",
-        "target_pct": 85.2,
+        "target_pct": 90.2,
         "cost": 6.5
       },
       {
         "id": 98,
         "name": "Janelt",
         "team": "BRE",
-        "target_pct": 85.2,
+        "target_pct": 85.3,
         "cost": 5.0
+      },
+      {
+        "id": 138,
+        "name": "Kostoulas",
+        "team": "BHA",
+        "target_pct": 83.2,
+        "cost": 5.6
       }
     ],
     "imminent_falls": [
@@ -203,71 +210,71 @@
         "id": 648,
         "name": "Bahoya",
         "team": "LEE",
-        "target_pct": -138.3,
+        "target_pct": -146.5,
         "cost": 5.0
-      },
-      {
-        "id": 13,
-        "name": "Rice",
-        "team": "ARS",
-        "target_pct": -129.2,
-        "cost": 7.4
       },
       {
         "id": 26,
         "name": "Havertz",
         "team": "ARS",
-        "target_pct": -124.9,
+        "target_pct": -130.5,
         "cost": 7.6
       },
       {
-        "id": 153,
-        "name": "Disasi",
-        "team": "CRY",
-        "target_pct": -113.2,
-        "cost": 4.5
+        "id": 13,
+        "name": "Rice",
+        "team": "ARS",
+        "target_pct": -127.9,
+        "cost": 7.4
       },
       {
         "id": 379,
         "name": "Isak",
         "team": "LIV",
-        "target_pct": -112.5,
+        "target_pct": -122.9,
         "cost": 9.1
+      },
+      {
+        "id": 153,
+        "name": "Disasi",
+        "team": "CRY",
+        "target_pct": -115.2,
+        "cost": 4.5
       },
       {
         "id": 643,
         "name": "Chilwell",
         "team": "CRY",
-        "target_pct": -111.8,
+        "target_pct": -114.6,
         "cost": 4.5
-      },
-      {
-        "id": 516,
-        "name": "Bentancur",
-        "team": "TOT",
-        "target_pct": -110.7,
-        "cost": 5.5
-      },
-      {
-        "id": 574,
-        "name": "Hjert\u00f8-Dahl",
-        "team": "HUL",
-        "target_pct": -109.2,
-        "cost": 4.9
       },
       {
         "id": 532,
         "name": "Ballard",
         "team": "SUN",
-        "target_pct": -105.1,
+        "target_pct": -111.0,
         "cost": 4.9
       },
       {
-        "id": 50,
-        "name": "Burrowes",
-        "team": "AVL",
-        "target_pct": -104.1,
-        "cost": 4.5
+        "id": 574,
+        "name": "Hjert\u00f8-Dahl",
+        "team": "HUL",
+        "target_pct": -110.8,
+        "cost": 4.9
+      },
+      {
+        "id": 516,
+        "name": "Bentancur",
+        "team": "TOT",
+        "target_pct": -110.4,
+        "cost": 5.5
+      },
+      {
+        "id": 544,
+        "name": "Xhaka",
+        "team": "SUN",
+        "target_pct": -106.0,
+        "cost": 5.5
       }
     ]
   },
@@ -366,10 +373,10 @@
       "team": "BRE",
       "position": "MID",
       "is_starter": true,
-      "status": "a",
-      "chance": null,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Shoulder injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 138,
@@ -444,45 +451,54 @@
       "name": "Gro\u00df",
       "team": "BHA",
       "position": "MID",
-      "form": 10.3,
-      "total_points": 47,
+      "form": 12.3,
+      "total_points": 53,
       "cost": 5.9
     },
     {
-      "id": 330,
-      "name": "Bogle",
-      "team": "LEE",
+      "id": 115,
+      "name": "De Cuyper",
+      "team": "BHA",
       "position": "DEF",
-      "form": 8.7,
-      "total_points": 48,
-      "cost": 4.6
+      "form": 10.7,
+      "total_points": 53,
+      "cost": 5.0
     },
     {
       "id": 94,
       "name": "Schade",
       "team": "BRE",
       "position": "MID",
-      "form": 8.0,
-      "total_points": 39,
+      "form": 8.3,
+      "total_points": 40,
       "cost": 6.2
     },
     {
-      "id": 331,
-      "name": "Gudmundsson",
-      "team": "LEE",
-      "position": "DEF",
+      "id": 165,
+      "name": "Jo\u00e3o Pedro",
+      "team": "CHE",
+      "position": "FWD",
       "form": 8.0,
-      "total_points": 26,
+      "total_points": 45,
+      "cost": 7.7
+    },
+    {
+      "id": 109,
+      "name": "Verbruggen",
+      "team": "BHA",
+      "position": "GK",
+      "form": 7.7,
+      "total_points": 32,
       "cost": 4.5
     },
     {
-      "id": 332,
-      "name": "Justin",
-      "team": "LEE",
+      "id": 504,
+      "name": "Vuskovic",
+      "team": "BHA",
       "position": "DEF",
-      "form": 8.0,
+      "form": 7.3,
       "total_points": 40,
-      "cost": 4.5
+      "cost": 5.0
     },
     {
       "id": 229,
@@ -494,40 +510,31 @@
       "cost": 6.2
     },
     {
+      "id": 45,
+      "name": "McGinn",
+      "team": "AVL",
+      "position": "MID",
+      "form": 7.0,
+      "total_points": 26,
+      "cost": 5.4
+    },
+    {
       "id": 138,
       "name": "Kostoulas",
       "team": "BHA",
       "position": "FWD",
-      "form": 6.7,
-      "total_points": 28,
+      "form": 7.0,
+      "total_points": 29,
       "cost": 5.6
     },
     {
-      "id": 385,
-      "name": "Trafford",
+      "id": 330,
+      "name": "Bogle",
       "team": "LEE",
-      "position": "GK",
-      "form": 6.7,
-      "total_points": 35,
-      "cost": 5.0
-    },
-    {
-      "id": 397,
-      "name": "Semenyo",
-      "team": "MCI",
-      "position": "MID",
-      "form": 6.7,
-      "total_points": 33,
-      "cost": 8.4
-    },
-    {
-      "id": 1,
-      "name": "Raya",
-      "team": "ARS",
-      "position": "GK",
-      "form": 6.0,
-      "total_points": 33,
-      "cost": 6.1
+      "position": "DEF",
+      "form": 7.0,
+      "total_points": 43,
+      "cost": 4.6
     }
   ]
 }
