@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-11T18:20:30.356847+00:00
+**Captured:** 2026-10-11T22:19:23.867727+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £5.0m: 161.4%
-- João Pedro (CHE) £7.7m: 129.9%
-- Bogle (LEE) £4.6m: 103.3%
-- N.Jackson (AVL) £6.5m: 101.8%
-- Davis (IPS) £4.0m: 97.7%
+- De Cuyper (BHA) £5.0m: 183.0%
+- João Pedro (CHE) £7.7m: 147.9%
+- Bogle (LEE) £4.6m: 106.1%
+- Rogers (CHE) £7.8m: 106.0%
+- N.Jackson (AVL) £6.5m: 104.6%
 
 ### Falls (Target <= -80%)
-- Scott (BOU) £6.1m: -112.7%
-- Dalot (MUN) £4.9m: -109.4%
-- Gakpo (LIV) £7.2m: -104.1%
-- Ansah (HUL) £5.0m: -103.1%
-- Andrey Santos (MUN) £4.8m: -102.7%
+- Scott (BOU) £6.1m: -118.5%
+- Dalot (MUN) £4.9m: -112.4%
+- Gakpo (LIV) £7.2m: -111.2%
+- Andrey Santos (MUN) £4.8m: -106.1%
+- Ansah (HUL) £5.0m: -105.0%
 
 ## 4. Squad Availability Doubts
 
