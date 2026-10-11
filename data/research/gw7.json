@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-11T06:14:07.133684+00:00",
+  "captured_at_utc": "2026-10-11T13:18:56.097887+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -152,8 +152,22 @@
         "id": 115,
         "name": "De Cuyper",
         "team": "BHA",
-        "target_pct": 108.6,
+        "target_pct": 124.8,
         "cost": 5.0
+      },
+      {
+        "id": 330,
+        "name": "Bogle",
+        "team": "LEE",
+        "target_pct": 98.9,
+        "cost": 4.6
+      },
+      {
+        "id": 165,
+        "name": "Jo\u00e3o Pedro",
+        "team": "CHE",
+        "target_pct": 97.8,
+        "cost": 7.7
       },
       {
         "id": 305,
@@ -163,52 +177,38 @@
         "cost": 4.0
       },
       {
-        "id": 330,
-        "name": "Bogle",
-        "team": "LEE",
-        "target_pct": 97.2,
-        "cost": 4.6
-      },
-      {
         "id": 166,
         "name": "N.Jackson",
         "team": "AVL",
-        "target_pct": 94.5,
+        "target_pct": 96.7,
         "cost": 6.5
       },
       {
         "id": 138,
         "name": "Kostoulas",
         "team": "BHA",
-        "target_pct": 86.7,
+        "target_pct": 88.5,
         "cost": 5.6
       },
       {
         "id": 98,
         "name": "Janelt",
         "team": "BRE",
-        "target_pct": 86.0,
+        "target_pct": 86.3,
         "cost": 5.0
-      },
-      {
-        "id": 165,
-        "name": "Jo\u00e3o Pedro",
-        "team": "CHE",
-        "target_pct": 83.5,
-        "cost": 7.7
       },
       {
         "id": 504,
         "name": "Vuskovic",
         "team": "BHA",
-        "target_pct": 82.1,
+        "target_pct": 83.3,
         "cost": 5.0
       },
       {
         "id": 109,
         "name": "Verbruggen",
         "team": "BHA",
-        "target_pct": 81.3,
+        "target_pct": 83.2,
         "cost": 4.5
       }
     ],
@@ -217,71 +217,71 @@
         "id": 417,
         "name": "Dalot",
         "team": "MUN",
-        "target_pct": -101.0,
+        "target_pct": -103.6,
         "cost": 4.9
-      },
-      {
-        "id": 396,
-        "name": "Vitor Reis",
-        "team": "MCI",
-        "target_pct": -99.2,
-        "cost": 4.5
-      },
-      {
-        "id": 632,
-        "name": "Ansah",
-        "team": "HUL",
-        "target_pct": -98.8,
-        "cost": 5.0
-      },
-      {
-        "id": 386,
-        "name": "Bettinelli",
-        "team": "MCI",
-        "target_pct": -98.5,
-        "cost": 4.5
       },
       {
         "id": 69,
         "name": "Scott",
         "team": "BOU",
-        "target_pct": -97.8,
+        "target_pct": -101.9,
         "cost": 6.1
+      },
+      {
+        "id": 632,
+        "name": "Ansah",
+        "team": "HUL",
+        "target_pct": -99.7,
+        "cost": 5.0
+      },
+      {
+        "id": 396,
+        "name": "Vitor Reis",
+        "team": "MCI",
+        "target_pct": -99.7,
+        "cost": 4.5
+      },
+      {
+        "id": 386,
+        "name": "Bettinelli",
+        "team": "MCI",
+        "target_pct": -98.8,
+        "cost": 4.5
+      },
+      {
+        "id": 160,
+        "name": "Garnacho",
+        "team": "AVL",
+        "target_pct": -98.1,
+        "cost": 5.8
       },
       {
         "id": 77,
         "name": "Adli",
         "team": "BOU",
-        "target_pct": -96.9,
+        "target_pct": -97.8,
         "cost": 4.9
       },
       {
         "id": 559,
         "name": "Bamba",
         "team": "NEW",
-        "target_pct": -96.8,
+        "target_pct": -97.7,
         "cost": 4.9
-      },
-      {
-        "id": 160,
-        "name": "Garnacho",
-        "team": "AVL",
-        "target_pct": -96.7,
-        "cost": 5.8
       },
       {
         "id": 72,
         "name": "Gannon-Doak",
         "team": "BOU",
-        "target_pct": -96.2,
+        "target_pct": -96.9,
         "cost": 4.9
       },
       {
-        "id": 487,
-        "name": "Dominguez",
-        "team": "NFO",
-        "target_pct": -95.6,
-        "cost": 4.9
+        "id": 162,
+        "name": "Andrey Santos",
+        "team": "MUN",
+        "target_pct": -96.5,
+        "cost": 4.8
       }
     ]
   },
@@ -499,6 +499,15 @@
       "cost": 4.5
     },
     {
+      "id": 229,
+      "name": "Tarkowski",
+      "team": "EVE",
+      "position": "DEF",
+      "form": 7.7,
+      "total_points": 44,
+      "cost": 6.2
+    },
+    {
       "id": 45,
       "name": "McGinn",
       "team": "AVL",
@@ -515,15 +524,6 @@
       "form": 7.3,
       "total_points": 40,
       "cost": 5.0
-    },
-    {
-      "id": 229,
-      "name": "Tarkowski",
-      "team": "EVE",
-      "position": "DEF",
-      "form": 7.3,
-      "total_points": 43,
-      "cost": 6.2
     },
     {
       "id": 428,

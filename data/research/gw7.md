@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-11T06:14:07.133684+00:00
+**Captured:** 2026-10-11T13:18:56.097887+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £5.0m: 108.6%
+- De Cuyper (BHA) £5.0m: 124.8%
+- Bogle (LEE) £4.6m: 98.9%
+- João Pedro (CHE) £7.7m: 97.8%
 - Davis (IPS) £4.0m: 97.7%
-- Bogle (LEE) £4.6m: 97.2%
-- N.Jackson (AVL) £6.5m: 94.5%
-- Kostoulas (BHA) £5.6m: 86.7%
+- N.Jackson (AVL) £6.5m: 96.7%
 
 ### Falls (Target <= -80%)
-- Dalot (MUN) £4.9m: -101.0%
-- Vitor Reis (MCI) £4.5m: -99.2%
-- Ansah (HUL) £5.0m: -98.8%
-- Bettinelli (MCI) £4.5m: -98.5%
-- Scott (BOU) £6.1m: -97.8%
+- Dalot (MUN) £4.9m: -103.6%
+- Scott (BOU) £6.1m: -101.9%
+- Ansah (HUL) £5.0m: -99.7%
+- Vitor Reis (MCI) £4.5m: -99.7%
+- Bettinelli (MCI) £4.5m: -98.8%
 
 ## 4. Squad Availability Doubts
 
@@ -60,7 +60,7 @@
 | Schade | MID | BRE | 8.3 | 40 | £6.2m |
 | João Pedro | FWD | CHE | 8.0 | 45 | £7.7m |
 | Verbruggen | GK | BHA | 7.7 | 32 | £4.5m |
+| Tarkowski | DEF | EVE | 7.7 | 44 | £6.2m |
 | McGinn | MID | AVL | 7.3 | 27 | £5.4m |
 | Vuskovic | DEF | BHA | 7.3 | 40 | £5.0m |
-| Tarkowski | DEF | EVE | 7.3 | 43 | £6.2m |
 
