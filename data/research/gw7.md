@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-11T13:18:56.097887+00:00
+**Captured:** 2026-10-11T18:20:30.356847+00:00
 
 ## 1. Key Fixtures
 
@@ -34,21 +34,22 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £5.0m: 124.8%
-- Bogle (LEE) £4.6m: 98.9%
-- João Pedro (CHE) £7.7m: 97.8%
+- De Cuyper (BHA) £5.0m: 161.4%
+- João Pedro (CHE) £7.7m: 129.9%
+- Bogle (LEE) £4.6m: 103.3%
+- N.Jackson (AVL) £6.5m: 101.8%
 - Davis (IPS) £4.0m: 97.7%
-- N.Jackson (AVL) £6.5m: 96.7%
 
 ### Falls (Target <= -80%)
-- Dalot (MUN) £4.9m: -103.6%
-- Scott (BOU) £6.1m: -101.9%
-- Ansah (HUL) £5.0m: -99.7%
-- Vitor Reis (MCI) £4.5m: -99.7%
-- Bettinelli (MCI) £4.5m: -98.8%
+- Scott (BOU) £6.1m: -112.7%
+- Dalot (MUN) £4.9m: -109.4%
+- Gakpo (LIV) £7.2m: -104.1%
+- Ansah (HUL) £5.0m: -103.1%
+- Andrey Santos (MUN) £4.8m: -102.7%
 
 ## 4. Squad Availability Doubts
 
+- [XI] MID Szoboszlai (LIV): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [XI] MID Schade (BRE): status=d, chance=75%, news: Shoulder injury - 75% chance of playing
 
 ## 5. Top Form Assets
@@ -58,9 +59,9 @@
 | Groß | MID | BHA | 12.3 | 53 | £6.0m |
 | De Cuyper | DEF | BHA | 10.7 | 53 | £5.0m |
 | Schade | MID | BRE | 8.3 | 40 | £6.2m |
+| Tarkowski | DEF | EVE | 8.3 | 46 | £6.2m |
 | João Pedro | FWD | CHE | 8.0 | 45 | £7.7m |
 | Verbruggen | GK | BHA | 7.7 | 32 | £4.5m |
-| Tarkowski | DEF | EVE | 7.7 | 44 | £6.2m |
-| McGinn | MID | AVL | 7.3 | 27 | £5.4m |
-| Vuskovic | DEF | BHA | 7.3 | 40 | £5.0m |
+| Belloumi | MID | HUL | 7.7 | 37 | £5.1m |
+| Semenyo | MID | MCI | 7.7 | 36 | £8.4m |
 

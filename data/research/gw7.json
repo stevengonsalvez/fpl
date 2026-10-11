@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-11T13:18:56.097887+00:00",
+  "captured_at_utc": "2026-10-11T18:20:30.356847+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -152,22 +152,29 @@
         "id": 115,
         "name": "De Cuyper",
         "team": "BHA",
-        "target_pct": 124.8,
+        "target_pct": 161.4,
         "cost": 5.0
-      },
-      {
-        "id": 330,
-        "name": "Bogle",
-        "team": "LEE",
-        "target_pct": 98.9,
-        "cost": 4.6
       },
       {
         "id": 165,
         "name": "Jo\u00e3o Pedro",
         "team": "CHE",
-        "target_pct": 97.8,
+        "target_pct": 129.9,
         "cost": 7.7
+      },
+      {
+        "id": 330,
+        "name": "Bogle",
+        "team": "LEE",
+        "target_pct": 103.3,
+        "cost": 4.6
+      },
+      {
+        "id": 166,
+        "name": "N.Jackson",
+        "team": "AVL",
+        "target_pct": 101.8,
+        "cost": 6.5
       },
       {
         "id": 305,
@@ -177,111 +184,111 @@
         "cost": 4.0
       },
       {
-        "id": 166,
-        "name": "N.Jackson",
-        "team": "AVL",
-        "target_pct": 96.7,
-        "cost": 6.5
-      },
-      {
         "id": 138,
         "name": "Kostoulas",
         "team": "BHA",
-        "target_pct": 88.5,
+        "target_pct": 93.8,
         "cost": 5.6
       },
       {
-        "id": 98,
-        "name": "Janelt",
-        "team": "BRE",
-        "target_pct": 86.3,
-        "cost": 5.0
+        "id": 40,
+        "name": "Rogers",
+        "team": "CHE",
+        "target_pct": 93.4,
+        "cost": 7.8
       },
       {
-        "id": 504,
-        "name": "Vuskovic",
-        "team": "BHA",
-        "target_pct": 83.3,
-        "cost": 5.0
+        "id": 286,
+        "name": "Belloumi",
+        "team": "HUL",
+        "target_pct": 92.1,
+        "cost": 5.1
       },
       {
         "id": 109,
         "name": "Verbruggen",
         "team": "BHA",
-        "target_pct": 83.2,
+        "target_pct": 88.0,
         "cost": 4.5
+      },
+      {
+        "id": 504,
+        "name": "Vuskovic",
+        "team": "BHA",
+        "target_pct": 87.0,
+        "cost": 5.0
       }
     ],
     "imminent_falls": [
       {
-        "id": 417,
-        "name": "Dalot",
-        "team": "MUN",
-        "target_pct": -103.6,
-        "cost": 4.9
-      },
-      {
         "id": 69,
         "name": "Scott",
         "team": "BOU",
-        "target_pct": -101.9,
+        "target_pct": -112.7,
         "cost": 6.1
+      },
+      {
+        "id": 417,
+        "name": "Dalot",
+        "team": "MUN",
+        "target_pct": -109.4,
+        "cost": 4.9
+      },
+      {
+        "id": 367,
+        "name": "Gakpo",
+        "team": "LIV",
+        "target_pct": -104.1,
+        "cost": 7.2
       },
       {
         "id": 632,
         "name": "Ansah",
         "team": "HUL",
-        "target_pct": -99.7,
+        "target_pct": -103.1,
         "cost": 5.0
       },
       {
-        "id": 396,
-        "name": "Vitor Reis",
-        "team": "MCI",
-        "target_pct": -99.7,
-        "cost": 4.5
+        "id": 162,
+        "name": "Andrey Santos",
+        "team": "MUN",
+        "target_pct": -102.7,
+        "cost": 4.8
       },
       {
         "id": 386,
         "name": "Bettinelli",
         "team": "MCI",
-        "target_pct": -98.8,
+        "target_pct": -102.4,
+        "cost": 4.5
+      },
+      {
+        "id": 397,
+        "name": "Semenyo",
+        "team": "MCI",
+        "target_pct": -102.2,
+        "cost": 8.4
+      },
+      {
+        "id": 396,
+        "name": "Vitor Reis",
+        "team": "MCI",
+        "target_pct": -101.3,
         "cost": 4.5
       },
       {
         "id": 160,
         "name": "Garnacho",
         "team": "AVL",
-        "target_pct": -98.1,
+        "target_pct": -101.2,
         "cost": 5.8
-      },
-      {
-        "id": 77,
-        "name": "Adli",
-        "team": "BOU",
-        "target_pct": -97.8,
-        "cost": 4.9
       },
       {
         "id": 559,
         "name": "Bamba",
         "team": "NEW",
-        "target_pct": -97.7,
+        "target_pct": -100.3,
         "cost": 4.9
-      },
-      {
-        "id": 72,
-        "name": "Gannon-Doak",
-        "team": "BOU",
-        "target_pct": -96.9,
-        "cost": 4.9
-      },
-      {
-        "id": 162,
-        "name": "Andrey Santos",
-        "team": "MUN",
-        "target_pct": -96.5,
-        "cost": 4.8
       }
     ]
   },
@@ -347,10 +354,10 @@
       "team": "LIV",
       "position": "MID",
       "is_starter": true,
-      "status": "a",
-      "chance": null,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Hamstring injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 399,
@@ -481,6 +488,15 @@
       "cost": 6.2
     },
     {
+      "id": 229,
+      "name": "Tarkowski",
+      "team": "EVE",
+      "position": "DEF",
+      "form": 8.3,
+      "total_points": 46,
+      "cost": 6.2
+    },
+    {
       "id": 165,
       "name": "Jo\u00e3o Pedro",
       "team": "CHE",
@@ -499,13 +515,22 @@
       "cost": 4.5
     },
     {
-      "id": 229,
-      "name": "Tarkowski",
-      "team": "EVE",
-      "position": "DEF",
+      "id": 286,
+      "name": "Belloumi",
+      "team": "HUL",
+      "position": "MID",
       "form": 7.7,
-      "total_points": 44,
-      "cost": 6.2
+      "total_points": 37,
+      "cost": 5.1
+    },
+    {
+      "id": 397,
+      "name": "Semenyo",
+      "team": "MCI",
+      "position": "MID",
+      "form": 7.7,
+      "total_points": 36,
+      "cost": 8.4
     },
     {
       "id": 45,
@@ -524,24 +549,6 @@
       "form": 7.3,
       "total_points": 40,
       "cost": 5.0
-    },
-    {
-      "id": 428,
-      "name": "Cunha",
-      "team": "MUN",
-      "position": "MID",
-      "form": 7.3,
-      "total_points": 36,
-      "cost": 7.9
-    },
-    {
-      "id": 138,
-      "name": "Kostoulas",
-      "team": "BHA",
-      "position": "FWD",
-      "form": 7.0,
-      "total_points": 29,
-      "cost": 5.6
     }
   ]
 }
