@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-10T21:21:07.913735+00:00
+**Captured:** 2026-10-11T00:22:08.904722+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £5.9m: 152.1%
-- Wissa (NEW) £6.2m: 110.6%
-- Gvardiol (MCI) £5.7m: 109.7%
-- Davis (IPS) £4.0m: 97.5%
-- Bogle (LEE) £4.6m: 95.8%
+- De Cuyper (BHA) £5.0m: 102.0%
+- Davis (IPS) £4.0m: 97.6%
+- Bogle (LEE) £4.6m: 96.6%
+- N.Jackson (AVL) £6.5m: 93.7%
+- Kostoulas (BHA) £5.6m: 86.0%
 
 ### Falls (Target <= -80%)
-- Bahoya (LEE) £5.0m: -149.8%
-- Havertz (ARS) £7.6m: -132.7%
-- Isak (LIV) £9.1m: -127.6%
-- Rice (ARS) £7.4m: -127.5%
-- Disasi (CRY) £4.5m: -116.6%
+- Dalot (MUN) £4.9m: -100.1%
+- Vitor Reis (MCI) £4.5m: -98.8%
+- Ansah (HUL) £5.0m: -98.7%
+- Bettinelli (MCI) £4.5m: -98.4%
+- Adli (BOU) £4.9m: -96.5%
 
 ## 4. Squad Availability Doubts
 
@@ -55,7 +55,7 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Groß | MID | BHA | 12.3 | 53 | £5.9m |
+| Groß | MID | BHA | 12.3 | 53 | £6.0m |
 | De Cuyper | DEF | BHA | 10.7 | 53 | £5.0m |
 | Schade | MID | BRE | 8.3 | 40 | £6.2m |
 | João Pedro | FWD | CHE | 8.0 | 45 | £7.7m |
