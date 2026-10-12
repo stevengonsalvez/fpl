@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-12T01:35:54.585501+00:00
+**Captured:** 2026-10-12T08:51:00.722769+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Kostoulas (BHA) £5.6m: 98.4%
-- Davis (IPS) £4.0m: 97.8%
-- Verbruggen (BHA) £4.5m: 91.4%
-- Vuskovic (BHA) £5.0m: 89.5%
-- Janelt (BRE) £5.0m: 86.8%
+- Kostoulas (BHA) £5.6m: 101.1%
+- Davis (IPS) £4.0m: 97.9%
+- Verbruggen (BHA) £4.5m: 93.2%
+- Vuskovic (BHA) £5.0m: 91.2%
+- Janelt (BRE) £5.0m: 87.0%
 
 ### Falls (Target <= -80%)
-- Osman (BHA) £5.0m: -98.6%
-- Dorgu (MUN) £5.8m: -96.0%
-- Kusi-Asare (FUL) £4.5m: -94.0%
-- Amenda (COV) £4.0m: -93.9%
-- O.Dango (BRE) £6.3m: -93.2%
+- Osman (BHA) £5.0m: -103.8%
+- Dorgu (MUN) £5.8m: -97.8%
+- Amenda (COV) £4.0m: -94.9%
+- Kusi-Asare (FUL) £4.5m: -94.9%
+- O.Dango (BRE) £6.3m: -94.2%
 
 ## 4. Squad Availability Doubts
 
