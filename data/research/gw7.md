@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-11T22:19:23.867727+00:00
+**Captured:** 2026-10-12T01:35:54.585501+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- De Cuyper (BHA) £5.0m: 183.0%
-- João Pedro (CHE) £7.7m: 147.9%
-- Bogle (LEE) £4.6m: 106.1%
-- Rogers (CHE) £7.8m: 106.0%
-- N.Jackson (AVL) £6.5m: 104.6%
+- Kostoulas (BHA) £5.6m: 98.4%
+- Davis (IPS) £4.0m: 97.8%
+- Verbruggen (BHA) £4.5m: 91.4%
+- Vuskovic (BHA) £5.0m: 89.5%
+- Janelt (BRE) £5.0m: 86.8%
 
 ### Falls (Target <= -80%)
-- Scott (BOU) £6.1m: -118.5%
-- Dalot (MUN) £4.9m: -112.4%
-- Gakpo (LIV) £7.2m: -111.2%
-- Andrey Santos (MUN) £4.8m: -106.1%
-- Ansah (HUL) £5.0m: -105.0%
+- Osman (BHA) £5.0m: -98.6%
+- Dorgu (MUN) £5.8m: -96.0%
+- Kusi-Asare (FUL) £4.5m: -94.0%
+- Amenda (COV) £4.0m: -93.9%
+- O.Dango (BRE) £6.3m: -93.2%
 
 ## 4. Squad Availability Doubts
 
@@ -57,11 +57,11 @@
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
 | Groß | MID | BHA | 12.3 | 53 | £6.0m |
-| De Cuyper | DEF | BHA | 10.7 | 53 | £5.0m |
+| De Cuyper | DEF | BHA | 10.7 | 53 | £5.1m |
 | Schade | MID | BRE | 8.3 | 40 | £6.2m |
 | Tarkowski | DEF | EVE | 8.3 | 46 | £6.2m |
-| João Pedro | FWD | CHE | 8.0 | 45 | £7.7m |
+| João Pedro | FWD | CHE | 8.0 | 45 | £7.8m |
 | Verbruggen | GK | BHA | 7.7 | 32 | £4.5m |
-| Belloumi | MID | HUL | 7.7 | 37 | £5.1m |
-| Semenyo | MID | MCI | 7.7 | 36 | £8.4m |
+| Belloumi | MID | HUL | 7.7 | 37 | £5.2m |
+| Semenyo | MID | MCI | 7.7 | 36 | £8.3m |
 
