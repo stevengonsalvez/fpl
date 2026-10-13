@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-13T08:14:22.259322+00:00
+**Captured:** 2026-10-13T16:17:40.996376+00:00
 
 ## 1. Key Fixtures
 
@@ -34,35 +34,35 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Cherki (MCI) £7.8m: 109.0%
-- Verbruggen (BHA) £4.5m: 101.0%
-- Vuskovic (BHA) £5.0m: 98.1%
-- Davis (IPS) £4.0m: 98.1%
-- Janelt (BRE) £5.0m: 87.7%
+- Cherki (MCI) £7.8m: 131.4%
+- Verbruggen (BHA) £4.5m: 103.8%
+- Vuskovic (BHA) £5.0m: 100.9%
+- Davis (IPS) £4.0m: 98.0%
+- Janelt (BRE) £5.0m: 88.1%
 
 ### Falls (Target <= -80%)
-- Lewis (MCI) £4.4m: -100.1%
-- O.Dango (BRE) £6.3m: -99.8%
-- Amenda (COV) £4.0m: -99.8%
-- Kusi-Asare (FUL) £4.5m: -98.8%
-- Dasilva (BRE) £4.9m: -96.3%
+- O.Dango (BRE) £6.3m: -102.0%
+- Lewis (MCI) £4.4m: -101.7%
+- Amenda (COV) £4.0m: -101.6%
+- Kusi-Asare (FUL) £4.5m: -100.2%
+- Dasilva (BRE) £4.9m: -98.0%
 
 ## 4. Squad Availability Doubts
 
-- [XI] MID Szoboszlai (LIV): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [XI] MID Schade (BRE): status=d, chance=75%, news: Shoulder injury - 75% chance of playing
+- [BEN] MID Szoboszlai (LIV): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 
 ## 5. Top Form Assets
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Groß | MID | BHA | 12.3 | 53 | £6.0m |
-| De Cuyper | DEF | BHA | 10.7 | 53 | £5.1m |
+| De Cuyper | DEF | BHA | 10.5 | 53 | £5.1m |
+| Groß | MID | BHA | 10.0 | 53 | £6.0m |
 | Henderson | MID | CHE | 10.0 | 20 | £4.9m |
+| Dasilva | DEF | COV | 10.0 | 25 | £4.0m |
+| Semenyo | MID | MCI | 10.0 | 36 | £8.3m |
+| Cunha | MID | MUN | 10.0 | 36 | £7.9m |
 | Manzambi | MID | AVL | 9.0 | 19 | £5.9m |
-| Tarkowski | DEF | EVE | 8.5 | 46 | £6.2m |
-| Brobbey | FWD | SUN | 8.5 | 24 | £5.7m |
-| Buendía | MID | AVL | 8.0 | 25 | £5.9m |
-| McGinn | MID | AVL | 8.0 | 27 | £5.4m |
+| Cherki | MID | MCI | 9.0 | 44 | £7.8m |
 

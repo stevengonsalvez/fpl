@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-13T08:14:22.259322+00:00",
+  "captured_at_utc": "2026-10-13T16:17:40.996376+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -152,108 +152,115 @@
         "id": 399,
         "name": "Cherki",
         "team": "MCI",
-        "target_pct": 109.0,
+        "target_pct": 131.4,
         "cost": 7.8
       },
       {
         "id": 109,
         "name": "Verbruggen",
         "team": "BHA",
-        "target_pct": 101.0,
+        "target_pct": 103.8,
         "cost": 4.5
       },
       {
         "id": 504,
         "name": "Vuskovic",
         "team": "BHA",
-        "target_pct": 98.1,
+        "target_pct": 100.9,
         "cost": 5.0
       },
       {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 98.1,
+        "target_pct": 98.0,
         "cost": 4.0
       },
       {
         "id": 98,
         "name": "Janelt",
         "team": "BRE",
-        "target_pct": 87.7,
+        "target_pct": 88.1,
         "cost": 5.0
+      },
+      {
+        "id": 79,
+        "name": "Evanilson",
+        "team": "BOU",
+        "target_pct": 80.3,
+        "cost": 6.0
       }
     ],
     "imminent_falls": [
       {
-        "id": 395,
-        "name": "Lewis",
-        "team": "MCI",
-        "target_pct": -100.1,
-        "cost": 4.4
-      },
-      {
         "id": 95,
         "name": "O.Dango",
         "team": "BRE",
-        "target_pct": -99.8,
+        "target_pct": -102.0,
         "cost": 6.3
+      },
+      {
+        "id": 395,
+        "name": "Lewis",
+        "team": "MCI",
+        "target_pct": -101.7,
+        "cost": 4.4
       },
       {
         "id": 182,
         "name": "Amenda",
         "team": "COV",
-        "target_pct": -99.8,
+        "target_pct": -101.6,
         "cost": 4.0
       },
       {
         "id": 272,
         "name": "Kusi-Asare",
         "team": "FUL",
-        "target_pct": -98.8,
+        "target_pct": -100.2,
         "cost": 4.5
       },
       {
         "id": 103,
         "name": "Dasilva",
         "team": "BRE",
-        "target_pct": -96.3,
+        "target_pct": -98.0,
         "cost": 4.9
       },
       {
         "id": 498,
         "name": "Senesi",
         "team": "TOT",
-        "target_pct": -95.7,
+        "target_pct": -97.2,
         "cost": 5.8
+      },
+      {
+        "id": 499,
+        "name": "Pedro Porro",
+        "team": "TOT",
+        "target_pct": -96.7,
+        "cost": 5.4
+      },
+      {
+        "id": 422,
+        "name": "Mazraoui",
+        "team": "MUN",
+        "target_pct": -96.5,
+        "cost": 4.4
       },
       {
         "id": 78,
         "name": "Kroupi.Jr",
         "team": "BOU",
-        "target_pct": -95.0,
+        "target_pct": -95.9,
         "cost": 7.4
       },
       {
         "id": 179,
         "name": "Latibeaudiere",
         "team": "COV",
-        "target_pct": -94.6,
+        "target_pct": -95.1,
         "cost": 4.0
-      },
-      {
-        "id": 422,
-        "name": "Mazraoui",
-        "team": "MUN",
-        "target_pct": -94.3,
-        "cost": 4.4
-      },
-      {
-        "id": 499,
-        "name": "Pedro Porro",
-        "team": "TOT",
-        "target_pct": -93.6,
-        "cost": 5.4
       }
     ]
   },
@@ -281,8 +288,8 @@
       "clean": true
     },
     {
-      "id": 8,
-      "name": "Calafiori",
+      "id": 4,
+      "name": "Gabriel",
       "team": "ARS",
       "position": "DEF",
       "is_starter": true,
@@ -292,8 +299,8 @@
       "clean": true
     },
     {
-      "id": 4,
-      "name": "Gabriel",
+      "id": 8,
+      "name": "Calafiori",
       "team": "ARS",
       "position": "DEF",
       "is_starter": true,
@@ -312,17 +319,6 @@
       "chance": null,
       "news": "",
       "clean": true
-    },
-    {
-      "id": 368,
-      "name": "Szoboszlai",
-      "team": "LIV",
-      "position": "MID",
-      "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Hamstring injury - 75% chance of playing",
-      "clean": false
     },
     {
       "id": 399,
@@ -358,6 +354,17 @@
       "clean": false
     },
     {
+      "id": 346,
+      "name": "Calvert-Lewin",
+      "team": "LEE",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
       "id": 138,
       "name": "Kostoulas",
       "team": "BHA",
@@ -391,15 +398,15 @@
       "clean": true
     },
     {
-      "id": 346,
-      "name": "Calvert-Lewin",
-      "team": "LEE",
-      "position": "FWD",
+      "id": 368,
+      "name": "Szoboszlai",
+      "team": "LIV",
+      "position": "MID",
       "is_starter": false,
-      "status": "a",
-      "chance": null,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Hamstring injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 423,
@@ -426,22 +433,22 @@
   ],
   "top_form": [
     {
-      "id": 124,
-      "name": "Gro\u00df",
-      "team": "BHA",
-      "position": "MID",
-      "form": 12.3,
-      "total_points": 53,
-      "cost": 6.0
-    },
-    {
       "id": 115,
       "name": "De Cuyper",
       "team": "BHA",
       "position": "DEF",
-      "form": 10.7,
+      "form": 10.5,
       "total_points": 53,
       "cost": 5.1
+    },
+    {
+      "id": 124,
+      "name": "Gro\u00df",
+      "team": "BHA",
+      "position": "MID",
+      "form": 10.0,
+      "total_points": 53,
+      "cost": 6.0
     },
     {
       "id": 101,
@@ -453,6 +460,33 @@
       "cost": 4.9
     },
     {
+      "id": 176,
+      "name": "Dasilva",
+      "team": "COV",
+      "position": "DEF",
+      "form": 10.0,
+      "total_points": 25,
+      "cost": 4.0
+    },
+    {
+      "id": 397,
+      "name": "Semenyo",
+      "team": "MCI",
+      "position": "MID",
+      "form": 10.0,
+      "total_points": 36,
+      "cost": 8.3
+    },
+    {
+      "id": 428,
+      "name": "Cunha",
+      "team": "MUN",
+      "position": "MID",
+      "form": 10.0,
+      "total_points": 36,
+      "cost": 7.9
+    },
+    {
       "id": 53,
       "name": "Manzambi",
       "team": "AVL",
@@ -460,6 +494,15 @@
       "form": 9.0,
       "total_points": 19,
       "cost": 5.9
+    },
+    {
+      "id": 399,
+      "name": "Cherki",
+      "team": "MCI",
+      "position": "MID",
+      "form": 9.0,
+      "total_points": 44,
+      "cost": 7.8
     },
     {
       "id": 229,
@@ -478,42 +521,6 @@
       "form": 8.5,
       "total_points": 24,
       "cost": 5.7
-    },
-    {
-      "id": 41,
-      "name": "Buend\u00eda",
-      "team": "AVL",
-      "position": "MID",
-      "form": 8.0,
-      "total_points": 25,
-      "cost": 5.9
-    },
-    {
-      "id": 45,
-      "name": "McGinn",
-      "team": "AVL",
-      "position": "MID",
-      "form": 8.0,
-      "total_points": 27,
-      "cost": 5.4
-    },
-    {
-      "id": 236,
-      "name": "Dewsbury-Hall",
-      "team": "EVE",
-      "position": "MID",
-      "form": 8.0,
-      "total_points": 33,
-      "cost": 6.6
-    },
-    {
-      "id": 109,
-      "name": "Verbruggen",
-      "team": "BHA",
-      "position": "GK",
-      "form": 7.7,
-      "total_points": 32,
-      "cost": 4.5
     }
   ]
 }
