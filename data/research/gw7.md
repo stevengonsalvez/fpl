@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-12T18:46:01.239565+00:00
+**Captured:** 2026-10-13T01:09:53.188428+00:00
 
 ## 1. Key Fixtures
 
@@ -34,23 +34,24 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Kostoulas (BHA) £5.6m: 105.0%
-- Davis (IPS) £4.0m: 97.9%
-- Verbruggen (BHA) £4.5m: 95.9%
-- Vuskovic (BHA) £5.0m: 93.5%
-- Janelt (BRE) £5.0m: 87.2%
+- Verbruggen (BHA) £4.5m: 99.2%
+- Davis (IPS) £4.0m: 98.1%
+- Vuskovic (BHA) £5.0m: 96.5%
+- Cherki (MCI) £7.8m: 95.5%
+- Janelt (BRE) £5.0m: 87.6%
 
 ### Falls (Target <= -80%)
-- van Ewijk (COV) £4.0m: -169.5%
-- Osman (BHA) £5.0m: -104.2%
-- Dorgu (MUN) £5.8m: -100.5%
-- Amenda (COV) £4.0m: -96.6%
-- Lewis (MCI) £4.4m: -96.3%
+- Lewis (MCI) £4.4m: -99.0%
+- Amenda (COV) £4.0m: -98.6%
+- O.Dango (BRE) £6.3m: -98.5%
+- Kusi-Asare (FUL) £4.5m: -97.9%
+- Dasilva (BRE) £4.9m: -95.4%
 
 ## 4. Squad Availability Doubts
 
 - [XI] MID Szoboszlai (LIV): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
 - [XI] MID Schade (BRE): status=d, chance=75%, news: Shoulder injury - 75% chance of playing
+- [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 
 ## 5. Top Form Assets
 
@@ -61,7 +62,7 @@
 | Henderson | MID | CHE | 10.0 | 20 | £4.9m |
 | Manzambi | MID | AVL | 9.0 | 19 | £5.9m |
 | Tarkowski | DEF | EVE | 8.5 | 46 | £6.2m |
+| Brobbey | FWD | SUN | 8.5 | 24 | £5.7m |
 | Buendía | MID | AVL | 8.0 | 25 | £5.9m |
 | McGinn | MID | AVL | 8.0 | 27 | £5.4m |
-| Dewsbury-Hall | MID | EVE | 8.0 | 33 | £6.6m |
 

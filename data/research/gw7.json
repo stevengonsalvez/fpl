@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-12T18:46:01.239565+00:00",
+  "captured_at_utc": "2026-10-13T01:09:53.188428+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -149,111 +149,111 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 138,
-        "name": "Kostoulas",
+        "id": 109,
+        "name": "Verbruggen",
         "team": "BHA",
-        "target_pct": 105.0,
-        "cost": 5.6
+        "target_pct": 99.2,
+        "cost": 4.5
       },
       {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 97.9,
+        "target_pct": 98.1,
         "cost": 4.0
-      },
-      {
-        "id": 109,
-        "name": "Verbruggen",
-        "team": "BHA",
-        "target_pct": 95.9,
-        "cost": 4.5
       },
       {
         "id": 504,
         "name": "Vuskovic",
         "team": "BHA",
-        "target_pct": 93.5,
+        "target_pct": 96.5,
         "cost": 5.0
+      },
+      {
+        "id": 399,
+        "name": "Cherki",
+        "team": "MCI",
+        "target_pct": 95.5,
+        "cost": 7.8
       },
       {
         "id": 98,
         "name": "Janelt",
         "team": "BRE",
-        "target_pct": 87.2,
+        "target_pct": 87.6,
         "cost": 5.0
       }
     ],
     "imminent_falls": [
       {
-        "id": 175,
-        "name": "van Ewijk",
-        "team": "COV",
-        "target_pct": -169.5,
-        "cost": 4.0
-      },
-      {
-        "id": 600,
-        "name": "Osman",
-        "team": "BHA",
-        "target_pct": -104.2,
-        "cost": 5.0
-      },
-      {
-        "id": 415,
-        "name": "Dorgu",
-        "team": "MUN",
-        "target_pct": -100.5,
-        "cost": 5.8
+        "id": 395,
+        "name": "Lewis",
+        "team": "MCI",
+        "target_pct": -99.0,
+        "cost": 4.4
       },
       {
         "id": 182,
         "name": "Amenda",
         "team": "COV",
-        "target_pct": -96.6,
+        "target_pct": -98.6,
         "cost": 4.0
-      },
-      {
-        "id": 395,
-        "name": "Lewis",
-        "team": "MCI",
-        "target_pct": -96.3,
-        "cost": 4.4
       },
       {
         "id": 95,
         "name": "O.Dango",
         "team": "BRE",
-        "target_pct": -96.2,
+        "target_pct": -98.5,
         "cost": 6.3
       },
       {
         "id": 272,
         "name": "Kusi-Asare",
         "team": "FUL",
-        "target_pct": -96.2,
+        "target_pct": -97.9,
         "cost": 4.5
       },
       {
         "id": 103,
         "name": "Dasilva",
         "team": "BRE",
-        "target_pct": -94.2,
+        "target_pct": -95.4,
         "cost": 4.9
-      },
-      {
-        "id": 78,
-        "name": "Kroupi.Jr",
-        "team": "BOU",
-        "target_pct": -93.5,
-        "cost": 7.4
       },
       {
         "id": 498,
         "name": "Senesi",
         "team": "TOT",
-        "target_pct": -93.5,
+        "target_pct": -94.9,
         "cost": 5.8
+      },
+      {
+        "id": 78,
+        "name": "Kroupi.Jr",
+        "team": "BOU",
+        "target_pct": -94.4,
+        "cost": 7.4
+      },
+      {
+        "id": 179,
+        "name": "Latibeaudiere",
+        "team": "COV",
+        "target_pct": -94.3,
+        "cost": 4.0
+      },
+      {
+        "id": 422,
+        "name": "Mazraoui",
+        "team": "MUN",
+        "target_pct": -92.9,
+        "cost": 4.4
+      },
+      {
+        "id": 515,
+        "name": "Maddison",
+        "team": "TOT",
+        "target_pct": -92.9,
+        "cost": 6.3
       }
     ]
   },
@@ -407,10 +407,10 @@
       "team": "MUN",
       "position": "DEF",
       "is_starter": false,
-      "status": "a",
-      "chance": 100,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Unspecified injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 534,
@@ -471,6 +471,15 @@
       "cost": 6.2
     },
     {
+      "id": 552,
+      "name": "Brobbey",
+      "team": "SUN",
+      "position": "FWD",
+      "form": 8.5,
+      "total_points": 24,
+      "cost": 5.7
+    },
+    {
       "id": 41,
       "name": "Buend\u00eda",
       "team": "AVL",
@@ -505,15 +514,6 @@
       "form": 7.7,
       "total_points": 32,
       "cost": 4.5
-    },
-    {
-      "id": 397,
-      "name": "Semenyo",
-      "team": "MCI",
-      "position": "MID",
-      "form": 7.7,
-      "total_points": 36,
-      "cost": 8.3
     }
   ]
 }
