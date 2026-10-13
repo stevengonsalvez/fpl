@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-13T01:09:53.188428+00:00
+**Captured:** 2026-10-13T08:14:22.259322+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 137.7% |
-| João Pedro | CHE | 76.4% |
-| Calafiori | ARS | 51.5% |
-| B.Fernandes | MUN | 48.0% |
-| Rogers | CHE | 45.5% |
-| Raya | ARS | 43.7% |
-| Groß | BHA | 40.4% |
-| De Cuyper | BHA | 30.8% |
-| Cherki | MCI | 29.7% |
-| Gvardiol | MCI | 27.2% |
+| Haaland | MCI | 155.0% |
+| João Pedro | CHE | 74.9% |
+| Calafiori | ARS | 52.3% |
+| Rogers | CHE | 46.9% |
+| B.Fernandes | MUN | 44.8% |
+| Raya | ARS | 43.8% |
+| Groß | BHA | 41.4% |
+| De Cuyper | BHA | 33.1% |
+| Cherki | MCI | 33.1% |
+| Gvardiol | MCI | 27.6% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Verbruggen (BHA) £4.5m: 99.2%
+- Cherki (MCI) £7.8m: 109.0%
+- Verbruggen (BHA) £4.5m: 101.0%
+- Vuskovic (BHA) £5.0m: 98.1%
 - Davis (IPS) £4.0m: 98.1%
-- Vuskovic (BHA) £5.0m: 96.5%
-- Cherki (MCI) £7.8m: 95.5%
-- Janelt (BRE) £5.0m: 87.6%
+- Janelt (BRE) £5.0m: 87.7%
 
 ### Falls (Target <= -80%)
-- Lewis (MCI) £4.4m: -99.0%
-- Amenda (COV) £4.0m: -98.6%
-- O.Dango (BRE) £6.3m: -98.5%
-- Kusi-Asare (FUL) £4.5m: -97.9%
-- Dasilva (BRE) £4.9m: -95.4%
+- Lewis (MCI) £4.4m: -100.1%
+- O.Dango (BRE) £6.3m: -99.8%
+- Amenda (COV) £4.0m: -99.8%
+- Kusi-Asare (FUL) £4.5m: -98.8%
+- Dasilva (BRE) £4.9m: -96.3%
 
 ## 4. Squad Availability Doubts
 
