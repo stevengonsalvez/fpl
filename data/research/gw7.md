@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-13T16:17:40.996376+00:00
+**Captured:** 2026-10-13T21:26:28.170866+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Cherki (MCI) £7.8m: 131.4%
-- Verbruggen (BHA) £4.5m: 103.8%
-- Vuskovic (BHA) £5.0m: 100.9%
-- Davis (IPS) £4.0m: 98.0%
-- Janelt (BRE) £5.0m: 88.1%
+- Cherki (MCI) £7.8m: 146.5%
+- Verbruggen (BHA) £4.5m: 105.8%
+- Vuskovic (BHA) £5.0m: 103.0%
+- Davis (IPS) £4.0m: 98.1%
+- Janelt (BRE) £5.0m: 88.3%
 
 ### Falls (Target <= -80%)
-- O.Dango (BRE) £6.3m: -102.0%
-- Lewis (MCI) £4.4m: -101.7%
-- Amenda (COV) £4.0m: -101.6%
-- Kusi-Asare (FUL) £4.5m: -100.2%
-- Dasilva (BRE) £4.9m: -98.0%
+- O.Dango (BRE) £6.3m: -103.8%
+- Lewis (MCI) £4.4m: -103.3%
+- Amenda (COV) £4.0m: -103.0%
+- Kusi-Asare (FUL) £4.5m: -101.4%
+- Dasilva (BRE) £4.9m: -99.3%
 
 ## 4. Squad Availability Doubts
 
