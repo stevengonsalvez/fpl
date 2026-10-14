@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-14T11:32:09.458642+00:00",
+  "captured_at_utc": "2026-10-14T16:50:02.447684+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -159,21 +159,21 @@
         "id": 98,
         "name": "Janelt",
         "team": "BRE",
-        "target_pct": 88.6,
+        "target_pct": 88.7,
         "cost": 5.0
       },
       {
         "id": 79,
         "name": "Evanilson",
         "team": "BOU",
-        "target_pct": 83.1,
+        "target_pct": 83.9,
         "cost": 6.0
       },
       {
         "id": 282,
         "name": "Giles",
         "team": "HUL",
-        "target_pct": 80.3,
+        "target_pct": 80.5,
         "cost": 4.0
       }
     ],
@@ -182,36 +182,43 @@
         "id": 499,
         "name": "Pedro Porro",
         "team": "TOT",
-        "target_pct": -101.2,
+        "target_pct": -102.5,
         "cost": 5.4
       },
       {
         "id": 103,
         "name": "Dasilva",
         "team": "BRE",
-        "target_pct": -100.6,
+        "target_pct": -101.5,
         "cost": 4.9
       },
       {
         "id": 422,
         "name": "Mazraoui",
         "team": "MUN",
-        "target_pct": -100.5,
+        "target_pct": -101.5,
         "cost": 4.4
-      },
-      {
-        "id": 498,
-        "name": "Senesi",
-        "team": "TOT",
-        "target_pct": -99.4,
-        "cost": 5.8
       },
       {
         "id": 201,
         "name": "Mu\u00f1oz",
         "team": "NFO",
-        "target_pct": -99.0,
+        "target_pct": -100.5,
         "cost": 5.4
+      },
+      {
+        "id": 498,
+        "name": "Senesi",
+        "team": "TOT",
+        "target_pct": -100.1,
+        "cost": 5.8
+      },
+      {
+        "id": 439,
+        "name": "\u0160e\u0161ko",
+        "team": "MUN",
+        "target_pct": -97.8,
+        "cost": 7.0
       },
       {
         "id": 179,
@@ -224,28 +231,21 @@
         "id": 78,
         "name": "Kroupi.Jr",
         "team": "BOU",
-        "target_pct": -96.9,
+        "target_pct": -97.2,
         "cost": 7.4
-      },
-      {
-        "id": 439,
-        "name": "\u0160e\u0161ko",
-        "team": "MUN",
-        "target_pct": -96.7,
-        "cost": 7.0
       },
       {
         "id": 491,
         "name": "Igor Jesus",
         "team": "NFO",
-        "target_pct": -95.1,
+        "target_pct": -97.1,
         "cost": 5.8
       },
       {
         "id": 515,
         "name": "Maddison",
         "team": "TOT",
-        "target_pct": -94.5,
+        "target_pct": -95.0,
         "cost": 6.3
       }
     ]
