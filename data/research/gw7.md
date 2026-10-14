@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-14T00:31:30.725356+00:00
+**Captured:** 2026-10-14T05:55:59.915683+00:00
 
 ## 1. Key Fixtures
 
@@ -20,15 +20,15 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 155.0% |
-| João Pedro | CHE | 74.9% |
-| Calafiori | ARS | 52.3% |
-| Rogers | CHE | 46.9% |
-| B.Fernandes | MUN | 44.8% |
-| Raya | ARS | 43.8% |
-| Groß | BHA | 41.4% |
-| De Cuyper | BHA | 33.1% |
-| Cherki | MCI | 33.1% |
+| Haaland | MCI | 148.3% |
+| João Pedro | CHE | 75.9% |
+| Calafiori | ARS | 51.6% |
+| Rogers | CHE | 47.3% |
+| B.Fernandes | MUN | 44.2% |
+| Raya | ARS | 43.7% |
+| Groß | BHA | 41.5% |
+| Cherki | MCI | 37.1% |
+| De Cuyper | BHA | 33.8% |
 | Gvardiol | MCI | 27.6% |
 
 ## 3. Imminent Price Changes
@@ -36,15 +36,15 @@
 ### Rises (Target >= 80%)
 - Davis (IPS) £4.0m: 98.1%
 - Janelt (BRE) £5.0m: 88.4%
-- Evanilson (BOU) £6.0m: 82.1%
+- Evanilson (BOU) £6.0m: 82.4%
 - Giles (HUL) £4.0m: 80.2%
 
 ### Falls (Target <= -80%)
-- Dasilva (BRE) £4.9m: -99.7%
-- Pedro Porro (TOT) £5.4m: -99.5%
-- Mazraoui (MUN) £4.4m: -99.1%
-- Senesi (TOT) £5.8m: -98.6%
-- Muñoz (NFO) £5.4m: -97.1%
+- Dasilva (BRE) £4.9m: -100.5%
+- Pedro Porro (TOT) £5.4m: -100.1%
+- Mazraoui (MUN) £4.4m: -99.4%
+- Senesi (TOT) £5.8m: -98.9%
+- Muñoz (NFO) £5.4m: -97.7%
 
 ## 4. Squad Availability Doubts
 
