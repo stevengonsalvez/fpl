@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-14T20:30:57.267648+00:00
+**Captured:** 2026-10-14T23:46:37.351773+00:00
 
 ## 1. Key Fixtures
 
@@ -35,16 +35,16 @@
 
 ### Rises (Target >= 80%)
 - Davis (IPS) £4.0m: 98.2%
-- Janelt (BRE) £5.0m: 88.8%
-- Evanilson (BOU) £6.0m: 84.6%
-- Giles (HUL) £4.0m: 80.6%
+- Janelt (BRE) £5.0m: 89.0%
+- Evanilson (BOU) £6.0m: 85.1%
+- Giles (HUL) £4.0m: 80.7%
 
 ### Falls (Target <= -80%)
-- Pedro Porro (TOT) £5.4m: -103.7%
-- Dasilva (BRE) £4.9m: -102.4%
-- Mazraoui (MUN) £4.4m: -102.3%
-- Muñoz (NFO) £5.4m: -101.7%
-- Senesi (TOT) £5.8m: -100.7%
+- Igor Jesus (NFO) £5.8m: -99.8%
+- Šeško (MUN) £7.0m: -99.3%
+- Latibeaudiere (COV) £4.0m: -98.2%
+- Kroupi.Jr (BOU) £7.4m: -97.7%
+- Tzolis (ARS) £6.3m: -97.0%
 
 ## 4. Squad Availability Doubts
 
