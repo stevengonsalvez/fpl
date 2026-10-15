@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-14T23:46:37.351773+00:00
+**Captured:** 2026-10-15T03:53:23.341562+00:00
 
 ## 1. Key Fixtures
 
@@ -20,31 +20,31 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 148.3% |
-| João Pedro | CHE | 75.9% |
-| Calafiori | ARS | 51.6% |
-| Rogers | CHE | 47.3% |
-| B.Fernandes | MUN | 44.2% |
+| Haaland | MCI | 144.7% |
+| João Pedro | CHE | 76.3% |
+| Calafiori | ARS | 51.7% |
+| Rogers | CHE | 47.6% |
 | Raya | ARS | 43.7% |
-| Groß | BHA | 41.5% |
-| Cherki | MCI | 37.1% |
-| De Cuyper | BHA | 33.8% |
-| Gvardiol | MCI | 27.6% |
+| Groß | BHA | 42.3% |
+| B.Fernandes | MUN | 41.1% |
+| De Cuyper | BHA | 40.4% |
+| Cherki | MCI | 38.3% |
+| Gvardiol | MCI | 27.8% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
 - Davis (IPS) £4.0m: 98.2%
 - Janelt (BRE) £5.0m: 89.0%
-- Evanilson (BOU) £6.0m: 85.1%
-- Giles (HUL) £4.0m: 80.7%
+- Evanilson (BOU) £6.0m: 85.3%
+- Giles (HUL) £4.0m: 80.8%
 
 ### Falls (Target <= -80%)
-- Igor Jesus (NFO) £5.8m: -99.8%
-- Šeško (MUN) £7.0m: -99.3%
-- Latibeaudiere (COV) £4.0m: -98.2%
-- Kroupi.Jr (BOU) £7.4m: -97.7%
-- Tzolis (ARS) £6.3m: -97.0%
+- Igor Jesus (NFO) £5.8m: -100.3%
+- Šeško (MUN) £7.0m: -99.6%
+- Latibeaudiere (COV) £4.0m: -98.3%
+- Kroupi.Jr (BOU) £7.4m: -97.8%
+- Tzolis (ARS) £6.3m: -97.7%
 
 ## 4. Squad Availability Doubts
 
