@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-16T00:37:16.093607+00:00
+**Captured:** 2026-10-16T05:36:34.355629+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 144.7% |
-| João Pedro | CHE | 76.3% |
-| Calafiori | ARS | 51.7% |
-| Rogers | CHE | 47.6% |
-| Raya | ARS | 43.7% |
-| Groß | BHA | 42.3% |
-| B.Fernandes | MUN | 41.1% |
-| De Cuyper | BHA | 40.4% |
-| Cherki | MCI | 38.3% |
-| Gvardiol | MCI | 27.8% |
+| Haaland | MCI | 143.9% |
+| João Pedro | CHE | 78.1% |
+| Calafiori | ARS | 52.7% |
+| Rogers | CHE | 47.9% |
+| Raya | ARS | 43.9% |
+| Groß | BHA | 42.2% |
+| Cherki | MCI | 39.0% |
+| De Cuyper | BHA | 39.0% |
+| B.Fernandes | MUN | 38.7% |
+| Gvardiol | MCI | 28.4% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Davis (IPS) £4.0m: 98.4%
-- Janelt (BRE) £5.0m: 89.9%
-- Evanilson (BOU) £6.0m: 89.3%
-- Haaland (MCI) £15.6m: 88.0%
-- Groß (BHA) £6.0m: 87.6%
+- Davis (IPS) £4.0m: 98.3%
+- Janelt (BRE) £5.0m: 90.1%
+- Evanilson (BOU) £6.0m: 89.9%
+- Groß (BHA) £6.0m: 89.8%
+- Haaland (MCI) £15.6m: 89.7%
 
 ### Falls (Target <= -80%)
-- Elanga (NEW) £6.1m: -100.0%
-- Kroupi.Jr (BOU) £7.4m: -99.7%
-- Wirtz (LIV) £7.3m: -99.6%
-- Latibeaudiere (COV) £4.0m: -98.9%
-- Maddison (TOT) £6.3m: -97.4%
+- Elanga (NEW) £6.1m: -101.2%
+- Wirtz (LIV) £7.3m: -100.3%
+- Kroupi.Jr (BOU) £7.4m: -100.1%
+- Latibeaudiere (COV) £4.0m: -99.0%
+- Alysson (AVL) £5.0m: -97.7%
 
 ## 4. Squad Availability Doubts
 
