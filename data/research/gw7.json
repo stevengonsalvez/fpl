@@ -1,7 +1,7 @@
 {
   "gameweek": 7,
   "deadline_utc": "2026-10-17T10:00:00Z",
-  "captured_at_utc": "2026-10-16T15:20:42.891854+00:00",
+  "captured_at_utc": "2026-10-16T18:55:51.261945+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -152,64 +152,64 @@
         "id": 124,
         "name": "Gro\u00df",
         "team": "BHA",
-        "target_pct": 113.0,
+        "target_pct": 128.6,
         "cost": 6.0
       },
       {
         "id": 411,
         "name": "Haaland",
         "team": "MCI",
-        "target_pct": 102.5,
+        "target_pct": 110.9,
         "cost": 15.6
-      },
-      {
-        "id": 305,
-        "name": "Davis",
-        "team": "IPS",
-        "target_pct": 98.7,
-        "cost": 4.0
       },
       {
         "id": 79,
         "name": "Evanilson",
         "team": "BOU",
-        "target_pct": 96.5,
+        "target_pct": 101.4,
         "cost": 6.0
       },
       {
-        "id": 98,
-        "name": "Janelt",
-        "team": "BRE",
-        "target_pct": 91.6,
-        "cost": 5.0
-      },
-      {
-        "id": 282,
-        "name": "Giles",
-        "team": "HUL",
-        "target_pct": 83.4,
+        "id": 305,
+        "name": "Davis",
+        "team": "IPS",
+        "target_pct": 99.8,
         "cost": 4.0
-      },
-      {
-        "id": 8,
-        "name": "Calafiori",
-        "team": "ARS",
-        "target_pct": 82.0,
-        "cost": 5.9
-      },
-      {
-        "id": 362,
-        "name": "Jacquet",
-        "team": "LIV",
-        "target_pct": 81.1,
-        "cost": 5.0
       },
       {
         "id": 115,
         "name": "De Cuyper",
         "team": "BHA",
-        "target_pct": 80.5,
+        "target_pct": 93.9,
         "cost": 5.1
+      },
+      {
+        "id": 98,
+        "name": "Janelt",
+        "team": "BRE",
+        "target_pct": 93.3,
+        "cost": 5.0
+      },
+      {
+        "id": 8,
+        "name": "Calafiori",
+        "team": "ARS",
+        "target_pct": 89.1,
+        "cost": 5.9
+      },
+      {
+        "id": 282,
+        "name": "Giles",
+        "team": "HUL",
+        "target_pct": 85.2,
+        "cost": 4.0
+      },
+      {
+        "id": 362,
+        "name": "Jacquet",
+        "team": "LIV",
+        "target_pct": 84.1,
+        "cost": 5.0
       }
     ],
     "imminent_falls": [
@@ -217,71 +217,71 @@
         "id": 167,
         "name": "Delap",
         "team": "NFO",
-        "target_pct": -120.2,
+        "target_pct": -137.5,
         "cost": 5.6
       },
       {
         "id": 454,
         "name": "Elanga",
         "team": "NEW",
-        "target_pct": -111.5,
+        "target_pct": -118.9,
         "cost": 6.1
-      },
-      {
-        "id": 366,
-        "name": "Wirtz",
-        "team": "LIV",
-        "target_pct": -108.1,
-        "cost": 7.3
       },
       {
         "id": 565,
         "name": "M.Sangar\u00e9",
         "team": "BRE",
-        "target_pct": -107.2,
+        "target_pct": -118.0,
         "cost": 5.6
+      },
+      {
+        "id": 366,
+        "name": "Wirtz",
+        "team": "LIV",
+        "target_pct": -113.8,
+        "cost": 7.3
       },
       {
         "id": 52,
         "name": "Alysson",
         "team": "AVL",
-        "target_pct": -102.7,
+        "target_pct": -107.6,
         "cost": 5.0
       },
       {
-        "id": 78,
-        "name": "Kroupi.Jr",
-        "team": "BOU",
-        "target_pct": -102.6,
-        "cost": 7.4
+        "id": 11,
+        "name": "Mosquera",
+        "team": "ARS",
+        "target_pct": -107.5,
+        "cost": 5.3
       },
       {
         "id": 462,
         "name": "Steur",
         "team": "NEW",
-        "target_pct": -102.0,
+        "target_pct": -106.6,
         "cost": 4.9
+      },
+      {
+        "id": 78,
+        "name": "Kroupi.Jr",
+        "team": "BOU",
+        "target_pct": -104.9,
+        "cost": 7.4
       },
       {
         "id": 179,
         "name": "Latibeaudiere",
         "team": "COV",
-        "target_pct": -100.8,
+        "target_pct": -103.7,
         "cost": 4.0
       },
       {
         "id": 468,
         "name": "John",
         "team": "NFO",
-        "target_pct": -100.2,
+        "target_pct": -103.1,
         "cost": 4.5
-      },
-      {
-        "id": 476,
-        "name": "O.Richards",
-        "team": "NFO",
-        "target_pct": -99.8,
-        "cost": 4.0
       }
     ]
   },
