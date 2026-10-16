@@ -5,7 +5,8 @@
   "gw5-done",
   "gw6-t24",
   "gw6-t6",
-  "gw6-done"
+  "gw6-done",
+  "gw7-t24"
  ],
  "flags": {
   "115": "a|None|",
@@ -13,7 +14,7 @@
   "165": "a|100|",
   "302": "a|None|",
   "346": "a|None|",
-  "368": "d|75|Hamstring injury - 75% chance of playing",
+  "368": "d|25|Hamstring injury - 25% chance of playing",
   "399": "a|None|",
   "4": "a|None|",
   "40": "a|None|",

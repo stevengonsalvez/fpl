@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-16T05:36:34.355629+00:00
+**Captured:** 2026-10-16T11:00:13.939428+00:00
 
 ## 1. Key Fixtures
 
@@ -34,23 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
+- Groß (BHA) £6.0m: 98.4%
 - Davis (IPS) £4.0m: 98.3%
-- Janelt (BRE) £5.0m: 90.1%
-- Evanilson (BOU) £6.0m: 89.9%
-- Groß (BHA) £6.0m: 89.8%
-- Haaland (MCI) £15.6m: 89.7%
+- Haaland (MCI) £15.6m: 94.8%
+- Evanilson (BOU) £6.0m: 92.4%
+- Janelt (BRE) £5.0m: 90.5%
 
 ### Falls (Target <= -80%)
-- Elanga (NEW) £6.1m: -101.2%
-- Wirtz (LIV) £7.3m: -100.3%
-- Kroupi.Jr (BOU) £7.4m: -100.1%
-- Latibeaudiere (COV) £4.0m: -99.0%
-- Alysson (AVL) £5.0m: -97.7%
+- Elanga (NEW) £6.1m: -105.0%
+- Delap (NFO) £5.6m: -104.8%
+- Wirtz (LIV) £7.3m: -103.6%
+- Kroupi.Jr (BOU) £7.4m: -100.9%
+- Latibeaudiere (COV) £4.0m: -99.5%
 
 ## 4. Squad Availability Doubts
 
 - [XI] MID Schade (BRE): status=d, chance=75%, news: Shoulder injury - 75% chance of playing
-- [BEN] MID Szoboszlai (LIV): status=d, chance=75%, news: Hamstring injury - 75% chance of playing
+- [BEN] MID Szoboszlai (LIV): status=d, chance=25%, news: Hamstring injury - 25% chance of playing
 - [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 
 ## 5. Top Form Assets
