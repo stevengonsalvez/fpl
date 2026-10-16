@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-15T22:00:30.448881+00:00
+**Captured:** 2026-10-16T00:37:16.093607+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Davis (IPS) £4.0m: 98.3%
-- Janelt (BRE) £5.0m: 89.8%
-- Evanilson (BOU) £6.0m: 88.7%
-- Haaland (MCI) £15.6m: 87.0%
-- Groß (BHA) £6.0m: 86.0%
+- Davis (IPS) £4.0m: 98.4%
+- Janelt (BRE) £5.0m: 89.9%
+- Evanilson (BOU) £6.0m: 89.3%
+- Haaland (MCI) £15.6m: 88.0%
+- Groß (BHA) £6.0m: 87.6%
 
 ### Falls (Target <= -80%)
-- Igor Jesus (NFO) £5.8m: -109.6%
-- Tzolis (ARS) £6.3m: -107.2%
-- Šeško (MUN) £7.0m: -104.7%
-- Kroupi.Jr (BOU) £7.4m: -99.5%
-- Elanga (NEW) £6.1m: -99.2%
+- Elanga (NEW) £6.1m: -100.0%
+- Kroupi.Jr (BOU) £7.4m: -99.7%
+- Wirtz (LIV) £7.3m: -99.6%
+- Latibeaudiere (COV) £4.0m: -98.9%
+- Maddison (TOT) £6.3m: -97.4%
 
 ## 4. Squad Availability Doubts
 
