@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-17T16:35:39.138354+00:00
+**Captured:** 2026-10-17T19:06:35.544070+00:00
 
 ## 1. Key Fixtures
 
@@ -34,28 +34,29 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Calafiori (ARS) £5.9m: 112.2%
-- Cherki (MCI) £7.9m: 111.6%
-- Manzambi (AVL) £5.9m: 108.2%
+- Manzambi (AVL) £5.9m: 120.7%
+- Calafiori (ARS) £5.9m: 114.1%
+- Cherki (MCI) £7.9m: 111.9%
 - Davis (IPS) £4.0m: 92.5%
-- Tavernier (BOU) £6.1m: 91.1%
+- Tavernier (BOU) £6.1m: 90.6%
 
 ### Falls (Target <= -80%)
-- Touré (NEW) £5.8m: -114.8%
-- Diop (IPS) £4.0m: -106.6%
-- Robinson (FUL) £4.5m: -105.1%
-- Bentancur (TOT) £5.5m: -104.8%
-- Khusanov (MCI) £5.4m: -102.6%
+- Touré (NEW) £5.8m: -116.3%
+- Diop (IPS) £4.0m: -107.1%
+- Bentancur (TOT) £5.5m: -106.0%
+- Robinson (FUL) £4.5m: -104.7%
+- Khusanov (MCI) £5.4m: -103.5%
 
 ## 4. Squad Availability Doubts
 
-- [XI] MID Szoboszlai (LIV): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
+- [XI] MID Szoboszlai (LIV): status=i, chance=0%, news: Hamstring injury - Unknown return date
 - [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 
 ## 5. Top Form Assets
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
+| Manzambi | MID | AVL | 9.7 | 30 | £5.9m |
 | Haaland | FWD | MCI | 8.3 | 58 | £15.7m |
 | Henderson | MID | CHE | 7.7 | 23 | £4.9m |
 | Neto | MID | CHE | 7.3 | 34 | £6.5m |
@@ -63,5 +64,4 @@
 | Semenyo | MID | MCI | 7.0 | 37 | £8.3m |
 | Groß | MID | BHA | 6.7 | 53 | £6.1m |
 | Dasilva | DEF | COV | 6.7 | 25 | £4.0m |
-| Iwobi | MID | FUL | 6.7 | 29 | £5.4m |
 
