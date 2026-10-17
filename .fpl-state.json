@@ -1,8 +1,5 @@
 {
  "announced": [
-  "gw5-t24",
-  "gw5-t6",
-  "gw5-done",
   "gw6-t24",
   "gw6-t6",
   "gw6-done",
@@ -16,7 +13,7 @@
   "165": "a|100|",
   "302": "a|None|",
   "346": "a|None|",
-  "368": "d|25|Hamstring injury - 25% chance of playing",
+  "368": "a|100|",
   "399": "a|None|",
   "4": "a|None|",
   "40": "a|None|",
@@ -25,6 +22,6 @@
   "496": "a|None|",
   "534": "a|None|",
   "8": "a|None|",
-  "94": "d|75|Shoulder injury - 75% chance of playing"
+  "94": "a|100|"
  }
 }
