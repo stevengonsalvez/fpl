@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-17T19:06:35.544070+00:00
+**Captured:** 2026-10-17T21:38:11.758401+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Manzambi (AVL) £5.9m: 120.7%
-- Calafiori (ARS) £5.9m: 114.1%
-- Cherki (MCI) £7.9m: 111.9%
+- Manzambi (AVL) £5.9m: 127.2%
+- Calafiori (ARS) £5.9m: 115.1%
+- Cherki (MCI) £7.9m: 113.0%
 - Davis (IPS) £4.0m: 92.5%
-- Tavernier (BOU) £6.1m: 90.6%
+- Tavernier (BOU) £6.1m: 90.4%
 
 ### Falls (Target <= -80%)
-- Touré (NEW) £5.8m: -116.3%
-- Diop (IPS) £4.0m: -107.1%
-- Bentancur (TOT) £5.5m: -106.0%
+- Touré (NEW) £5.8m: -116.6%
+- Diop (IPS) £4.0m: -107.4%
+- Bentancur (TOT) £5.5m: -106.5%
 - Robinson (FUL) £4.5m: -104.7%
-- Khusanov (MCI) £5.4m: -103.5%
+- Khusanov (MCI) £5.4m: -104.0%
 
 ## 4. Squad Availability Doubts
 
