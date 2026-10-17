@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-17T00:18:27.329113+00:00
+**Captured:** 2026-10-17T04:51:57.046892+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 143.9% |
-| João Pedro | CHE | 78.1% |
-| Calafiori | ARS | 52.7% |
-| Rogers | CHE | 47.9% |
-| Raya | ARS | 43.9% |
-| Groß | BHA | 42.2% |
-| Cherki | MCI | 39.0% |
-| De Cuyper | BHA | 39.0% |
-| B.Fernandes | MUN | 38.7% |
-| Gvardiol | MCI | 28.4% |
+| Haaland | MCI | 157.5% |
+| João Pedro | CHE | 78.0% |
+| Calafiori | ARS | 52.3% |
+| Rogers | CHE | 48.2% |
+| Groß | BHA | 44.6% |
+| Raya | ARS | 43.8% |
+| Cherki | MCI | 40.9% |
+| De Cuyper | BHA | 38.0% |
+| B.Fernandes | MUN | 34.2% |
+| Gvardiol | MCI | 28.3% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Davis (IPS) £4.0m: 98.2%
-- Calafiori (ARS) £5.9m: 95.4%
-- Janelt (BRE) £5.0m: 92.7%
-- Cherki (MCI) £7.9m: 92.1%
-- Jacquet (LIV) £5.0m: 85.0%
+- Cherki (MCI) £7.9m: 100.1%
+- Calafiori (ARS) £5.9m: 97.5%
+- Davis (IPS) £4.0m: 97.1%
+- Janelt (BRE) £5.0m: 92.5%
+- Manzambi (AVL) £5.9m: 87.0%
 
 ### Falls (Target <= -80%)
-- Norton-Cuffy (HUL) £4.0m: -100.1%
-- Diop (IPS) £4.0m: -99.8%
-- Samba (MCI) £4.5m: -96.3%
-- J.Cuenca (FUL) £4.5m: -96.1%
-- Khusanov (MCI) £5.4m: -96.1%
+- Diop (IPS) £4.0m: -101.0%
+- Norton-Cuffy (HUL) £4.0m: -99.8%
+- Khusanov (MCI) £5.4m: -96.9%
+- Samba (MCI) £4.5m: -96.4%
+- J.Cuenca (FUL) £4.5m: -95.4%
 
 ## 4. Squad Availability Doubts
 
