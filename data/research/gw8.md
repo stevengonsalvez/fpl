@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-17T21:38:11.758401+00:00
+**Captured:** 2026-10-17T23:51:46.416615+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Manzambi (AVL) £5.9m: 127.2%
-- Calafiori (ARS) £5.9m: 115.1%
-- Cherki (MCI) £7.9m: 113.0%
 - Davis (IPS) £4.0m: 92.5%
-- Tavernier (BOU) £6.1m: 90.4%
+- Jacquet (LIV) £5.0m: 90.5%
+- Tavernier (BOU) £6.1m: 90.3%
+- João Pedro (CHE) £7.8m: 88.0%
+- Janelt (BRE) £5.0m: 86.4%
 
 ### Falls (Target <= -80%)
-- Touré (NEW) £5.8m: -116.6%
-- Diop (IPS) £4.0m: -107.4%
-- Bentancur (TOT) £5.5m: -106.5%
-- Robinson (FUL) £4.5m: -104.7%
-- Khusanov (MCI) £5.4m: -104.0%
+- Norton-Cuffy (HUL) £4.0m: -99.5%
+- Wood (NFO) £5.8m: -98.3%
+- Virgil (LIV) £6.5m: -97.7%
+- Samba (MCI) £4.5m: -97.7%
+- Braithwaite (MCI) £4.0m: -96.5%
 
 ## 4. Squad Availability Doubts
 
@@ -56,7 +56,7 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Manzambi | MID | AVL | 9.7 | 30 | £5.9m |
+| Manzambi | MID | AVL | 9.7 | 30 | £6.0m |
 | Haaland | FWD | MCI | 8.3 | 58 | £15.7m |
 | Henderson | MID | CHE | 7.7 | 23 | £4.9m |
 | Neto | MID | CHE | 7.3 | 34 | £6.5m |
