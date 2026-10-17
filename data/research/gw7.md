@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-17T04:51:57.046892+00:00
+**Captured:** 2026-10-17T09:04:50.310877+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Cherki (MCI) £7.9m: 100.1%
-- Calafiori (ARS) £5.9m: 97.5%
-- Davis (IPS) £4.0m: 97.1%
-- Janelt (BRE) £5.0m: 92.5%
-- Manzambi (AVL) £5.9m: 87.0%
+- Cherki (MCI) £7.9m: 120.4%
+- Calafiori (ARS) £5.9m: 103.3%
+- Manzambi (AVL) £5.9m: 95.6%
+- Davis (IPS) £4.0m: 94.8%
+- João Pedro (CHE) £7.8m: 94.0%
 
 ### Falls (Target <= -80%)
-- Diop (IPS) £4.0m: -101.0%
-- Norton-Cuffy (HUL) £4.0m: -99.8%
-- Khusanov (MCI) £5.4m: -96.9%
-- Samba (MCI) £4.5m: -96.4%
-- J.Cuenca (FUL) £4.5m: -95.4%
+- Diop (IPS) £4.0m: -103.6%
+- Mykolenko (EVE) £4.6m: -100.9%
+- Norton-Cuffy (HUL) £4.0m: -99.5%
+- Khusanov (MCI) £5.4m: -98.8%
+- Bentancur (TOT) £5.5m: -98.7%
 
 ## 4. Squad Availability Doubts
 
