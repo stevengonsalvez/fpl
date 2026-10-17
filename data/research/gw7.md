@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 7
 
 **Deadline:** 2026-10-17T10:00:00Z
-**Captured:** 2026-10-16T21:58:21.345650+00:00
+**Captured:** 2026-10-17T00:18:27.329113+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £6.0m: 139.0%
-- Haaland (MCI) £15.6m: 115.3%
-- Evanilson (BOU) £6.0m: 103.8%
-- De Cuyper (BHA) £5.1m: 103.0%
-- Davis (IPS) £4.0m: 98.9%
+- Davis (IPS) £4.0m: 98.2%
+- Calafiori (ARS) £5.9m: 95.4%
+- Janelt (BRE) £5.0m: 92.7%
+- Cherki (MCI) £7.9m: 92.1%
+- Jacquet (LIV) £5.0m: 85.0%
 
 ### Falls (Target <= -80%)
-- Delap (NFO) £5.6m: -149.3%
-- M.Sangaré (BRE) £5.6m: -125.2%
-- Elanga (NEW) £6.1m: -122.7%
-- Wirtz (LIV) £7.3m: -116.6%
-- Mosquera (ARS) £5.3m: -112.3%
+- Norton-Cuffy (HUL) £4.0m: -100.1%
+- Diop (IPS) £4.0m: -99.8%
+- Samba (MCI) £4.5m: -96.3%
+- J.Cuenca (FUL) £4.5m: -96.1%
+- Khusanov (MCI) £5.4m: -96.1%
 
 ## 4. Squad Availability Doubts
 
@@ -57,8 +57,8 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| De Cuyper | DEF | BHA | 10.5 | 53 | £5.1m |
-| Groß | MID | BHA | 10.0 | 53 | £6.0m |
+| De Cuyper | DEF | BHA | 10.5 | 53 | £5.2m |
+| Groß | MID | BHA | 10.0 | 53 | £6.1m |
 | Henderson | MID | CHE | 10.0 | 20 | £4.9m |
 | Dasilva | DEF | COV | 10.0 | 25 | £4.0m |
 | Semenyo | MID | MCI | 10.0 | 36 | £8.3m |
