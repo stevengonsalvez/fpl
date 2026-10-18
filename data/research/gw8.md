@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-18T19:19:02.426807+00:00
+**Captured:** 2026-10-18T21:43:18.782973+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Tavernier (BOU) £6.1m: 122.1%
-- João Pedro (CHE) £7.8m: 100.8%
-- Jacquet (LIV) £5.0m: 95.4%
-- Doku (MCI) £7.4m: 95.0%
-- Davis (IPS) £4.0m: 92.0%
+- Tavernier (BOU) £6.1m: 129.7%
+- João Pedro (CHE) £7.8m: 103.1%
+- Doku (MCI) £7.4m: 96.6%
+- Jacquet (LIV) £5.0m: 95.8%
+- Groß (BHA) £6.1m: 92.4%
 
 ### Falls (Target <= -80%)
-- Zubimendi (ARS) £5.3m: -175.8%
-- Wissa (NEW) £6.2m: -129.1%
-- Braithwaite (MCI) £4.0m: -104.2%
-- Wood (NFO) £5.8m: -103.7%
-- Norton-Cuffy (HUL) £4.0m: -103.2%
+- Zubimendi (ARS) £5.3m: -176.9%
+- Wissa (NEW) £6.2m: -135.9%
+- Braithwaite (MCI) £4.0m: -105.2%
+- Gibbs-White (NFO) £8.0m: -104.7%
+- Wood (NFO) £5.8m: -104.6%
 
 ## 4. Squad Availability Doubts
 
