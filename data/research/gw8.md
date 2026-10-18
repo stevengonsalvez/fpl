@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-18T08:42:28.570319+00:00
+**Captured:** 2026-10-18T13:05:18.321082+00:00
 
 ## 1. Key Fixtures
 
@@ -35,16 +35,16 @@
 
 ### Rises (Target >= 80%)
 - Davis (IPS) £4.0m: 92.5%
-- Jacquet (LIV) £5.0m: 91.2%
-- Tavernier (BOU) £6.1m: 90.2%
-- João Pedro (CHE) £7.8m: 89.4%
-- Janelt (BRE) £5.0m: 85.3%
+- Jacquet (LIV) £5.0m: 91.9%
+- João Pedro (CHE) £7.8m: 90.9%
+- Tavernier (BOU) £6.1m: 90.1%
+- Doku (MCI) £7.4m: 86.4%
 
 ### Falls (Target <= -80%)
-- Norton-Cuffy (HUL) £4.0m: -99.7%
-- Wood (NFO) £5.8m: -98.6%
-- Virgil (LIV) £6.5m: -98.0%
-- Braithwaite (MCI) £4.0m: -97.3%
+- Norton-Cuffy (HUL) £4.0m: -100.1%
+- Wood (NFO) £5.8m: -99.0%
+- Braithwaite (MCI) £4.0m: -98.8%
+- Virgil (LIV) £6.5m: -98.3%
 - Samba (MCI) £4.5m: -97.2%
 
 ## 4. Squad Availability Doubts
