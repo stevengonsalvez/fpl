@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-17T23:51:46.416615+00:00
+**Captured:** 2026-10-18T03:45:40.601523+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 139.1% |
-| João Pedro | CHE | 84.3% |
-| Calafiori | ARS | 52.2% |
-| Rogers | CHE | 50.7% |
+| Haaland | MCI | 150.7% |
+| João Pedro | CHE | 78.2% |
+| Calafiori | ARS | 52.7% |
+| Rogers | CHE | 49.5% |
 | Raya | ARS | 43.8% |
-| Groß | BHA | 41.5% |
-| Cherki | MCI | 39.4% |
-| De Cuyper | BHA | 35.8% |
-| B.Fernandes | MUN | 34.0% |
-| Palmer | CHE | 30.0% |
+| Groß | BHA | 41.8% |
+| Cherki | MCI | 41.7% |
+| De Cuyper | BHA | 37.0% |
+| Palmer | CHE | 32.4% |
+| B.Fernandes | MUN | 31.7% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
 - Davis (IPS) £4.0m: 92.5%
-- Jacquet (LIV) £5.0m: 90.5%
+- Jacquet (LIV) £5.0m: 90.7%
 - Tavernier (BOU) £6.1m: 90.3%
-- João Pedro (CHE) £7.8m: 88.0%
-- Janelt (BRE) £5.0m: 86.4%
+- João Pedro (CHE) £7.8m: 88.5%
+- Janelt (BRE) £5.0m: 86.0%
 
 ### Falls (Target <= -80%)
-- Norton-Cuffy (HUL) £4.0m: -99.5%
+- Norton-Cuffy (HUL) £4.0m: -99.6%
 - Wood (NFO) £5.8m: -98.3%
-- Virgil (LIV) £6.5m: -97.7%
-- Samba (MCI) £4.5m: -97.7%
-- Braithwaite (MCI) £4.0m: -96.5%
+- Virgil (LIV) £6.5m: -97.8%
+- Samba (MCI) £4.5m: -97.5%
+- Braithwaite (MCI) £4.0m: -96.7%
 
 ## 4. Squad Availability Doubts
 
