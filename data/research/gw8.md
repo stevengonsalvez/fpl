@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-19T04:29:02.913772+00:00
+**Captured:** 2026-10-19T10:12:56.669725+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Groß (BHA) £6.1m: 98.9%
-- Doku (MCI) £7.4m: 98.4%
-- Jacquet (LIV) £5.0m: 96.4%
-- Rogers (CHE) £7.9m: 93.1%
-- Davis (IPS) £4.0m: 91.6%
+- Groß (BHA) £6.1m: 105.1%
+- Doku (MCI) £7.4m: 100.1%
+- Jacquet (LIV) £5.0m: 97.0%
+- Rogers (CHE) £7.9m: 96.7%
+- Davis (IPS) £4.0m: 91.5%
 
 ### Falls (Target <= -80%)
-- Stroud (HUL) £5.0m: -99.6%
-- Grimes (COV) £4.9m: -99.3%
-- Onyeka (COV) £4.9m: -98.0%
-- Alcaraz (EVE) £4.9m: -97.9%
-- Hudson-Odoi (NFO) £5.8m: -97.2%
+- Stroud (HUL) £5.0m: -100.6%
+- Grimes (COV) £4.9m: -99.9%
+- Onyeka (COV) £4.9m: -98.6%
+- Alcaraz (EVE) £4.9m: -98.2%
+- Wieffer (BHA) £4.9m: -97.8%
 
 ## 4. Squad Availability Doubts
 
