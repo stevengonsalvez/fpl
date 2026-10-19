@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-18T23:59:48.283156+00:00
+**Captured:** 2026-10-19T04:29:02.913772+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 150.7% |
-| João Pedro | CHE | 78.2% |
+| Haaland | MCI | 149.3% |
+| João Pedro | CHE | 82.4% |
 | Calafiori | ARS | 52.7% |
-| Rogers | CHE | 49.5% |
-| Raya | ARS | 43.8% |
-| Groß | BHA | 41.8% |
-| Cherki | MCI | 41.7% |
+| Rogers | CHE | 50.2% |
+| Raya | ARS | 44.0% |
+| Groß | BHA | 42.1% |
+| Cherki | MCI | 39.2% |
 | De Cuyper | BHA | 37.0% |
-| Palmer | CHE | 32.4% |
-| B.Fernandes | MUN | 31.7% |
+| Palmer | CHE | 31.7% |
+| B.Fernandes | MUN | 30.7% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Doku (MCI) £7.4m: 97.7%
-- Groß (BHA) £6.1m: 96.2%
-- Jacquet (LIV) £5.0m: 96.2%
-- Davis (IPS) £4.0m: 91.7%
-- Rogers (CHE) £7.9m: 91.4%
+- Groß (BHA) £6.1m: 98.9%
+- Doku (MCI) £7.4m: 98.4%
+- Jacquet (LIV) £5.0m: 96.4%
+- Rogers (CHE) £7.9m: 93.1%
+- Davis (IPS) £4.0m: 91.6%
 
 ### Falls (Target <= -80%)
-- Grimes (COV) £4.9m: -99.7%
-- Stroud (HUL) £5.0m: -99.2%
+- Stroud (HUL) £5.0m: -99.6%
+- Grimes (COV) £4.9m: -99.3%
 - Onyeka (COV) £4.9m: -98.0%
-- Alcaraz (EVE) £4.9m: -97.4%
-- Hudson-Odoi (NFO) £5.8m: -97.3%
+- Alcaraz (EVE) £4.9m: -97.9%
+- Hudson-Odoi (NFO) £5.8m: -97.2%
 
 ## 4. Squad Availability Doubts
 
