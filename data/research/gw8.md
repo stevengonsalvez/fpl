@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-20T05:53:58.826106+00:00
+**Captured:** 2026-10-20T11:09:44.877572+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,17 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Jacquet (LIV) £5.0m: 98.9%
-- Davis (IPS) £4.0m: 90.6%
-- Giles (HUL) £4.0m: 82.1%
+- Jacquet (LIV) £5.0m: 99.2%
+- Davis (IPS) £4.0m: 90.4%
+- Giles (HUL) £4.0m: 82.0%
+- Calvert-Lewin (LEE) £6.0m: 81.6%
 
 ### Falls (Target <= -80%)
-- Endo (LIV) £4.9m: -99.9%
+- Endo (LIV) £4.9m: -100.4%
+- Hughes (CRY) £4.4m: -99.4%
 - Hudson-Odoi (NFO) £5.8m: -99.1%
-- Hughes (CRY) £4.4m: -98.5%
-- Cash (AVL) £4.4m: -97.8%
-- Nmecha (LEE) £5.4m: -97.7%
+- Gyökeres (ARS) £7.1m: -98.9%
+- Nmecha (LEE) £5.4m: -98.5%
 
 ## 4. Squad Availability Doubts
 
