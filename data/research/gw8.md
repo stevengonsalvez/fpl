@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-20T11:09:44.877572+00:00
+**Captured:** 2026-10-20T15:47:36.591088+00:00
 
 ## 1. Key Fixtures
 
@@ -34,17 +34,17 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Jacquet (LIV) £5.0m: 99.2%
-- Davis (IPS) £4.0m: 90.4%
-- Giles (HUL) £4.0m: 82.0%
-- Calvert-Lewin (LEE) £6.0m: 81.6%
+- Jacquet (LIV) £5.0m: 99.6%
+- Davis (IPS) £4.0m: 90.2%
+- Calvert-Lewin (LEE) £6.0m: 84.7%
+- Giles (HUL) £4.0m: 81.8%
 
 ### Falls (Target <= -80%)
-- Endo (LIV) £4.9m: -100.4%
-- Hughes (CRY) £4.4m: -99.4%
-- Hudson-Odoi (NFO) £5.8m: -99.1%
-- Gyökeres (ARS) £7.1m: -98.9%
-- Nmecha (LEE) £5.4m: -98.5%
+- Endo (LIV) £4.9m: -101.1%
+- Gyökeres (ARS) £7.1m: -100.3%
+- Hughes (CRY) £4.4m: -100.3%
+- Nmecha (LEE) £5.4m: -100.0%
+- Hudson-Odoi (NFO) £5.8m: -99.8%
 
 ## 4. Squad Availability Doubts
 
@@ -58,9 +58,9 @@
 | De Cuyper | DEF | BHA | 10.5 | 59 | £5.3m |
 | Henderson | MID | CHE | 10.5 | 23 | £4.9m |
 | Neto | MID | CHE | 10.0 | 34 | £6.5m |
+| Evanilson | FWD | BOU | 9.5 | 37 | £6.1m |
 | Vuskovic | DEF | BHA | 9.5 | 51 | £5.1m |
-| Haaland | FWD | MCI | 8.3 | 58 | £15.7m |
+| Haaland | FWD | MCI | 9.5 | 58 | £15.7m |
+| Doku | MID | MCI | 9.0 | 19 | £7.5m |
 | Rice | MID | ARS | 8.0 | 36 | £7.3m |
-| Manzambi | MID | AVL | 8.0 | 30 | £6.0m |
-| Ayari | MID | BHA | 8.0 | 31 | £5.4m |
 
