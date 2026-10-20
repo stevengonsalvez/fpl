@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-20T15:47:36.591088+00:00
+**Captured:** 2026-10-20T19:55:03.562356+00:00
 
 ## 1. Key Fixtures
 
@@ -34,22 +34,22 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Jacquet (LIV) £5.0m: 99.6%
-- Davis (IPS) £4.0m: 90.2%
-- Calvert-Lewin (LEE) £6.0m: 84.7%
-- Giles (HUL) £4.0m: 81.8%
+- Jacquet (LIV) £5.0m: 99.9%
+- Davis (IPS) £4.0m: 89.9%
+- Calvert-Lewin (LEE) £6.0m: 87.0%
+- Giles (HUL) £4.0m: 81.7%
 
 ### Falls (Target <= -80%)
-- Endo (LIV) £4.9m: -101.1%
-- Gyökeres (ARS) £7.1m: -100.3%
-- Hughes (CRY) £4.4m: -100.3%
-- Nmecha (LEE) £5.4m: -100.0%
+- Endo (LIV) £4.9m: -102.0%
+- Gyökeres (ARS) £7.1m: -101.6%
+- Hughes (CRY) £4.4m: -101.0%
+- Nmecha (LEE) £5.4m: -100.8%
 - Hudson-Odoi (NFO) £5.8m: -99.8%
 
 ## 4. Squad Availability Doubts
 
 - [XI] MID Szoboszlai (LIV): status=i, chance=0%, news: Hamstring injury - Unknown return date
-- [BEN] DEF Shaw (MUN): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
+- [BEN] DEF Shaw (MUN): status=i, chance=0%, news: Unspecified injury - Unknown return date
 
 ## 5. Top Form Assets
 

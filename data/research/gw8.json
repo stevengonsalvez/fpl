@@ -1,7 +1,7 @@
 {
   "gameweek": 8,
   "deadline_utc": "2026-10-23T17:30:00Z",
-  "captured_at_utc": "2026-10-20T15:47:36.591088+00:00",
+  "captured_at_utc": "2026-10-20T19:55:03.562356+00:00",
   "fixtures": [
     {
       "home": "IPS",
@@ -152,28 +152,28 @@
         "id": 362,
         "name": "Jacquet",
         "team": "LIV",
-        "target_pct": 99.6,
+        "target_pct": 99.9,
         "cost": 5.0
       },
       {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 90.2,
+        "target_pct": 89.9,
         "cost": 4.0
       },
       {
         "id": 346,
         "name": "Calvert-Lewin",
         "team": "LEE",
-        "target_pct": 84.7,
+        "target_pct": 87.0,
         "cost": 6.0
       },
       {
         "id": 282,
         "name": "Giles",
         "team": "HUL",
-        "target_pct": 81.8,
+        "target_pct": 81.7,
         "cost": 4.0
       }
     ],
@@ -182,28 +182,28 @@
         "id": 374,
         "name": "Endo",
         "team": "LIV",
-        "target_pct": -101.1,
+        "target_pct": -102.0,
         "cost": 4.9
       },
       {
         "id": 25,
         "name": "Gy\u00f6keres",
         "team": "ARS",
-        "target_pct": -100.3,
+        "target_pct": -101.6,
         "cost": 7.1
       },
       {
         "id": 212,
         "name": "Hughes",
         "team": "CRY",
-        "target_pct": -100.3,
+        "target_pct": -101.0,
         "cost": 4.4
       },
       {
         "id": 347,
         "name": "Nmecha",
         "team": "LEE",
-        "target_pct": -100.0,
+        "target_pct": -100.8,
         "cost": 5.4
       },
       {
@@ -217,29 +217,29 @@
         "id": 596,
         "name": "Ruggeri",
         "team": "AVL",
-        "target_pct": -99.1,
+        "target_pct": -99.6,
         "cost": 4.5
       },
       {
         "id": 271,
         "name": "Muniz",
         "team": "FUL",
-        "target_pct": -98.5,
+        "target_pct": -99.6,
+        "cost": 5.4
+      },
+      {
+        "id": 570,
+        "name": "Palacios",
+        "team": "FUL",
+        "target_pct": -98.9,
         "cost": 5.4
       },
       {
         "id": 32,
         "name": "Cash",
         "team": "AVL",
-        "target_pct": -98.1,
+        "target_pct": -98.2,
         "cost": 4.4
-      },
-      {
-        "id": 570,
-        "name": "Palacios",
-        "team": "FUL",
-        "target_pct": -98.0,
-        "cost": 5.4
       },
       {
         "id": 363,
@@ -400,9 +400,9 @@
       "team": "MUN",
       "position": "DEF",
       "is_starter": false,
-      "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Unspecified injury - Unknown return date",
       "clean": false
     },
     {
