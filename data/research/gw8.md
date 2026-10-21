@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-21T13:05:33.562087+00:00
+**Captured:** 2026-10-21T18:11:11.667625+00:00
 
 ## 1. Key Fixtures
 
@@ -34,16 +34,16 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Calvert-Lewin (LEE) £6.0m: 93.1%
-- Davis (IPS) £4.0m: 89.5%
-- Giles (HUL) £4.0m: 81.3%
+- Calvert-Lewin (LEE) £6.0m: 96.1%
+- Davis (IPS) £4.0m: 89.3%
+- Giles (HUL) £4.0m: 81.2%
 
 ### Falls (Target <= -80%)
-- Palacios (FUL) £5.4m: -101.4%
+- Palacios (FUL) £5.4m: -102.5%
 - Cash (AVL) £4.4m: -98.5%
+- Ampadu (LEE) £5.4m: -98.5%
 - Leoni (LIV) £4.0m: -97.9%
-- Ampadu (LEE) £5.4m: -97.6%
-- Maguire (MUN) £4.8m: -97.0%
+- Maguire (MUN) £4.8m: -97.7%
 
 ## 4. Squad Availability Doubts
 
