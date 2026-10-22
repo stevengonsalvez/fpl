@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-22T00:29:55.176558+00:00
+**Captured:** 2026-10-22T05:17:27.388399+00:00
 
 ## 1. Key Fixtures
 
@@ -20,30 +20,30 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 141.1% |
-| João Pedro | CHE | 81.2% |
-| Calafiori | ARS | 53.1% |
+| Haaland | MCI | 152.2% |
+| João Pedro | CHE | 81.8% |
+| Calafiori | ARS | 53.3% |
 | Rogers | CHE | 50.8% |
-| Raya | ARS | 44.3% |
-| Groß | BHA | 42.5% |
-| Cherki | MCI | 39.5% |
-| De Cuyper | BHA | 37.8% |
-| Palmer | CHE | 31.3% |
-| B.Fernandes | MUN | 29.6% |
+| Raya | ARS | 44.4% |
+| Groß | BHA | 42.7% |
+| Cherki | MCI | 39.1% |
+| De Cuyper | BHA | 38.1% |
+| Palmer | CHE | 31.8% |
+| B.Fernandes | MUN | 29.3% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Davis (IPS) £4.0m: 89.0%
-- Neto (CHE) £6.5m: 82.7%
-- Giles (HUL) £4.0m: 81.0%
+- Davis (IPS) £4.0m: 88.9%
+- Neto (CHE) £6.5m: 83.6%
+- Giles (HUL) £4.0m: 80.9%
 
 ### Falls (Target <= -80%)
-- Ampadu (LEE) £5.4m: -99.5%
-- Maguire (MUN) £4.8m: -99.2%
+- Ampadu (LEE) £5.4m: -99.9%
+- Maguire (MUN) £4.8m: -99.6%
 - Cash (AVL) £4.4m: -98.7%
-- Leoni (LIV) £4.0m: -98.0%
-- Talbi (SUN) £5.3m: -96.3%
+- Leoni (LIV) £4.0m: -98.2%
+- Talbi (SUN) £5.3m: -96.6%
 
 ## 4. Squad Availability Doubts
 

@@ -1,7 +1,7 @@
 {
   "gameweek": 8,
   "deadline_utc": "2026-10-23T17:30:00Z",
-  "captured_at_utc": "2026-10-22T00:29:55.176558+00:00",
+  "captured_at_utc": "2026-10-22T05:17:27.388399+00:00",
   "fixtures": [
     {
       "home": "IPS",
@@ -59,19 +59,19 @@
       "id": 411,
       "name": "Haaland",
       "team": "MCI",
-      "predicted_eo_pct": 141.1
+      "predicted_eo_pct": 152.2
     },
     {
       "id": 165,
       "name": "Jo\u00e3o Pedro",
       "team": "CHE",
-      "predicted_eo_pct": 81.2
+      "predicted_eo_pct": 81.8
     },
     {
       "id": 8,
       "name": "Calafiori",
       "team": "ARS",
-      "predicted_eo_pct": 53.1
+      "predicted_eo_pct": 53.3
     },
     {
       "id": 40,
@@ -83,55 +83,55 @@
       "id": 1,
       "name": "Raya",
       "team": "ARS",
-      "predicted_eo_pct": 44.3
+      "predicted_eo_pct": 44.4
     },
     {
       "id": 124,
       "name": "Gro\u00df",
       "team": "BHA",
-      "predicted_eo_pct": 42.5
+      "predicted_eo_pct": 42.7
     },
     {
       "id": 399,
       "name": "Cherki",
       "team": "MCI",
-      "predicted_eo_pct": 39.5
+      "predicted_eo_pct": 39.1
     },
     {
       "id": 115,
       "name": "De Cuyper",
       "team": "BHA",
-      "predicted_eo_pct": 37.8
+      "predicted_eo_pct": 38.1
     },
     {
       "id": 154,
       "name": "Palmer",
       "team": "CHE",
-      "predicted_eo_pct": 31.3
+      "predicted_eo_pct": 31.8
     },
     {
       "id": 426,
       "name": "B.Fernandes",
       "team": "MUN",
-      "predicted_eo_pct": 29.6
+      "predicted_eo_pct": 29.3
     },
     {
       "id": 391,
       "name": "Gvardiol",
       "team": "MCI",
-      "predicted_eo_pct": 27.9
+      "predicted_eo_pct": 27.8
     },
     {
       "id": 346,
       "name": "Calvert-Lewin",
       "team": "LEE",
-      "predicted_eo_pct": 23.5
+      "predicted_eo_pct": 23.7
     },
     {
       "id": 427,
       "name": "Mbeumo",
       "team": "MUN",
-      "predicted_eo_pct": 22.4
+      "predicted_eo_pct": 21.8
     },
     {
       "id": 4,
@@ -152,21 +152,21 @@
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 89.0,
+        "target_pct": 88.9,
         "cost": 4.0
       },
       {
         "id": 156,
         "name": "Neto",
         "team": "CHE",
-        "target_pct": 82.7,
+        "target_pct": 83.6,
         "cost": 6.5
       },
       {
         "id": 282,
         "name": "Giles",
         "team": "HUL",
-        "target_pct": 81.0,
+        "target_pct": 80.9,
         "cost": 4.0
       }
     ],
@@ -175,14 +175,14 @@
         "id": 338,
         "name": "Ampadu",
         "team": "LEE",
-        "target_pct": -99.5,
+        "target_pct": -99.9,
         "cost": 5.4
       },
       {
         "id": 418,
         "name": "Maguire",
         "team": "MUN",
-        "target_pct": -99.2,
+        "target_pct": -99.6,
         "cost": 4.8
       },
       {
@@ -196,50 +196,50 @@
         "id": 363,
         "name": "Leoni",
         "team": "LIV",
-        "target_pct": -98.0,
+        "target_pct": -98.2,
         "cost": 4.0
       },
       {
         "id": 549,
         "name": "Talbi",
         "team": "SUN",
-        "target_pct": -96.3,
+        "target_pct": -96.6,
         "cost": 5.3
       },
       {
         "id": 20,
         "name": "Dowman",
         "team": "ARS",
-        "target_pct": -95.9,
+        "target_pct": -96.2,
         "cost": 5.3
       },
       {
         "id": 164,
         "name": "Quenda",
         "team": "CHE",
-        "target_pct": -95.6,
+        "target_pct": -95.9,
         "cost": 5.3
       },
       {
         "id": 142,
         "name": "James",
         "team": "CHE",
-        "target_pct": -92.7,
+        "target_pct": -93.0,
         "cost": 5.3
-      },
-      {
-        "id": 581,
-        "name": "Diomande",
-        "team": "NFO",
-        "target_pct": -92.4,
-        "cost": 5.4
       },
       {
         "id": 496,
         "name": "Kinsky",
         "team": "TOT",
-        "target_pct": -92.4,
+        "target_pct": -92.6,
         "cost": 4.5
+      },
+      {
+        "id": 581,
+        "name": "Diomande",
+        "team": "NFO",
+        "target_pct": -92.5,
+        "cost": 5.4
       }
     ]
   },
