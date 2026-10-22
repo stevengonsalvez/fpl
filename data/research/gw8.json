@@ -1,7 +1,7 @@
 {
   "gameweek": 8,
   "deadline_utc": "2026-10-23T17:30:00Z",
-  "captured_at_utc": "2026-10-21T21:54:13.333939+00:00",
+  "captured_at_utc": "2026-10-22T00:29:55.176558+00:00",
   "fixtures": [
     {
       "home": "IPS",
@@ -149,82 +149,68 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 346,
-        "name": "Calvert-Lewin",
-        "team": "LEE",
-        "target_pct": 99.6,
-        "cost": 6.0
-      },
-      {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 89.1,
+        "target_pct": 89.0,
         "cost": 4.0
       },
       {
         "id": 156,
         "name": "Neto",
         "team": "CHE",
-        "target_pct": 81.9,
+        "target_pct": 82.7,
         "cost": 6.5
       },
       {
         "id": 282,
         "name": "Giles",
         "team": "HUL",
-        "target_pct": 81.1,
+        "target_pct": 81.0,
         "cost": 4.0
       }
     ],
     "imminent_falls": [
       {
-        "id": 570,
-        "name": "Palacios",
-        "team": "FUL",
-        "target_pct": -102.7,
-        "cost": 5.4
-      },
-      {
         "id": 338,
         "name": "Ampadu",
         "team": "LEE",
-        "target_pct": -99.2,
+        "target_pct": -99.5,
         "cost": 5.4
       },
       {
         "id": 418,
         "name": "Maguire",
         "team": "MUN",
-        "target_pct": -98.7,
+        "target_pct": -99.2,
         "cost": 4.8
       },
       {
         "id": 32,
         "name": "Cash",
         "team": "AVL",
-        "target_pct": -98.6,
+        "target_pct": -98.7,
         "cost": 4.4
       },
       {
         "id": 363,
         "name": "Leoni",
         "team": "LIV",
-        "target_pct": -97.9,
+        "target_pct": -98.0,
         "cost": 4.0
       },
       {
         "id": 549,
         "name": "Talbi",
         "team": "SUN",
-        "target_pct": -96.1,
+        "target_pct": -96.3,
         "cost": 5.3
       },
       {
         "id": 20,
         "name": "Dowman",
         "team": "ARS",
-        "target_pct": -96.0,
+        "target_pct": -95.9,
         "cost": 5.3
       },
       {
@@ -238,15 +224,22 @@
         "id": 142,
         "name": "James",
         "team": "CHE",
-        "target_pct": -92.5,
+        "target_pct": -92.7,
         "cost": 5.3
       },
       {
         "id": 581,
         "name": "Diomande",
         "team": "NFO",
-        "target_pct": -92.5,
+        "target_pct": -92.4,
         "cost": 5.4
+      },
+      {
+        "id": 496,
+        "name": "Kinsky",
+        "team": "TOT",
+        "target_pct": -92.4,
+        "cost": 4.5
       }
     ]
   },
