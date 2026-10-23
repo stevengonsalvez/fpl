@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-23T12:46:49.118310+00:00
+**Captured:** 2026-10-23T17:47:11.322570+00:00
 
 ## 1. Key Fixtures
 
@@ -34,21 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Neto (CHE) £6.5m: 118.9%
-- Davis (IPS) £4.0m: 85.3%
-- Tavernier (BOU) £6.2m: 83.7%
-- Barcola (LIV) £8.0m: 81.3%
+- Neto (CHE) £6.5m: 146.5%
+- Evanilson (BOU) £6.1m: 131.0%
+- Tavernier (BOU) £6.2m: 129.1%
+- Raya (ARS) £6.1m: 104.8%
+- Kostoulas (BHA) £5.7m: 97.5%
 
 ### Falls (Target <= -80%)
-- Saka (ARS) £9.6m: -155.7%
-- Semenyo (MCI) £8.3m: -114.8%
-- Kinsky (TOT) £4.5m: -108.0%
-- Johnson (EVE) £5.9m: -106.0%
-- Fernandes (TOT) £5.7m: -104.6%
+- Saka (ARS) £9.6m: -180.0%
+- Semenyo (MCI) £8.3m: -173.0%
+- B.Fernandes (MUN) £11.8m: -136.1%
+- Gusto (CHE) £4.9m: -133.7%
+- Kinsky (TOT) £4.5m: -121.2%
 
 ## 4. Squad Availability Doubts
 
 - [XI] MID Szoboszlai (LIV): status=i, chance=0%, news: Hamstring injury - Unknown return date
+- [XI] FWD Calvert-Lewin (LEE): status=d, chance=50%, news: Foot injury - 50% chance of playing
 - [BEN] DEF Shaw (MUN): status=i, chance=0%, news: Unspecified injury - Unknown return date
 
 ## 5. Top Form Assets
