@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-23T01:46:47.060855+00:00
+**Captured:** 2026-10-23T07:11:37.972964+00:00
 
 ## 1. Key Fixtures
 
@@ -20,29 +20,29 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 152.2% |
-| João Pedro | CHE | 81.8% |
-| Calafiori | ARS | 53.3% |
-| Rogers | CHE | 50.8% |
-| Raya | ARS | 44.4% |
-| Groß | BHA | 42.7% |
-| Cherki | MCI | 39.1% |
-| De Cuyper | BHA | 38.1% |
-| Palmer | CHE | 31.8% |
-| B.Fernandes | MUN | 29.3% |
+| Haaland | MCI | 147.9% |
+| João Pedro | CHE | 82.5% |
+| Calafiori | ARS | 53.5% |
+| Rogers | CHE | 51.1% |
+| Raya | ARS | 44.7% |
+| Groß | BHA | 42.8% |
+| Cherki | MCI | 39.5% |
+| De Cuyper | BHA | 38.3% |
+| Palmer | CHE | 33.5% |
+| B.Fernandes | MUN | 29.5% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Neto (CHE) £6.5m: 101.4%
-- Davis (IPS) £4.0m: 87.2%
+- Neto (CHE) £6.5m: 105.0%
+- Davis (IPS) £4.0m: 86.7%
 
 ### Falls (Target <= -80%)
-- Kinsky (TOT) £4.5m: -100.1%
-- Leoni (LIV) £4.0m: -100.0%
-- Cash (AVL) £4.4m: -99.7%
-- Quenda (CHE) £5.3m: -99.3%
-- Talbi (SUN) £5.3m: -99.1%
+- Saka (ARS) £9.6m: -109.0%
+- Kinsky (TOT) £4.5m: -101.7%
+- Johnson (EVE) £5.9m: -100.0%
+- Cash (AVL) £4.4m: -99.9%
+- Leoni (LIV) £4.0m: -99.8%
 
 ## 4. Squad Availability Doubts
 

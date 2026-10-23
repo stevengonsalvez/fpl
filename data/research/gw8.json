@@ -1,7 +1,7 @@
 {
   "gameweek": 8,
   "deadline_utc": "2026-10-23T17:30:00Z",
-  "captured_at_utc": "2026-10-23T01:46:47.060855+00:00",
+  "captured_at_utc": "2026-10-23T07:11:37.972964+00:00",
   "fixtures": [
     {
       "home": "IPS",
@@ -59,79 +59,79 @@
       "id": 411,
       "name": "Haaland",
       "team": "MCI",
-      "predicted_eo_pct": 152.2
+      "predicted_eo_pct": 147.9
     },
     {
       "id": 165,
       "name": "Jo\u00e3o Pedro",
       "team": "CHE",
-      "predicted_eo_pct": 81.8
+      "predicted_eo_pct": 82.5
     },
     {
       "id": 8,
       "name": "Calafiori",
       "team": "ARS",
-      "predicted_eo_pct": 53.3
+      "predicted_eo_pct": 53.5
     },
     {
       "id": 40,
       "name": "Rogers",
       "team": "CHE",
-      "predicted_eo_pct": 50.8
+      "predicted_eo_pct": 51.1
     },
     {
       "id": 1,
       "name": "Raya",
       "team": "ARS",
-      "predicted_eo_pct": 44.4
+      "predicted_eo_pct": 44.7
     },
     {
       "id": 124,
       "name": "Gro\u00df",
       "team": "BHA",
-      "predicted_eo_pct": 42.7
+      "predicted_eo_pct": 42.8
     },
     {
       "id": 399,
       "name": "Cherki",
       "team": "MCI",
-      "predicted_eo_pct": 39.1
+      "predicted_eo_pct": 39.5
     },
     {
       "id": 115,
       "name": "De Cuyper",
       "team": "BHA",
-      "predicted_eo_pct": 38.1
+      "predicted_eo_pct": 38.3
     },
     {
       "id": 154,
       "name": "Palmer",
       "team": "CHE",
-      "predicted_eo_pct": 31.8
+      "predicted_eo_pct": 33.5
     },
     {
       "id": 426,
       "name": "B.Fernandes",
       "team": "MUN",
-      "predicted_eo_pct": 29.3
+      "predicted_eo_pct": 29.5
     },
     {
       "id": 391,
       "name": "Gvardiol",
       "team": "MCI",
-      "predicted_eo_pct": 27.8
+      "predicted_eo_pct": 27.6
     },
     {
       "id": 346,
       "name": "Calvert-Lewin",
       "team": "LEE",
-      "predicted_eo_pct": 23.7
+      "predicted_eo_pct": 23.9
     },
     {
       "id": 427,
       "name": "Mbeumo",
       "team": "MUN",
-      "predicted_eo_pct": 21.8
+      "predicted_eo_pct": 22.4
     },
     {
       "id": 4,
@@ -143,7 +143,7 @@
       "id": 229,
       "name": "Tarkowski",
       "team": "EVE",
-      "predicted_eo_pct": 18.0
+      "predicted_eo_pct": 17.9
     }
   ],
   "price_changes": {
@@ -152,38 +152,52 @@
         "id": 156,
         "name": "Neto",
         "team": "CHE",
-        "target_pct": 101.4,
+        "target_pct": 105.0,
         "cost": 6.5
       },
       {
         "id": 305,
         "name": "Davis",
         "team": "IPS",
-        "target_pct": 87.2,
+        "target_pct": 86.7,
         "cost": 4.0
       }
     ],
     "imminent_falls": [
       {
+        "id": 12,
+        "name": "Saka",
+        "team": "ARS",
+        "target_pct": -109.0,
+        "cost": 9.6
+      },
+      {
         "id": 496,
         "name": "Kinsky",
         "team": "TOT",
-        "target_pct": -100.1,
+        "target_pct": -101.7,
         "cost": 4.5
       },
       {
-        "id": 363,
-        "name": "Leoni",
-        "team": "LIV",
+        "id": 209,
+        "name": "Johnson",
+        "team": "EVE",
         "target_pct": -100.0,
-        "cost": 4.0
+        "cost": 5.9
       },
       {
         "id": 32,
         "name": "Cash",
         "team": "AVL",
-        "target_pct": -99.7,
+        "target_pct": -99.9,
         "cost": 4.4
+      },
+      {
+        "id": 363,
+        "name": "Leoni",
+        "team": "LIV",
+        "target_pct": -99.8,
+        "cost": 4.0
       },
       {
         "id": 164,
@@ -196,43 +210,29 @@
         "id": 549,
         "name": "Talbi",
         "team": "SUN",
-        "target_pct": -99.1,
+        "target_pct": -99.2,
         "cost": 5.3
-      },
-      {
-        "id": 142,
-        "name": "James",
-        "team": "CHE",
-        "target_pct": -97.8,
-        "cost": 5.3
-      },
-      {
-        "id": 209,
-        "name": "Johnson",
-        "team": "EVE",
-        "target_pct": -97.8,
-        "cost": 5.9
       },
       {
         "id": 525,
         "name": "Fernandes",
         "team": "TOT",
-        "target_pct": -97.6,
+        "target_pct": -99.1,
         "cost": 5.7
       },
       {
-        "id": 12,
-        "name": "Saka",
-        "team": "ARS",
-        "target_pct": -96.2,
-        "cost": 9.6
+        "id": 142,
+        "name": "James",
+        "team": "CHE",
+        "target_pct": -98.8,
+        "cost": 5.3
       },
       {
-        "id": 20,
-        "name": "Dowman",
-        "team": "ARS",
-        "target_pct": -94.7,
-        "cost": 5.3
+        "id": 564,
+        "name": "Scherpen",
+        "team": "IPS",
+        "target_pct": -96.7,
+        "cost": 4.5
       }
     ]
   },
