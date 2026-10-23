@@ -1,8 +1,5 @@
 {
  "announced": [
-  "gw6-t24",
-  "gw6-t6",
-  "gw6-done",
   "gw7-t24",
   "gw7-t6",
   "gw7-t2",
@@ -12,18 +9,18 @@
  ],
  "flags": {
   "115": "a|None|",
+  "124": "a|None|",
   "138": "a|None|",
   "165": "a|100|",
   "302": "a|None|",
-  "346": "d|50|Foot injury - 50% chance of playing",
-  "368": "i|0|Hamstring injury - Unknown return date",
   "399": "a|None|",
   "4": "a|None|",
   "40": "a|None|",
+  "411": "a|100|",
   "423": "i|0|Unspecified injury - Unknown return date",
-  "426": "a|None|",
   "496": "a|None|",
   "534": "a|None|",
+  "68": "a|None|",
   "8": "a|None|",
   "94": "a|100|"
  }
