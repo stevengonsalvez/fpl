@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-23T07:11:37.972964+00:00
+**Captured:** 2026-10-23T12:46:49.118310+00:00
 
 ## 1. Key Fixtures
 
@@ -34,15 +34,17 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Neto (CHE) £6.5m: 105.0%
-- Davis (IPS) £4.0m: 86.7%
+- Neto (CHE) £6.5m: 118.9%
+- Davis (IPS) £4.0m: 85.3%
+- Tavernier (BOU) £6.2m: 83.7%
+- Barcola (LIV) £8.0m: 81.3%
 
 ### Falls (Target <= -80%)
-- Saka (ARS) £9.6m: -109.0%
-- Kinsky (TOT) £4.5m: -101.7%
-- Johnson (EVE) £5.9m: -100.0%
-- Cash (AVL) £4.4m: -99.9%
-- Leoni (LIV) £4.0m: -99.8%
+- Saka (ARS) £9.6m: -155.7%
+- Semenyo (MCI) £8.3m: -114.8%
+- Kinsky (TOT) £4.5m: -108.0%
+- Johnson (EVE) £5.9m: -106.0%
+- Fernandes (TOT) £5.7m: -104.6%
 
 ## 4. Squad Availability Doubts
 
