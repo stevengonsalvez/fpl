@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 8
 
 **Deadline:** 2026-10-23T17:30:00Z
-**Captured:** 2026-10-22T23:04:19.140151+00:00
+**Captured:** 2026-10-23T01:46:47.060855+00:00
 
 ## 1. Key Fixtures
 
@@ -34,17 +34,15 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Palmer (CHE) £9.8m: 109.1%
-- Mbeumo (MUN) £7.9m: 101.7%
-- Neto (CHE) £6.5m: 99.5%
-- Davis (IPS) £4.0m: 87.4%
+- Neto (CHE) £6.5m: 101.4%
+- Davis (IPS) £4.0m: 87.2%
 
 ### Falls (Target <= -80%)
-- Maguire (MUN) £4.7m: -106.6%
-- Ampadu (LEE) £5.3m: -105.0%
-- Leoni (LIV) £4.0m: -99.7%
-- Cash (AVL) £4.4m: -99.5%
+- Kinsky (TOT) £4.5m: -100.1%
+- Leoni (LIV) £4.0m: -100.0%
+- Cash (AVL) £4.4m: -99.7%
 - Quenda (CHE) £5.3m: -99.3%
+- Talbi (SUN) £5.3m: -99.1%
 
 ## 4. Squad Availability Doubts
 
