@@ -1,7 +1,7 @@
 {
   "gameweek": 9,
   "deadline_utc": "2026-10-31T11:00:00Z",
-  "captured_at_utc": "2026-10-24T16:53:55.025874+00:00",
+  "captured_at_utc": "2026-10-24T19:19:12.413502+00:00",
   "fixtures": [
     {
       "home": "CHE",
@@ -152,108 +152,108 @@
         "id": 166,
         "name": "N.Jackson",
         "team": "AVL",
-        "target_pct": 113.6,
+        "target_pct": 140.9,
         "cost": 6.6
       },
       {
         "id": 13,
         "name": "Rice",
         "team": "ARS",
-        "target_pct": 97.8,
+        "target_pct": 100.3,
         "cost": 7.3
       },
       {
         "id": 334,
         "name": "Muharemovi\u0107",
         "team": "LEE",
-        "target_pct": 97.7,
+        "target_pct": 97.9,
         "cost": 5.0
       },
       {
         "id": 330,
         "name": "Bogle",
         "team": "LEE",
-        "target_pct": 92.4,
+        "target_pct": 92.9,
         "cost": 4.7
       },
       {
         "id": 627,
         "name": "Barcola",
         "team": "LIV",
-        "target_pct": 91.1,
+        "target_pct": 92.1,
         "cost": 8.0
-      },
-      {
-        "id": 504,
-        "name": "Vuskovic",
-        "team": "BHA",
-        "target_pct": 87.3,
-        "cost": 5.1
       },
       {
         "id": 31,
         "name": "Konsa",
         "team": "ARS",
-        "target_pct": 84.7,
+        "target_pct": 91.7,
         "cost": 4.6
       },
       {
-        "id": 305,
-        "name": "Davis",
-        "team": "IPS",
-        "target_pct": 81.3,
-        "cost": 4.0
+        "id": 504,
+        "name": "Vuskovic",
+        "team": "BHA",
+        "target_pct": 88.7,
+        "cost": 5.1
       },
       {
         "id": 398,
         "name": "Foden",
         "team": "MCI",
-        "target_pct": 81.3,
+        "target_pct": 81.5,
         "cost": 6.8
+      },
+      {
+        "id": 305,
+        "name": "Davis",
+        "team": "IPS",
+        "target_pct": 80.9,
+        "cost": 4.0
       }
     ],
     "imminent_falls": [
       {
-        "id": 247,
-        "name": "Hackney",
-        "team": "EVE",
-        "target_pct": -101.5,
-        "cost": 5.4
+        "id": 569,
+        "name": "Gonzalo",
+        "team": "FUL",
+        "target_pct": -108.9,
+        "cost": 6.1
       },
       {
         "id": 368,
         "name": "Szoboszlai",
         "team": "LIV",
-        "target_pct": -100.9,
+        "target_pct": -102.5,
         "cost": 6.8
+      },
+      {
+        "id": 247,
+        "name": "Hackney",
+        "team": "EVE",
+        "target_pct": -102.1,
+        "cost": 5.4
       },
       {
         "id": 337,
         "name": "Aaronson",
         "team": "LEE",
-        "target_pct": -99.8,
+        "target_pct": -100.6,
         "cost": 5.3
       },
       {
         "id": 488,
         "name": "I.Sangar\u00e9",
         "team": "NFO",
-        "target_pct": -99.6,
+        "target_pct": -100.2,
         "cost": 4.8
       },
       {
         "id": 534,
         "name": "Hume",
         "team": "SUN",
-        "target_pct": -99.2,
+        "target_pct": -99.8,
         "cost": 4.3
-      },
-      {
-        "id": 569,
-        "name": "Gonzalo",
-        "team": "FUL",
-        "target_pct": -98.1,
-        "cost": 6.1
       },
       {
         "id": 613,
@@ -266,21 +266,21 @@
         "id": 270,
         "name": "Reed",
         "team": "FUL",
-        "target_pct": -95.6,
+        "target_pct": -96.4,
         "cost": 4.4
       },
       {
-        "id": 450,
-        "name": "Livramento",
-        "team": "NEW",
-        "target_pct": -93.9,
-        "cost": 4.9
+        "id": 249,
+        "name": "Barry",
+        "team": "EVE",
+        "target_pct": -95.0,
+        "cost": 5.7
       },
       {
         "id": 387,
         "name": "O'Reilly",
         "team": "MCI",
-        "target_pct": -93.7,
+        "target_pct": -94.5,
         "cost": 6.3
       }
     ]
@@ -314,10 +314,10 @@
       "team": "ARS",
       "position": "DEF",
       "is_starter": true,
-      "status": "a",
-      "chance": null,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Hip injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 4,
@@ -494,9 +494,18 @@
       "name": "Henderson",
       "team": "CHE",
       "position": "MID",
-      "form": 7.3,
-      "total_points": 24,
+      "form": 7.7,
+      "total_points": 25,
       "cost": 4.9
+    },
+    {
+      "id": 156,
+      "name": "Neto",
+      "team": "CHE",
+      "position": "MID",
+      "form": 7.7,
+      "total_points": 37,
+      "cost": 6.6
     },
     {
       "id": 10,
@@ -515,15 +524,6 @@
       "form": 7.0,
       "total_points": 59,
       "cost": 5.3
-    },
-    {
-      "id": 156,
-      "name": "Neto",
-      "team": "CHE",
-      "position": "MID",
-      "form": 7.0,
-      "total_points": 35,
-      "cost": 6.6
     },
     {
       "id": 400,
