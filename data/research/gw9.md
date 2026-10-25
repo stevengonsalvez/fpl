@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-25T00:06:04.795512+00:00
+**Captured:** 2026-10-25T05:07:50.452933+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 165.2% |
-| João Pedro | CHE | 77.5% |
-| Calafiori | ARS | 54.0% |
-| Rogers | CHE | 50.4% |
-| Raya | ARS | 45.4% |
-| Groß | BHA | 43.2% |
-| Cherki | MCI | 40.7% |
-| De Cuyper | BHA | 38.9% |
-| Palmer | CHE | 29.4% |
-| Gvardiol | MCI | 27.2% |
+| Haaland | MCI | 163.6% |
+| João Pedro | CHE | 55.4% |
+| Rogers | CHE | 50.3% |
+| Raya | ARS | 45.5% |
+| Groß | BHA | 43.5% |
+| Calafiori | ARS | 40.4% |
+| Cherki | MCI | 39.9% |
+| De Cuyper | BHA | 39.3% |
+| Palmer | CHE | 28.7% |
+| Gvardiol | MCI | 27.0% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Konsa (ARS) £4.6m: 100.1%
+- Konsa (ARS) £4.6m: 102.8%
 - Muharemović (LEE) £5.0m: 98.2%
-- Bogle (LEE) £4.7m: 93.4%
-- Barcola (LIV) £8.0m: 92.8%
-- Vuskovic (BHA) £5.1m: 90.1%
+- Bogle (LEE) £4.7m: 93.6%
+- Barcola (LIV) £8.0m: 93.0%
+- Vuskovic (BHA) £5.1m: 90.6%
 
 ### Falls (Target <= -80%)
-- Barry (EVE) £5.7m: -98.0%
-- Reed (FUL) £4.4m: -97.3%
+- Barry (EVE) £5.7m: -98.7%
+- Reed (FUL) £4.4m: -97.5%
 - Ahoka (SUN) £4.5m: -97.0%
-- Livramento (NEW) £4.9m: -95.4%
-- O'Reilly (MCI) £6.3m: -95.1%
+- Livramento (NEW) £4.9m: -95.9%
+- O'Reilly (MCI) £6.3m: -95.3%
 
 ## 4. Squad Availability Doubts
 
