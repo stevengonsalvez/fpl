@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-25T14:30:39.032461+00:00
+**Captured:** 2026-10-25T18:14:54.120508+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Konsa (ARS) £4.6m: 111.8%
+- Konsa (ARS) £4.6m: 125.9%
+- Barcola (LIV) £8.0m: 101.8%
 - Muharemović (LEE) £5.0m: 98.4%
-- Bogle (LEE) £4.7m: 94.4%
-- Barcola (LIV) £8.0m: 94.0%
-- Vuskovic (BHA) £5.1m: 92.6%
+- Bogle (LEE) £4.7m: 95.7%
+- Vuskovic (BHA) £5.1m: 94.0%
 
 ### Falls (Target <= -80%)
-- Martinez (MUN) £4.9m: -121.8%
-- Barry (EVE) £5.7m: -101.0%
-- Reed (FUL) £4.4m: -98.8%
-- Ahoka (SUN) £4.5m: -98.0%
-- Livramento (NEW) £4.9m: -97.3%
+- Martinez (MUN) £4.9m: -123.8%
+- Barry (EVE) £5.7m: -106.6%
+- Reed (FUL) £4.4m: -101.1%
+- Livramento (NEW) £4.9m: -100.6%
+- Ahoka (SUN) £4.5m: -100.2%
 
 ## 4. Squad Availability Doubts
 
@@ -60,9 +60,9 @@
 | Gabriel | DEF | ARS | 9.0 | 52 | £7.9m |
 | Konsa | DEF | ARS | 9.0 | 39 | £4.6m |
 | Haaland | FWD | MCI | 9.0 | 66 | £15.7m |
+| Evanilson | FWD | BOU | 8.3 | 43 | £6.2m |
 | N.Jackson | FWD | AVL | 8.0 | 34 | £6.7m |
 | Henderson | MID | CHE | 7.7 | 25 | £4.9m |
 | Neto | MID | CHE | 7.7 | 37 | £6.6m |
-| White | DEF | ARS | 7.0 | 42 | £5.4m |
-| De Cuyper | DEF | BHA | 7.0 | 59 | £5.3m |
+| De Cuyper | DEF | BHA | 7.3 | 60 | £5.3m |
 
