@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-25T05:07:50.452933+00:00
+**Captured:** 2026-10-25T10:02:31.949358+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Konsa (ARS) £4.6m: 102.8%
-- Muharemović (LEE) £5.0m: 98.2%
-- Bogle (LEE) £4.7m: 93.6%
-- Barcola (LIV) £8.0m: 93.0%
-- Vuskovic (BHA) £5.1m: 90.6%
+- Konsa (ARS) £4.6m: 106.9%
+- Muharemović (LEE) £5.0m: 98.3%
+- Bogle (LEE) £4.7m: 93.9%
+- Barcola (LIV) £8.0m: 93.3%
+- Vuskovic (BHA) £5.1m: 91.4%
 
 ### Falls (Target <= -80%)
-- Barry (EVE) £5.7m: -98.7%
-- Reed (FUL) £4.4m: -97.5%
-- Ahoka (SUN) £4.5m: -97.0%
-- Livramento (NEW) £4.9m: -95.9%
-- O'Reilly (MCI) £6.3m: -95.3%
+- Barry (EVE) £5.7m: -99.8%
+- Reed (FUL) £4.4m: -98.2%
+- Ahoka (SUN) £4.5m: -97.4%
+- Livramento (NEW) £4.9m: -96.6%
+- O'Reilly (MCI) £6.3m: -95.7%
 
 ## 4. Squad Availability Doubts
 
