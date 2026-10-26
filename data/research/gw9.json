@@ -1,7 +1,7 @@
 {
   "gameweek": 9,
   "deadline_utc": "2026-10-31T11:00:00Z",
-  "captured_at_utc": "2026-10-26T07:34:09.861848+00:00",
+  "captured_at_utc": "2026-10-26T14:58:20.073789+00:00",
   "fixtures": [
     {
       "home": "CHE",
@@ -152,22 +152,29 @@
         "id": 330,
         "name": "Bogle",
         "team": "LEE",
-        "target_pct": 98.6,
+        "target_pct": 100.4,
         "cost": 4.7
       },
       {
         "id": 504,
         "name": "Vuskovic",
         "team": "BHA",
-        "target_pct": 96.0,
+        "target_pct": 97.1,
         "cost": 5.1
       },
       {
         "id": 411,
         "name": "Haaland",
         "team": "MCI",
-        "target_pct": 88.7,
+        "target_pct": 91.8,
         "cost": 15.7
+      },
+      {
+        "id": 68,
+        "name": "Tavernier",
+        "team": "BOU",
+        "target_pct": 90.0,
+        "cost": 6.3
       },
       {
         "id": 398,
@@ -175,6 +182,13 @@
         "team": "MCI",
         "target_pct": 82.3,
         "cost": 6.8
+      },
+      {
+        "id": 379,
+        "name": "Isak",
+        "team": "LIV",
+        "target_pct": 80.9,
+        "cost": 9.0
       }
     ],
     "imminent_falls": [
@@ -182,71 +196,71 @@
         "id": 15,
         "name": "\u00d8degaard",
         "team": "ARS",
-        "target_pct": -100.7,
+        "target_pct": -105.5,
         "cost": 6.8
-      },
-      {
-        "id": 541,
-        "name": "Meunier",
-        "team": "SUN",
-        "target_pct": -100.0,
-        "cost": 4.5
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": -99.7,
+        "target_pct": -103.4,
         "cost": 5.8
       },
       {
-        "id": 387,
-        "name": "O'Reilly",
-        "team": "MCI",
-        "target_pct": -99.4,
-        "cost": 6.3
+        "id": 541,
+        "name": "Meunier",
+        "team": "SUN",
+        "target_pct": -102.1,
+        "cost": 4.5
       },
       {
         "id": 412,
         "name": "Lammens",
         "team": "MUN",
-        "target_pct": -98.9,
+        "target_pct": -101.4,
         "cost": 4.9
       },
       {
-        "id": 654,
-        "name": "Graham",
-        "team": "EVE",
-        "target_pct": -97.4,
-        "cost": 4.5
+        "id": 387,
+        "name": "O'Reilly",
+        "team": "MCI",
+        "target_pct": -100.6,
+        "cost": 6.3
       },
       {
         "id": 69,
         "name": "Scott",
         "team": "BOU",
-        "target_pct": -97.3,
+        "target_pct": -99.4,
         "cost": 6.0
+      },
+      {
+        "id": 654,
+        "name": "Graham",
+        "team": "EVE",
+        "target_pct": -98.1,
+        "cost": 4.5
       },
       {
         "id": 581,
         "name": "Diomande",
         "team": "NFO",
-        "target_pct": -96.8,
+        "target_pct": -98.1,
         "cost": 5.4
+      },
+      {
+        "id": 464,
+        "name": "Wissa",
+        "team": "NEW",
+        "target_pct": -97.4,
+        "cost": 6.1
       },
       {
         "id": 577,
         "name": "Tomiyasu",
         "team": "CRY",
-        "target_pct": -95.3,
+        "target_pct": -96.1,
         "cost": 4.4
-      },
-      {
-        "id": 601,
-        "name": "Williams-Barnett",
-        "team": "TOT",
-        "target_pct": -93.0,
-        "cost": 4.5
       }
     ]
   },
@@ -274,17 +288,6 @@
       "clean": true
     },
     {
-      "id": 8,
-      "name": "Calafiori",
-      "team": "ARS",
-      "position": "DEF",
-      "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Hip injury - 75% chance of playing",
-      "clean": false
-    },
-    {
       "id": 4,
       "name": "Gabriel",
       "team": "ARS",
@@ -294,6 +297,17 @@
       "chance": null,
       "news": "",
       "clean": true
+    },
+    {
+      "id": 8,
+      "name": "Calafiori",
+      "team": "ARS",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "d",
+      "chance": 75,
+      "news": "Hip injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 68,
@@ -340,10 +354,10 @@
       "clean": true
     },
     {
-      "id": 411,
-      "name": "Haaland",
-      "team": "MCI",
-      "position": "FWD",
+      "id": 94,
+      "name": "Schade",
+      "team": "BRE",
+      "position": "MID",
       "is_starter": true,
       "status": "a",
       "chance": 100,
@@ -362,15 +376,15 @@
       "clean": true
     },
     {
-      "id": 165,
-      "name": "Jo\u00e3o Pedro",
-      "team": "CHE",
+      "id": 411,
+      "name": "Haaland",
+      "team": "MCI",
       "position": "FWD",
       "is_starter": true,
-      "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
-      "clean": false
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
     },
     {
       "id": 302,
@@ -384,15 +398,15 @@
       "clean": true
     },
     {
-      "id": 94,
-      "name": "Schade",
-      "team": "BRE",
-      "position": "MID",
+      "id": 165,
+      "name": "Jo\u00e3o Pedro",
+      "team": "CHE",
+      "position": "FWD",
       "is_starter": false,
-      "status": "a",
-      "chance": 100,
-      "news": "",
-      "clean": true
+      "status": "d",
+      "chance": 75,
+      "news": "Unspecified injury - 75% chance of playing",
+      "clean": false
     },
     {
       "id": 534,

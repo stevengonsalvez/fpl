@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-26T07:34:09.861848+00:00
+**Captured:** 2026-10-26T14:58:20.073789+00:00
 
 ## 1. Key Fixtures
 
@@ -34,22 +34,23 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Bogle (LEE) £4.7m: 98.6%
-- Vuskovic (BHA) £5.1m: 96.0%
-- Haaland (MCI) £15.7m: 88.7%
+- Bogle (LEE) £4.7m: 100.4%
+- Vuskovic (BHA) £5.1m: 97.1%
+- Haaland (MCI) £15.7m: 91.8%
+- Tavernier (BOU) £6.3m: 90.0%
 - Foden (MCI) £6.8m: 82.3%
 
 ### Falls (Target <= -80%)
-- Ødegaard (ARS) £6.8m: -100.7%
-- Meunier (SUN) £4.5m: -100.0%
-- Gvardiol (MCI) £5.8m: -99.7%
-- O'Reilly (MCI) £6.3m: -99.4%
-- Lammens (MUN) £4.9m: -98.9%
+- Ødegaard (ARS) £6.8m: -105.5%
+- Gvardiol (MCI) £5.8m: -103.4%
+- Meunier (SUN) £4.5m: -102.1%
+- Lammens (MUN) £4.9m: -101.4%
+- O'Reilly (MCI) £6.3m: -100.6%
 
 ## 4. Squad Availability Doubts
 
 - [XI] DEF Calafiori (ARS): status=d, chance=75%, news: Hip injury - 75% chance of playing
-- [XI] FWD João Pedro (CHE): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
+- [BEN] FWD João Pedro (CHE): status=d, chance=75%, news: Unspecified injury - 75% chance of playing
 - [BEN] DEF Shaw (MUN): status=i, chance=0%, news: Unspecified injury - Unknown return date
 
 ## 5. Top Form Assets
