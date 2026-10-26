@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-26T01:34:17.274021+00:00
+**Captured:** 2026-10-26T07:34:09.861848+00:00
 
 ## 1. Key Fixtures
 
@@ -20,31 +20,31 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 163.6% |
-| João Pedro | CHE | 55.4% |
+| Haaland | MCI | 149.7% |
+| João Pedro | CHE | 53.9% |
 | Rogers | CHE | 50.3% |
-| Raya | ARS | 45.5% |
-| Groß | BHA | 43.5% |
-| Calafiori | ARS | 40.4% |
-| Cherki | MCI | 39.9% |
-| De Cuyper | BHA | 39.3% |
-| Palmer | CHE | 28.7% |
-| Gvardiol | MCI | 27.0% |
+| Raya | ARS | 45.7% |
+| Groß | BHA | 41.8% |
+| Cherki | MCI | 39.5% |
+| Calafiori | ARS | 39.5% |
+| De Cuyper | BHA | 37.9% |
+| Palmer | CHE | 34.5% |
+| Gvardiol | MCI | 26.8% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Bogle (LEE) £4.7m: 97.9%
-- Vuskovic (BHA) £5.1m: 95.5%
-- Haaland (MCI) £15.7m: 87.6%
+- Bogle (LEE) £4.7m: 98.6%
+- Vuskovic (BHA) £5.1m: 96.0%
+- Haaland (MCI) £15.7m: 88.7%
 - Foden (MCI) £6.8m: 82.3%
 
 ### Falls (Target <= -80%)
-- Meunier (SUN) £4.5m: -99.5%
-- O'Reilly (MCI) £6.3m: -99.0%
-- Ødegaard (ARS) £6.8m: -98.8%
-- Gvardiol (MCI) £5.8m: -98.1%
-- Lammens (MUN) £4.9m: -97.9%
+- Ødegaard (ARS) £6.8m: -100.7%
+- Meunier (SUN) £4.5m: -100.0%
+- Gvardiol (MCI) £5.8m: -99.7%
+- O'Reilly (MCI) £6.3m: -99.4%
+- Lammens (MUN) £4.9m: -98.9%
 
 ## 4. Squad Availability Doubts
 
