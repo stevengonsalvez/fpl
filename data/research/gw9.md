@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-27T05:25:15.347556+00:00
+**Captured:** 2026-10-27T10:49:02.258712+00:00
 
 ## 1. Key Fixtures
 
@@ -34,17 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Vuskovic (BHA) £5.1m: 98.8%
-- Isak (LIV) £9.0m: 95.5%
-- Haaland (MCI) £15.7m: 95.3%
-- Foden (MCI) £6.8m: 82.3%
+- Vuskovic (BHA) £5.1m: 99.2%
+- Isak (LIV) £9.0m: 99.2%
+- Haaland (MCI) £15.7m: 96.1%
+- Foden (MCI) £6.8m: 82.4%
+- Manzambi (AVL) £6.0m: 80.6%
 
 ### Falls (Target <= -80%)
-- Diomande (NFO) £5.4m: -99.2%
-- Rashford (MUN) £6.9m: -97.8%
-- Tomiyasu (CRY) £4.4m: -97.3%
-- Cunha (MUN) £7.9m: -95.0%
-- Williams-Barnett (TOT) £4.5m: -93.7%
+- Diomande (NFO) £5.4m: -99.6%
+- Rashford (MUN) £6.9m: -98.5%
+- Tomiyasu (CRY) £4.4m: -97.5%
+- Cunha (MUN) £7.9m: -96.5%
+- Williams-Barnett (TOT) £4.5m: -93.8%
 
 ## 4. Squad Availability Doubts
 
