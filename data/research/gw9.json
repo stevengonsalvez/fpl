@@ -1,7 +1,7 @@
 {
   "gameweek": 9,
   "deadline_utc": "2026-10-31T11:00:00Z",
-  "captured_at_utc": "2026-10-27T10:49:02.258712+00:00",
+  "captured_at_utc": "2026-10-27T16:16:37.245750+00:00",
   "fixtures": [
     {
       "home": "CHE",
@@ -149,39 +149,39 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 504,
-        "name": "Vuskovic",
-        "team": "BHA",
-        "target_pct": 99.2,
-        "cost": 5.1
-      },
-      {
         "id": 379,
         "name": "Isak",
         "team": "LIV",
-        "target_pct": 99.2,
+        "target_pct": 116.5,
         "cost": 9.0
+      },
+      {
+        "id": 504,
+        "name": "Vuskovic",
+        "team": "BHA",
+        "target_pct": 99.8,
+        "cost": 5.1
       },
       {
         "id": 411,
         "name": "Haaland",
         "team": "MCI",
-        "target_pct": 96.1,
+        "target_pct": 97.9,
         "cost": 15.7
-      },
-      {
-        "id": 398,
-        "name": "Foden",
-        "team": "MCI",
-        "target_pct": 82.4,
-        "cost": 6.8
       },
       {
         "id": 53,
         "name": "Manzambi",
         "team": "AVL",
-        "target_pct": 80.6,
+        "target_pct": 84.8,
         "cost": 6.0
+      },
+      {
+        "id": 398,
+        "name": "Foden",
+        "team": "MCI",
+        "target_pct": 82.3,
+        "cost": 6.8
       }
     ],
     "imminent_falls": [
@@ -189,71 +189,71 @@
         "id": 581,
         "name": "Diomande",
         "team": "NFO",
-        "target_pct": -99.6,
+        "target_pct": -100.1,
         "cost": 5.4
       },
       {
         "id": 429,
         "name": "Rashford",
         "team": "MUN",
-        "target_pct": -98.5,
+        "target_pct": -99.7,
         "cost": 6.9
-      },
-      {
-        "id": 577,
-        "name": "Tomiyasu",
-        "team": "CRY",
-        "target_pct": -97.5,
-        "cost": 4.4
       },
       {
         "id": 428,
         "name": "Cunha",
         "team": "MUN",
-        "target_pct": -96.5,
+        "target_pct": -99.0,
         "cost": 7.9
       },
       {
-        "id": 601,
-        "name": "Williams-Barnett",
-        "team": "TOT",
-        "target_pct": -93.8,
-        "cost": 4.5
-      },
-      {
-        "id": 139,
-        "name": "Ferguson",
-        "team": "BHA",
-        "target_pct": -93.5,
-        "cost": 5.0
+        "id": 577,
+        "name": "Tomiyasu",
+        "team": "CRY",
+        "target_pct": -98.0,
+        "cost": 4.4
       },
       {
         "id": 565,
         "name": "M.Sangar\u00e9",
         "team": "BRE",
-        "target_pct": -93.4,
+        "target_pct": -94.7,
         "cost": 5.5
+      },
+      {
+        "id": 601,
+        "name": "Williams-Barnett",
+        "team": "TOT",
+        "target_pct": -94.6,
+        "cost": 4.5
       },
       {
         "id": 26,
         "name": "Havertz",
         "team": "ARS",
-        "target_pct": -93.0,
+        "target_pct": -94.5,
         "cost": 7.5
       },
       {
-        "id": 88,
-        "name": "Kayode",
-        "team": "BRE",
-        "target_pct": -92.7,
-        "cost": 4.6
+        "id": 557,
+        "name": "Tzolis",
+        "team": "ARS",
+        "target_pct": -93.4,
+        "cost": 6.2
       },
       {
-        "id": 42,
-        "name": "Guessand",
-        "team": "CRY",
-        "target_pct": -92.6,
-        "cost": 5.4
+        "id": 139,
+        "name": "Ferguson",
+        "team": "BHA",
+        "target_pct": -93.4,
+        "cost": 5.0
+      },
+      {
+        "id": 646,
+        "name": "Fofana",
+        "team": "SUN",
+        "target_pct": -93.1,
+        "cost": 5.5
       }
     ]
   },
@@ -396,9 +396,9 @@
       "team": "CHE",
       "position": "FWD",
       "is_starter": false,
-      "status": "d",
-      "chance": 75,
-      "news": "Unspecified injury - 75% chance of playing",
+      "status": "i",
+      "chance": 0,
+      "news": "Thigh injury - Unknown return date",
       "clean": false
     },
     {
