@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-26T20:25:03.437537+00:00
+**Captured:** 2026-10-27T00:00:36.194730+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Bogle (LEE) £4.7m: 101.7%
-- Tavernier (BOU) £6.3m: 100.4%
-- Vuskovic (BHA) £5.1m: 98.1%
-- Haaland (MCI) £15.7m: 94.0%
-- Isak (LIV) £9.0m: 90.2%
+- Tavernier (BOU) £6.4m: 105.1%
+- Bogle (LEE) £4.8m: 102.3%
+- Vuskovic (BHA) £5.1m: 98.5%
+- Haaland (MCI) £15.7m: 94.8%
+- Isak (LIV) £9.0m: 93.4%
 
 ### Falls (Target <= -80%)
-- Ødegaard (ARS) £6.8m: -108.7%
-- Gvardiol (MCI) £5.8m: -106.0%
-- Meunier (SUN) £4.5m: -103.5%
-- Lammens (MUN) £4.9m: -103.3%
-- Wissa (NEW) £6.1m: -103.0%
+- Ødegaard (ARS) £6.7m: -110.7%
+- Gvardiol (MCI) £5.7m: -107.5%
+- Wissa (NEW) £6.0m: -105.5%
+- Meunier (SUN) £4.4m: -104.1%
+- Lammens (MUN) £4.8m: -104.0%
 
 ## 4. Squad Availability Doubts
 
