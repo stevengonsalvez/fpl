@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-28T19:00:21.708936+00:00
+**Captured:** 2026-10-28T23:25:32.117095+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Manzambi (AVL) £6.0m: 101.6%
-- Foden (MCI) £6.8m: 82.3%
-- Rogers (CHE) £8.0m: 81.5%
-- Gabriel (ARS) £7.9m: 80.8%
-- Belloumi (HUL) £5.2m: 80.8%
+- Manzambi (AVL) £6.0m: 106.4%
+- Gabriel (ARS) £7.9m: 83.7%
+- Rogers (CHE) £8.0m: 82.9%
+- Foden (MCI) £6.8m: 82.4%
+- Belloumi (HUL) £5.2m: 81.6%
 
 ### Falls (Target <= -80%)
-- M.Sangaré (BRE) £5.5m: -101.0%
-- Tomiyasu (CRY) £4.4m: -99.6%
-- Havertz (ARS) £7.5m: -98.6%
-- Tzolis (ARS) £6.2m: -96.5%
-- Williams-Barnett (TOT) £4.5m: -96.5%
+- M.Sangaré (BRE) £5.5m: -102.6%
+- Tomiyasu (CRY) £4.4m: -99.9%
+- Havertz (ARS) £7.5m: -99.2%
+- Tzolis (ARS) £6.2m: -97.1%
+- Williams-Barnett (TOT) £4.5m: -96.3%
 
 ## 4. Squad Availability Doubts
 
