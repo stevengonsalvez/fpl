@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-27T20:51:26.213173+00:00
+**Captured:** 2026-10-28T00:19:44.541848+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,15 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Isak (LIV) £9.0m: 150.6%
-- N.Jackson (AVL) £6.7m: 115.2%
-- Vuskovic (BHA) £5.1m: 100.7%
-- Haaland (MCI) £15.7m: 100.7%
-- Manzambi (AVL) £6.0m: 90.0%
+- Manzambi (AVL) £6.0m: 93.0%
+- Foden (MCI) £6.8m: 82.3%
 
 ### Falls (Target <= -80%)
-- João Pedro (CHE) £7.9m: -137.8%
-- Cunha (MUN) £7.9m: -101.5%
-- Rashford (MUN) £6.9m: -100.9%
-- Diomande (NFO) £5.4m: -100.5%
-- Tomiyasu (CRY) £4.4m: -98.5%
+- Tomiyasu (CRY) £4.4m: -98.7%
+- M.Sangaré (BRE) £5.5m: -97.9%
+- Havertz (ARS) £7.5m: -96.2%
+- Williams-Barnett (TOT) £4.5m: -95.7%
+- Tzolis (ARS) £6.2m: -94.8%
 
 ## 4. Squad Availability Doubts
 
@@ -59,9 +56,9 @@
 |---|---|---|---|---|---|
 | Gabriel | DEF | ARS | 9.0 | 52 | £7.9m |
 | Konsa | DEF | ARS | 9.0 | 39 | £4.7m |
-| Haaland | FWD | MCI | 9.0 | 66 | £15.7m |
+| Haaland | FWD | MCI | 9.0 | 66 | £15.8m |
 | Evanilson | FWD | BOU | 8.3 | 43 | £6.2m |
-| N.Jackson | FWD | AVL | 8.0 | 34 | £6.7m |
+| N.Jackson | FWD | AVL | 8.0 | 34 | £6.8m |
 | Henderson | MID | CHE | 7.7 | 25 | £4.9m |
 | Neto | MID | CHE | 7.7 | 37 | £6.6m |
 | De Cuyper | DEF | BHA | 7.3 | 60 | £5.3m |
