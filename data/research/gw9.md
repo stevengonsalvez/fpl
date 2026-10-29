@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-29T02:42:25.377794+00:00
+**Captured:** 2026-10-29T09:37:55.373607+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 153.0% |
+| Haaland | MCI | 161.7% |
 | Rogers | CHE | 50.4% |
 | Raya | ARS | 45.7% |
-| Groß | BHA | 43.1% |
-| De Cuyper | BHA | 39.4% |
-| Cherki | MCI | 38.9% |
-| Calafiori | ARS | 38.3% |
-| Palmer | CHE | 35.4% |
-| Gvardiol | MCI | 26.5% |
-| B.Fernandes | MUN | 24.4% |
+| Groß | BHA | 42.9% |
+| De Cuyper | BHA | 39.3% |
+| Cherki | MCI | 38.7% |
+| Calafiori | ARS | 37.9% |
+| Palmer | CHE | 34.6% |
+| Gvardiol | MCI | 26.4% |
+| B.Fernandes | MUN | 24.2% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Gabriel (ARS) £7.9m: 84.3%
-- Rogers (CHE) £8.0m: 83.3%
-- Foden (MCI) £6.8m: 82.4%
-- Belloumi (HUL) £5.2m: 81.8%
-- Henderson (CHE) £4.9m: 80.7%
+- Gabriel (ARS) £7.9m: 86.0%
+- Rogers (CHE) £8.0m: 84.2%
+- Belloumi (HUL) £5.2m: 82.3%
+- Foden (MCI) £6.8m: 82.3%
+- Henderson (CHE) £4.9m: 80.8%
 
 ### Falls (Target <= -80%)
-- Tomiyasu (CRY) £4.4m: -100.0%
-- Havertz (ARS) £7.5m: -99.4%
-- Tzolis (ARS) £6.2m: -97.3%
-- Williams-Barnett (TOT) £4.5m: -96.4%
-- Martinez (CHE) £5.0m: -95.9%
+- Havertz (ARS) £7.5m: -100.2%
+- Tomiyasu (CRY) £4.4m: -100.2%
+- Tzolis (ARS) £6.2m: -97.7%
+- Williams-Barnett (TOT) £4.5m: -96.7%
+- Martinez (CHE) £5.0m: -96.4%
 
 ## 4. Squad Availability Doubts
 
