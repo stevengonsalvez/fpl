@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-29T21:40:14.602282+00:00
+**Captured:** 2026-10-30T01:43:25.767276+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Evanilson (BOU) £6.2m: 96.3%
-- Gabriel (ARS) £7.9m: 94.8%
-- Rogers (CHE) £8.0m: 88.8%
-- Belloumi (HUL) £5.2m: 85.1%
-- N.Jackson (AVL) £6.8m: 83.0%
+- Gabriel (ARS) £7.9m: 97.5%
+- N.Jackson (AVL) £6.8m: 92.4%
+- Rogers (CHE) £8.0m: 90.1%
+- Belloumi (HUL) £5.2m: 85.9%
+- Foden (MCI) £6.8m: 82.0%
 
 ### Falls (Target <= -80%)
-- Calafiori (ARS) £6.0m: -102.9%
-- Havertz (ARS) £7.5m: -102.9%
-- Tomiyasu (CRY) £4.4m: -101.2%
-- Tzolis (ARS) £6.2m: -99.7%
-- Martinez (CHE) £5.0m: -98.6%
+- George Hemmings (AVL) £4.5m: -99.4%
+- Martinez (CHE) £5.0m: -99.2%
+- Williams-Barnett (TOT) £4.5m: -98.1%
+- N.Williams (NFO) £5.0m: -97.1%
+- Ferguson (BHA) £5.0m: -96.9%
 
 ## 4. Squad Availability Doubts
 
@@ -60,7 +60,7 @@
 | Gabriel | DEF | ARS | 9.0 | 52 | £7.9m |
 | Konsa | DEF | ARS | 9.0 | 39 | £4.7m |
 | Haaland | FWD | MCI | 9.0 | 66 | £15.8m |
-| Evanilson | FWD | BOU | 8.3 | 43 | £6.2m |
+| Evanilson | FWD | BOU | 8.3 | 43 | £6.3m |
 | N.Jackson | FWD | AVL | 8.0 | 34 | £6.8m |
 | Henderson | MID | CHE | 7.7 | 25 | £4.9m |
 | Neto | MID | CHE | 7.7 | 37 | £6.6m |
