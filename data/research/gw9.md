@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-30T01:43:25.767276+00:00
+**Captured:** 2026-10-30T08:19:25.761996+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 161.7% |
-| Rogers | CHE | 50.4% |
+| Haaland | MCI | 147.8% |
+| Rogers | CHE | 50.5% |
 | Raya | ARS | 45.7% |
-| Groß | BHA | 42.9% |
-| De Cuyper | BHA | 39.3% |
-| Cherki | MCI | 38.7% |
-| Calafiori | ARS | 37.9% |
-| Palmer | CHE | 34.6% |
-| Gvardiol | MCI | 26.4% |
-| B.Fernandes | MUN | 24.2% |
+| Groß | BHA | 42.5% |
+| De Cuyper | BHA | 39.1% |
+| Cherki | MCI | 38.4% |
+| Calafiori | ARS | 37.2% |
+| Palmer | CHE | 31.3% |
+| N.Jackson | AVL | 30.0% |
+| Gvardiol | MCI | 26.2% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Gabriel (ARS) £7.9m: 97.5%
-- N.Jackson (AVL) £6.8m: 92.4%
-- Rogers (CHE) £8.0m: 90.1%
-- Belloumi (HUL) £5.2m: 85.9%
-- Foden (MCI) £6.8m: 82.0%
+- N.Jackson (AVL) £6.8m: 104.4%
+- Gabriel (ARS) £7.9m: 100.1%
+- Rogers (CHE) £8.0m: 91.9%
+- Belloumi (HUL) £5.2m: 87.1%
+- Foden (MCI) £6.8m: 81.8%
 
 ### Falls (Target <= -80%)
-- George Hemmings (AVL) £4.5m: -99.4%
-- Martinez (CHE) £5.0m: -99.2%
-- Williams-Barnett (TOT) £4.5m: -98.1%
-- N.Williams (NFO) £5.0m: -97.1%
-- Ferguson (BHA) £5.0m: -96.9%
+- George Hemmings (AVL) £4.5m: -101.0%
+- Martinez (CHE) £5.0m: -100.0%
+- Williams-Barnett (TOT) £4.5m: -98.8%
+- N.Williams (NFO) £5.0m: -97.0%
+- Delap (NFO) £5.5m: -96.9%
 
 ## 4. Squad Availability Doubts
 
