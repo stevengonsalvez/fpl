@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-30T08:19:25.761996+00:00
+**Captured:** 2026-10-30T15:13:04.975569+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- N.Jackson (AVL) £6.8m: 104.4%
-- Gabriel (ARS) £7.9m: 100.1%
-- Rogers (CHE) £8.0m: 91.9%
-- Belloumi (HUL) £5.2m: 87.1%
-- Foden (MCI) £6.8m: 81.8%
+- N.Jackson (AVL) £6.8m: 143.4%
+- Gabriel (ARS) £7.9m: 108.4%
+- Rogers (CHE) £8.0m: 98.0%
+- Tavernier (BOU) £6.4m: 95.8%
+- Belloumi (HUL) £5.2m: 90.9%
 
 ### Falls (Target <= -80%)
-- George Hemmings (AVL) £4.5m: -101.0%
-- Martinez (CHE) £5.0m: -100.0%
-- Williams-Barnett (TOT) £4.5m: -98.8%
-- N.Williams (NFO) £5.0m: -97.0%
-- Delap (NFO) £5.5m: -96.9%
+- Smith Rowe (FUL) £5.3m: -130.2%
+- George Hemmings (AVL) £4.5m: -106.5%
+- Delap (NFO) £5.5m: -106.1%
+- Martinez (CHE) £5.0m: -102.4%
+- Fernandez-Pardo (NEW) £6.0m: -102.4%
 
 ## 4. Squad Availability Doubts
 
