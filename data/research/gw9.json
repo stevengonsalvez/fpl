@@ -1,7 +1,7 @@
 {
   "gameweek": 9,
   "deadline_utc": "2026-10-31T11:00:00Z",
-  "captured_at_utc": "2026-10-30T15:13:04.975569+00:00",
+  "captured_at_utc": "2026-10-30T20:00:31.721345+00:00",
   "fixtures": [
     {
       "home": "CHE",
@@ -152,49 +152,56 @@
         "id": 166,
         "name": "N.Jackson",
         "team": "AVL",
-        "target_pct": 143.4,
+        "target_pct": 188.0,
         "cost": 6.8
+      },
+      {
+        "id": 68,
+        "name": "Tavernier",
+        "team": "BOU",
+        "target_pct": 117.9,
+        "cost": 6.4
       },
       {
         "id": 4,
         "name": "Gabriel",
         "team": "ARS",
-        "target_pct": 108.4,
+        "target_pct": 117.6,
         "cost": 7.9
       },
       {
         "id": 40,
         "name": "Rogers",
         "team": "CHE",
-        "target_pct": 98.0,
+        "target_pct": 104.8,
         "cost": 8.0
-      },
-      {
-        "id": 68,
-        "name": "Tavernier",
-        "team": "BOU",
-        "target_pct": 95.8,
-        "cost": 6.4
       },
       {
         "id": 286,
         "name": "Belloumi",
         "team": "HUL",
-        "target_pct": 90.9,
+        "target_pct": 95.4,
         "cost": 5.2
+      },
+      {
+        "id": 115,
+        "name": "De Cuyper",
+        "team": "BHA",
+        "target_pct": 83.0,
+        "cost": 5.3
       },
       {
         "id": 101,
         "name": "Henderson",
         "team": "CHE",
-        "target_pct": 82.2,
+        "target_pct": 82.8,
         "cost": 4.9
       },
       {
         "id": 398,
         "name": "Foden",
         "team": "MCI",
-        "target_pct": 81.4,
+        "target_pct": 81.0,
         "cost": 6.8
       }
     ],
@@ -203,71 +210,71 @@
         "id": 262,
         "name": "Smith Rowe",
         "team": "FUL",
-        "target_pct": -130.2,
+        "target_pct": -133.1,
         "cost": 5.3
-      },
-      {
-        "id": 51,
-        "name": "George Hemmings",
-        "team": "AVL",
-        "target_pct": -106.5,
-        "cost": 4.5
       },
       {
         "id": 167,
         "name": "Delap",
         "team": "NFO",
-        "target_pct": -106.1,
+        "target_pct": -117.3,
         "cost": 5.5
       },
       {
-        "id": 28,
-        "name": "Martinez",
-        "team": "CHE",
-        "target_pct": -102.4,
-        "cost": 5.0
+        "id": 51,
+        "name": "George Hemmings",
+        "team": "AVL",
+        "target_pct": -112.8,
+        "cost": 4.5
       },
       {
         "id": 634,
         "name": "Fernandez-Pardo",
         "team": "NEW",
-        "target_pct": -102.4,
+        "target_pct": -112.4,
         "cost": 6.0
+      },
+      {
+        "id": 28,
+        "name": "Martinez",
+        "team": "CHE",
+        "target_pct": -105.3,
+        "cost": 5.0
       },
       {
         "id": 601,
         "name": "Williams-Barnett",
         "team": "TOT",
-        "target_pct": -99.8,
+        "target_pct": -101.3,
         "cost": 4.5
       },
       {
-        "id": 652,
-        "name": "Azeez",
-        "team": "BHA",
-        "target_pct": -97.7,
-        "cost": 5.5
-      },
-      {
-        "id": 469,
-        "name": "N.Williams",
-        "team": "NFO",
-        "target_pct": -97.5,
-        "cost": 5.0
+        "id": 102,
+        "name": "Yarmoliuk",
+        "team": "BRE",
+        "target_pct": -99.3,
+        "cost": 4.8
       },
       {
         "id": 139,
         "name": "Ferguson",
         "team": "BHA",
-        "target_pct": -97.1,
+        "target_pct": -99.0,
         "cost": 5.0
       },
       {
-        "id": 361,
-        "name": "Lucky",
-        "team": "LIV",
-        "target_pct": -96.0,
-        "cost": 4.0
+        "id": 469,
+        "name": "N.Williams",
+        "team": "NFO",
+        "target_pct": -97.8,
+        "cost": 5.0
+      },
+      {
+        "id": 491,
+        "name": "Igor Jesus",
+        "team": "NFO",
+        "target_pct": -97.8,
+        "cost": 5.7
       }
     ]
   },
