@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-30T23:57:54.777840+00:00
+**Captured:** 2026-10-31T05:19:57.720483+00:00
 
 ## 1. Key Fixtures
 
@@ -20,32 +20,32 @@
 
 | Player | Team | Predicted EO |
 |---|---|---|
-| Haaland | MCI | 147.8% |
-| Rogers | CHE | 50.5% |
-| Raya | ARS | 45.7% |
-| Groß | BHA | 42.5% |
-| De Cuyper | BHA | 39.1% |
-| Cherki | MCI | 38.4% |
-| Calafiori | ARS | 37.2% |
-| Palmer | CHE | 31.3% |
-| N.Jackson | AVL | 30.0% |
-| Gvardiol | MCI | 26.2% |
+| Haaland | MCI | 154.2% |
+| Rogers | CHE | 50.9% |
+| Raya | ARS | 45.5% |
+| Groß | BHA | 41.7% |
+| De Cuyper | BHA | 38.6% |
+| Cherki | MCI | 37.7% |
+| Calafiori | ARS | 35.5% |
+| N.Jackson | AVL | 31.6% |
+| Palmer | CHE | 29.8% |
+| Gvardiol | MCI | 26.0% |
 
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- N.Jackson (AVL) £6.8m: 219.5%
-- Tavernier (BOU) £6.4m: 133.9%
-- Gabriel (ARS) £7.9m: 123.6%
-- Rogers (CHE) £8.0m: 109.4%
-- Belloumi (HUL) £5.2m: 98.8%
+- Belloumi (HUL) £5.2m: 101.9%
+- Van Hecke (TOT) £4.9m: 98.3%
+- De Cuyper (BHA) £5.3m: 87.7%
+- Henderson (CHE) £4.9m: 83.3%
+- Foden (MCI) £6.8m: 80.2%
 
 ### Falls (Target <= -80%)
-- Smith Rowe (FUL) £5.3m: -134.2%
-- Delap (NFO) £5.5m: -126.2%
-- Fernandez-Pardo (NEW) £6.0m: -118.7%
-- George Hemmings (AVL) £4.5m: -118.2%
-- Martinez (CHE) £5.0m: -107.1%
+- Igor Jesus (NFO) £5.7m: -101.3%
+- Gonzalo (FUL) £6.0m: -99.9%
+- Furo (BRE) £4.5m: -99.2%
+- N.Williams (NFO) £5.0m: -99.2%
+- Ballard (SUN) £4.8m: -99.2%
 
 ## 4. Squad Availability Doubts
 
@@ -57,11 +57,11 @@
 
 | Player | Pos | Team | Form | Total Pts | Price |
 |---|---|---|---|---|---|
-| Gabriel | DEF | ARS | 9.0 | 52 | £7.9m |
+| Gabriel | DEF | ARS | 9.0 | 52 | £8.0m |
 | Konsa | DEF | ARS | 9.0 | 39 | £4.7m |
 | Haaland | FWD | MCI | 9.0 | 66 | £15.8m |
 | Evanilson | FWD | BOU | 8.3 | 43 | £6.3m |
-| N.Jackson | FWD | AVL | 8.0 | 34 | £6.8m |
+| N.Jackson | FWD | AVL | 8.0 | 34 | £6.9m |
 | Henderson | MID | CHE | 7.7 | 25 | £4.9m |
 | Neto | MID | CHE | 7.7 | 37 | £6.6m |
 | De Cuyper | DEF | BHA | 7.3 | 60 | £5.3m |
