@@ -1,7 +1,7 @@
 # FPL Research Digest: Gameweek 9
 
 **Deadline:** 2026-10-31T11:00:00Z
-**Captured:** 2026-10-31T05:19:57.720483+00:00
+**Captured:** 2026-10-31T11:04:53.595304+00:00
 
 ## 1. Key Fixtures
 
@@ -34,18 +34,18 @@
 ## 3. Imminent Price Changes
 
 ### Rises (Target >= 80%)
-- Belloumi (HUL) £5.2m: 101.9%
-- Van Hecke (TOT) £4.9m: 98.3%
-- De Cuyper (BHA) £5.3m: 87.7%
-- Henderson (CHE) £4.9m: 83.3%
-- Foden (MCI) £6.8m: 80.2%
+- Van Hecke (TOT) £4.9m: 127.5%
+- Belloumi (HUL) £5.2m: 110.8%
+- Evanilson (BOU) £6.3m: 109.9%
+- N.Jackson (AVL) £6.9m: 96.5%
+- De Cuyper (BHA) £5.3m: 95.3%
 
 ### Falls (Target <= -80%)
-- Igor Jesus (NFO) £5.7m: -101.3%
-- Gonzalo (FUL) £6.0m: -99.9%
-- Furo (BRE) £4.5m: -99.2%
-- N.Williams (NFO) £5.0m: -99.2%
-- Ballard (SUN) £4.8m: -99.2%
+- Gonzalo (FUL) £6.0m: -128.5%
+- Ballard (SUN) £4.8m: -107.3%
+- Igor Jesus (NFO) £5.7m: -106.9%
+- Furo (BRE) £4.5m: -102.9%
+- N.Williams (NFO) £5.0m: -99.6%
 
 ## 4. Squad Availability Doubts
 
