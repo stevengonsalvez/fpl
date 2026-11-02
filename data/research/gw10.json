@@ -1,7 +1,7 @@
 {
   "gameweek": 10,
   "deadline_utc": "2026-11-06T18:30:00Z",
-  "captured_at_utc": "2026-11-02T08:02:06.373963+00:00",
+  "captured_at_utc": "2026-11-02T18:42:54.148220+00:00",
   "fixtures": [
     {
       "home": "EVE",
@@ -152,22 +152,29 @@
         "id": 512,
         "name": "Kudus",
         "team": "TOT",
-        "target_pct": 93.1,
+        "target_pct": 95.1,
         "cost": 6.5
       },
       {
         "id": 60,
         "name": "Hill",
         "team": "BOU",
-        "target_pct": 91.3,
+        "target_pct": 92.5,
         "cost": 5.5
       },
       {
         "id": 579,
         "name": "Araujo",
         "team": "LIV",
-        "target_pct": 90.0,
+        "target_pct": 90.9,
         "cost": 5.4
+      },
+      {
+        "id": 566,
+        "name": "Silva",
+        "team": "BOU",
+        "target_pct": 90.1,
+        "cost": 5.0
       },
       {
         "id": 597,
@@ -177,96 +184,103 @@
         "cost": 5.0
       },
       {
-        "id": 566,
-        "name": "Silva",
-        "team": "BOU",
-        "target_pct": 86.4,
-        "cost": 5.0
+        "id": 40,
+        "name": "Rogers",
+        "team": "CHE",
+        "target_pct": 88.4,
+        "cost": 8.1
+      },
+      {
+        "id": 31,
+        "name": "Konsa",
+        "team": "ARS",
+        "target_pct": 86.1,
+        "cost": 4.7
       },
       {
         "id": 401,
         "name": "Marmoush",
         "team": "TOT",
-        "target_pct": 85.0,
+        "target_pct": 84.7,
         "cost": 7.0
       },
       {
         "id": 400,
         "name": "Doku",
         "team": "MCI",
-        "target_pct": 81.5,
+        "target_pct": 81.4,
         "cost": 7.5
       }
     ],
     "imminent_falls": [
       {
+        "id": 569,
+        "name": "Gonzalo",
+        "team": "FUL",
+        "target_pct": -103.4,
+        "cost": 6.0
+      },
+      {
         "id": 11,
         "name": "Mosquera",
         "team": "ARS",
-        "target_pct": -99.8,
+        "target_pct": -101.9,
         "cost": 5.2
       },
       {
         "id": 568,
         "name": "Barco",
         "team": "CHE",
-        "target_pct": -99.7,
+        "target_pct": -100.2,
         "cost": 5.4
-      },
-      {
-        "id": 42,
-        "name": "Guessand",
-        "team": "CRY",
-        "target_pct": -96.6,
-        "cost": 5.4
-      },
-      {
-        "id": 329,
-        "name": "Rodon",
-        "team": "LEE",
-        "target_pct": -96.6,
-        "cost": 4.3
       },
       {
         "id": 88,
         "name": "Kayode",
         "team": "BRE",
-        "target_pct": -96.3,
+        "target_pct": -97.7,
         "cost": 4.6
       },
       {
-        "id": 569,
-        "name": "Gonzalo",
-        "team": "FUL",
-        "target_pct": -96.2,
-        "cost": 6.0
-      },
-      {
-        "id": 292,
-        "name": "\u00d6m\u00fcr",
-        "team": "HUL",
-        "target_pct": -96.1,
-        "cost": 4.9
+        "id": 329,
+        "name": "Rodon",
+        "team": "LEE",
+        "target_pct": -97.3,
+        "cost": 4.3
       },
       {
         "id": 323,
         "name": "McAteer",
         "team": "IPS",
-        "target_pct": -95.5,
+        "target_pct": -97.0,
         "cost": 4.4
       },
       {
-        "id": 233,
-        "name": "Mykolenko",
-        "team": "EVE",
-        "target_pct": -94.2,
-        "cost": 4.6
+        "id": 42,
+        "name": "Guessand",
+        "team": "CRY",
+        "target_pct": -96.5,
+        "cost": 5.4
+      },
+      {
+        "id": 292,
+        "name": "\u00d6m\u00fcr",
+        "team": "HUL",
+        "target_pct": -96.4,
+        "cost": 4.9
+      },
+      {
+        "id": 646,
+        "name": "Fofana",
+        "team": "SUN",
+        "target_pct": -96.1,
+        "cost": 5.5
       },
       {
         "id": 403,
         "name": "S\u00e1vio",
         "team": "TOT",
-        "target_pct": -93.3,
+        "target_pct": -95.6,
         "cost": 6.5
       }
     ]
