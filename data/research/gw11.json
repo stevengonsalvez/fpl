@@ -1,7 +1,7 @@
 {
   "gameweek": 11,
   "deadline_utc": "2026-11-21T11:00:00Z",
-  "captured_at_utc": "2026-11-09T07:44:50.560558+00:00",
+  "captured_at_utc": "2026-11-09T18:30:34.419782+00:00",
   "fixtures": [
     {
       "home": "MCI",
@@ -152,42 +152,49 @@
         "id": 109,
         "name": "Verbruggen",
         "team": "BHA",
-        "target_pct": 95.5,
+        "target_pct": 98.3,
         "cost": 4.6
       },
       {
         "id": 236,
         "name": "Dewsbury-Hall",
         "team": "EVE",
-        "target_pct": 94.6,
+        "target_pct": 97.8,
         "cost": 6.6
       },
       {
         "id": 597,
         "name": "Suzuki",
         "team": "AVL",
-        "target_pct": 91.0,
+        "target_pct": 91.5,
         "cost": 5.0
-      },
-      {
-        "id": 229,
-        "name": "Tarkowski",
-        "team": "EVE",
-        "target_pct": 84.7,
-        "cost": 6.2
-      },
-      {
-        "id": 1,
-        "name": "Raya",
-        "team": "ARS",
-        "target_pct": 81.8,
-        "cost": 6.2
       },
       {
         "id": 127,
         "name": "Gomez",
         "team": "BHA",
-        "target_pct": 81.1,
+        "target_pct": 84.2,
+        "cost": 5.0
+      },
+      {
+        "id": 1,
+        "name": "Raya",
+        "team": "ARS",
+        "target_pct": 84.0,
+        "cost": 6.2
+      },
+      {
+        "id": 229,
+        "name": "Tarkowski",
+        "team": "EVE",
+        "target_pct": 82.9,
+        "cost": 6.2
+      },
+      {
+        "id": 385,
+        "name": "Trafford",
+        "team": "LEE",
+        "target_pct": 80.6,
         "cost": 5.0
       }
     ],
@@ -196,71 +203,71 @@
         "id": 218,
         "name": "Doucour\u00e9",
         "team": "CRY",
-        "target_pct": -100.5,
+        "target_pct": -103.8,
         "cost": 4.8
       },
       {
         "id": 210,
         "name": "Wharton",
         "team": "CRY",
-        "target_pct": -99.4,
+        "target_pct": -101.4,
+        "cost": 5.4
+      },
+      {
+        "id": 481,
+        "name": "Anderson",
+        "team": "MCI",
+        "target_pct": -100.8,
+        "cost": 6.3
+      },
+      {
+        "id": 260,
+        "name": "Wilson",
+        "team": "LEE",
+        "target_pct": -100.4,
+        "cost": 6.2
+      },
+      {
+        "id": 582,
+        "name": "Madjo",
+        "team": "AVL",
+        "target_pct": -99.9,
         "cost": 5.4
       },
       {
         "id": 424,
         "name": "Amass",
         "team": "MUN",
-        "target_pct": -99.3,
+        "target_pct": -99.7,
         "cost": 4.0
       },
       {
-        "id": 260,
-        "name": "Wilson",
-        "team": "LEE",
-        "target_pct": -98.7,
-        "cost": 6.2
-      },
-      {
-        "id": 481,
-        "name": "Anderson",
-        "team": "MCI",
-        "target_pct": -98.5,
-        "cost": 6.3
-      },
-      {
-        "id": 582,
-        "name": "Madjo",
-        "team": "AVL",
-        "target_pct": -96.9,
-        "cost": 5.4
+        "id": 462,
+        "name": "Steur",
+        "team": "NEW",
+        "target_pct": -98.4,
+        "cost": 4.8
       },
       {
         "id": 529,
         "name": "Roefs",
         "team": "SUN",
-        "target_pct": -96.9,
+        "target_pct": -97.3,
         "cost": 4.9
       },
       {
         "id": 652,
         "name": "Azeez",
         "team": "BHA",
-        "target_pct": -96.7,
+        "target_pct": -95.5,
         "cost": 5.5
       },
       {
-        "id": 462,
-        "name": "Steur",
-        "team": "NEW",
-        "target_pct": -96.6,
-        "cost": 4.8
-      },
-      {
-        "id": 584,
-        "name": "Hamer",
-        "team": "COV",
-        "target_pct": -92.5,
-        "cost": 5.3
+        "id": 111,
+        "name": "Steele",
+        "team": "BHA",
+        "target_pct": -93.7,
+        "cost": 4.0
       }
     ]
   },
@@ -437,9 +444,27 @@
       "name": "Konsa",
       "team": "ARS",
       "position": "DEF",
-      "form": 9.0,
+      "form": 10.2,
       "total_points": 57,
       "cost": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Gabriel",
+      "team": "ARS",
+      "position": "DEF",
+      "form": 9.8,
+      "total_points": 66,
+      "cost": 8.1
+    },
+    {
+      "id": 79,
+      "name": "Evanilson",
+      "team": "BOU",
+      "position": "FWD",
+      "form": 9.0,
+      "total_points": 61,
+      "cost": 6.5
     },
     {
       "id": 166,
@@ -451,39 +476,39 @@
       "cost": 7.1
     },
     {
-      "id": 79,
-      "name": "Evanilson",
-      "team": "BOU",
-      "position": "FWD",
-      "form": 8.6,
-      "total_points": 61,
-      "cost": 6.5
-    },
-    {
-      "id": 4,
-      "name": "Gabriel",
-      "team": "ARS",
-      "position": "DEF",
-      "form": 8.2,
-      "total_points": 66,
-      "cost": 8.1
-    },
-    {
       "id": 504,
       "name": "Vuskovic",
       "team": "BHA",
       "position": "DEF",
-      "form": 7.6,
+      "form": 7.5,
       "total_points": 70,
       "cost": 5.3
     },
     {
-      "id": 115,
-      "name": "De Cuyper",
-      "team": "BHA",
+      "id": 112,
+      "name": "Van Hecke",
+      "team": "TOT",
       "position": "DEF",
-      "form": 7.4,
-      "total_points": 75,
+      "form": 7.5,
+      "total_points": 57,
+      "cost": 5.1
+    },
+    {
+      "id": 60,
+      "name": "Hill",
+      "team": "BOU",
+      "position": "DEF",
+      "form": 7.0,
+      "total_points": 42,
+      "cost": 5.6
+    },
+    {
+      "id": 129,
+      "name": "Ayari",
+      "team": "BHA",
+      "position": "MID",
+      "form": 7.0,
+      "total_points": 46,
       "cost": 5.5
     },
     {
@@ -496,31 +521,13 @@
       "cost": 5.7
     },
     {
-      "id": 109,
-      "name": "Verbruggen",
-      "team": "BHA",
+      "id": 1,
+      "name": "Raya",
+      "team": "ARS",
       "position": "GK",
       "form": 6.8,
-      "total_points": 57,
-      "cost": 4.6
-    },
-    {
-      "id": 112,
-      "name": "Van Hecke",
-      "team": "TOT",
-      "position": "DEF",
-      "form": 6.6,
-      "total_points": 57,
-      "cost": 5.1
-    },
-    {
-      "id": 129,
-      "name": "Ayari",
-      "team": "BHA",
-      "position": "MID",
-      "form": 6.2,
-      "total_points": 46,
-      "cost": 5.5
+      "total_points": 60,
+      "cost": 6.2
     }
   ]
 }
