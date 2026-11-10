@@ -1,7 +1,7 @@
 {
   "gameweek": 11,
   "deadline_utc": "2026-11-21T11:00:00Z",
-  "captured_at_utc": "2026-11-10T09:27:58.295445+00:00",
+  "captured_at_utc": "2026-11-10T17:14:36.397023+00:00",
   "fixtures": [
     {
       "home": "MCI",
@@ -152,49 +152,56 @@
         "id": 109,
         "name": "Verbruggen",
         "team": "BHA",
-        "target_pct": 100.0,
+        "target_pct": 100.9,
         "cost": 4.6
       },
       {
         "id": 236,
         "name": "Dewsbury-Hall",
         "team": "EVE",
-        "target_pct": 99.6,
+        "target_pct": 100.4,
         "cost": 6.6
       },
       {
         "id": 597,
         "name": "Suzuki",
         "team": "AVL",
-        "target_pct": 91.8,
+        "target_pct": 92.1,
         "cost": 5.0
       },
       {
         "id": 127,
         "name": "Gomez",
         "team": "BHA",
-        "target_pct": 86.0,
+        "target_pct": 86.9,
         "cost": 5.0
       },
       {
         "id": 1,
         "name": "Raya",
         "team": "ARS",
-        "target_pct": 85.4,
+        "target_pct": 86.1,
         "cost": 6.2
+      },
+      {
+        "id": 31,
+        "name": "Konsa",
+        "team": "ARS",
+        "target_pct": 81.9,
+        "cost": 4.8
       },
       {
         "id": 229,
         "name": "Tarkowski",
         "team": "EVE",
-        "target_pct": 82.1,
+        "target_pct": 81.9,
         "cost": 6.2
       },
       {
         "id": 385,
         "name": "Trafford",
         "team": "LEE",
-        "target_pct": 81.5,
+        "target_pct": 81.9,
         "cost": 5.0
       }
     ],
@@ -203,70 +210,70 @@
         "id": 424,
         "name": "Amass",
         "team": "MUN",
-        "target_pct": -99.9,
+        "target_pct": -100.1,
         "cost": 4.0
       },
       {
         "id": 462,
         "name": "Steur",
         "team": "NEW",
-        "target_pct": -99.2,
+        "target_pct": -99.4,
         "cost": 4.8
       },
       {
         "id": 529,
         "name": "Roefs",
         "team": "SUN",
-        "target_pct": -97.8,
+        "target_pct": -98.0,
         "cost": 4.9
       },
       {
         "id": 111,
         "name": "Steele",
         "team": "BHA",
-        "target_pct": -94.9,
+        "target_pct": -95.5,
         "cost": 4.0
       },
       {
         "id": 434,
         "name": "J.Fletcher",
         "team": "MUN",
-        "target_pct": -94.8,
+        "target_pct": -95.0,
         "cost": 4.9
       },
       {
         "id": 357,
         "name": "Frimpong",
         "team": "LIV",
-        "target_pct": -94.4,
+        "target_pct": -94.8,
         "cost": 5.2
-      },
-      {
-        "id": 652,
-        "name": "Azeez",
-        "team": "BHA",
-        "target_pct": -94.1,
-        "cost": 5.5
       },
       {
         "id": 584,
         "name": "Hamer",
         "team": "COV",
-        "target_pct": -93.9,
+        "target_pct": -94.3,
         "cost": 5.3
+      },
+      {
+        "id": 652,
+        "name": "Azeez",
+        "team": "BHA",
+        "target_pct": -94.2,
+        "cost": 5.5
       },
       {
         "id": 207,
         "name": "Mingueza",
         "team": "CRY",
-        "target_pct": -93.3,
+        "target_pct": -93.5,
         "cost": 4.3
       },
       {
         "id": 71,
         "name": "Cook",
         "team": "BOU",
-        "target_pct": -90.7,
+        "target_pct": -91.1,
         "cost": 5.0
       }
     ]
@@ -494,6 +501,15 @@
       "cost": 5.1
     },
     {
+      "id": 249,
+      "name": "Barry",
+      "team": "EVE",
+      "position": "FWD",
+      "form": 7.2,
+      "total_points": 55,
+      "cost": 5.7
+    },
+    {
       "id": 60,
       "name": "Hill",
       "team": "BOU",
@@ -512,22 +528,13 @@
       "cost": 5.5
     },
     {
-      "id": 249,
-      "name": "Barry",
-      "team": "EVE",
+      "id": 379,
+      "name": "Isak",
+      "team": "LIV",
       "position": "FWD",
       "form": 7.0,
-      "total_points": 55,
-      "cost": 5.7
-    },
-    {
-      "id": 1,
-      "name": "Raya",
-      "team": "ARS",
-      "position": "GK",
-      "form": 6.8,
-      "total_points": 60,
-      "cost": 6.2
+      "total_points": 61,
+      "cost": 9.3
     }
   ]
 }
