@@ -1,8 +1,5 @@
 {
  "announced": [
-  "gw9-t24",
-  "gw9-t6",
-  "gw9-done",
   "gw10-t24",
   "gw10-t6",
   "gw10-done",
@@ -13,16 +10,16 @@
   "115": "a|None|",
   "124": "a|None|",
   "138": "a|None|",
-  "165": "i|0|Thigh injury - Unknown return date",
   "302": "a|None|",
+  "31": "a|100|",
   "399": "a|None|",
   "4": "a|None|",
   "40": "a|None|",
   "411": "a|100|",
-  "423": "i|0|Unspecified injury - Unknown return date",
   "496": "a|None|",
   "534": "a|None|",
   "68": "a|None|",
+  "79": "a|None|",
   "8": "a|100|",
   "94": "a|100|"
  }
