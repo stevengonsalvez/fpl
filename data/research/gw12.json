@@ -1,7 +1,7 @@
 {
   "gameweek": 12,
   "deadline_utc": "2026-11-27T18:30:00Z",
-  "captured_at_utc": "2026-11-22T08:37:34.343440+00:00",
+  "captured_at_utc": "2026-11-22T16:58:11.354854+00:00",
   "fixtures": [
     {
       "home": "NFO",
@@ -149,90 +149,90 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 183,
-        "name": "Rudoni",
-        "team": "COV",
-        "target_pct": 91.8,
-        "cost": 4.9
-      },
-      {
         "id": 166,
         "name": "N.Jackson",
         "team": "AVL",
-        "target_pct": 90.6,
+        "target_pct": 97.6,
         "cost": 7.2
+      },
+      {
+        "id": 183,
+        "name": "Rudoni",
+        "team": "COV",
+        "target_pct": 94.6,
+        "cost": 4.9
       }
     ],
     "imminent_falls": [
       {
-        "id": 469,
-        "name": "N.Williams",
-        "team": "NFO",
-        "target_pct": -99.5,
-        "cost": 4.9
+        "id": 418,
+        "name": "Maguire",
+        "team": "MUN",
+        "target_pct": -120.7,
+        "cost": 4.6
+      },
+      {
+        "id": 421,
+        "name": "Heaven",
+        "team": "MUN",
+        "target_pct": -120.5,
+        "cost": 4.3
       },
       {
         "id": 391,
         "name": "Gvardiol",
         "team": "MCI",
-        "target_pct": -99.2,
+        "target_pct": -107.5,
         "cost": 5.6
-      },
-      {
-        "id": 595,
-        "name": "Gozo",
-        "team": "CRY",
-        "target_pct": -99.1,
-        "cost": 4.9
       },
       {
         "id": 10,
         "name": "White",
         "team": "ARS",
-        "target_pct": -98.9,
+        "target_pct": -103.7,
         "cost": 5.4
       },
       {
-        "id": 562,
-        "name": "Maeda",
-        "team": "IPS",
-        "target_pct": -98.2,
-        "cost": 5.3
+        "id": 469,
+        "name": "N.Williams",
+        "team": "NFO",
+        "target_pct": -101.4,
+        "cost": 4.9
       },
       {
         "id": 41,
         "name": "Buend\u00eda",
         "team": "AVL",
-        "target_pct": -98.1,
+        "target_pct": -101.0,
         "cost": 5.9
       },
       {
-        "id": 364,
-        "name": "Tsimikas",
-        "team": "LIV",
-        "target_pct": -98.1,
+        "id": 562,
+        "name": "Maeda",
+        "team": "IPS",
+        "target_pct": -100.3,
+        "cost": 5.3
+      },
+      {
+        "id": 301,
+        "name": "Palmer",
+        "team": "IPS",
+        "target_pct": -99.7,
+        "cost": 4.0
+      },
+      {
+        "id": 595,
+        "name": "Gozo",
+        "team": "CRY",
+        "target_pct": -99.4,
         "cost": 4.9
       },
       {
         "id": 96,
         "name": "Damsgaard",
         "team": "BRE",
-        "target_pct": -97.7,
+        "target_pct": -98.8,
         "cost": 5.3
-      },
-      {
-        "id": 490,
-        "name": "Wood",
-        "team": "NFO",
-        "target_pct": -97.3,
-        "cost": 5.7
-      },
-      {
-        "id": 301,
-        "name": "Palmer",
-        "team": "IPS",
-        "target_pct": -96.8,
-        "cost": 4.0
       }
     ]
   },
@@ -423,6 +423,15 @@
       "cost": 5.6
     },
     {
+      "id": 295,
+      "name": "McBurnie",
+      "team": "HUL",
+      "position": "FWD",
+      "form": 8.8,
+      "total_points": 51,
+      "cost": 5.5
+    },
+    {
       "id": 31,
       "name": "Konsa",
       "team": "ARS",
@@ -468,6 +477,15 @@
       "cost": 4.8
     },
     {
+      "id": 366,
+      "name": "Wirtz",
+      "team": "LIV",
+      "position": "MID",
+      "form": 7.2,
+      "total_points": 54,
+      "cost": 7.3
+    },
+    {
       "id": 566,
       "name": "Silva",
       "team": "BOU",
@@ -475,24 +493,6 @@
       "form": 6.8,
       "total_points": 48,
       "cost": 5.1
-    },
-    {
-      "id": 249,
-      "name": "Barry",
-      "team": "EVE",
-      "position": "FWD",
-      "form": 6.8,
-      "total_points": 55,
-      "cost": 5.7
-    },
-    {
-      "id": 542,
-      "name": "E.Le F\u00e9e",
-      "team": "SUN",
-      "position": "MID",
-      "form": 6.2,
-      "total_points": 49,
-      "cost": 5.7
     }
   ]
 }
