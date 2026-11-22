@@ -1,7 +1,7 @@
 {
   "gameweek": 12,
   "deadline_utc": "2026-11-27T18:30:00Z",
-  "captured_at_utc": "2026-11-21T20:49:37.558224+00:00",
+  "captured_at_utc": "2026-11-22T01:02:17.292882+00:00",
   "fixtures": [
     {
       "home": "NFO",
@@ -149,118 +149,90 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 79,
-        "name": "Evanilson",
-        "team": "BOU",
-        "target_pct": 113.5,
-        "cost": 6.5
-      },
-      {
-        "id": 385,
-        "name": "Trafford",
-        "team": "LEE",
-        "target_pct": 108.5,
-        "cost": 5.0
-      },
-      {
-        "id": 40,
-        "name": "Rogers",
-        "team": "CHE",
-        "target_pct": 105.5,
-        "cost": 8.2
-      },
-      {
-        "id": 112,
-        "name": "Van Hecke",
-        "team": "TOT",
-        "target_pct": 98.8,
-        "cost": 5.1
-      },
-      {
         "id": 183,
         "name": "Rudoni",
         "team": "COV",
-        "target_pct": 89.6,
+        "target_pct": 90.9,
         "cost": 4.9
       },
       {
         "id": 166,
         "name": "N.Jackson",
         "team": "AVL",
-        "target_pct": 86.6,
+        "target_pct": 88.7,
         "cost": 7.2
       }
     ],
     "imminent_falls": [
       {
-        "id": 286,
-        "name": "Belloumi",
-        "team": "HUL",
-        "target_pct": -113.6,
+        "id": 595,
+        "name": "Gozo",
+        "team": "CRY",
+        "target_pct": -99.9,
+        "cost": 4.9
+      },
+      {
+        "id": 469,
+        "name": "N.Williams",
+        "team": "NFO",
+        "target_pct": -99.1,
+        "cost": 4.9
+      },
+      {
+        "id": 364,
+        "name": "Tsimikas",
+        "team": "LIV",
+        "target_pct": -97.7,
+        "cost": 4.9
+      },
+      {
+        "id": 562,
+        "name": "Maeda",
+        "team": "IPS",
+        "target_pct": -97.5,
         "cost": 5.3
       },
       {
-        "id": 565,
-        "name": "M.Sangar\u00e9",
+        "id": 96,
+        "name": "Damsgaard",
         "team": "BRE",
-        "target_pct": -105.7,
+        "target_pct": -97.4,
+        "cost": 5.3
+      },
+      {
+        "id": 41,
+        "name": "Buend\u00eda",
+        "team": "AVL",
+        "target_pct": -97.3,
+        "cost": 5.9
+      },
+      {
+        "id": 10,
+        "name": "White",
+        "team": "ARS",
+        "target_pct": -97.2,
         "cost": 5.4
       },
       {
-        "id": 347,
-        "name": "Nmecha",
-        "team": "LEE",
-        "target_pct": -104.6,
-        "cost": 5.3
+        "id": 490,
+        "name": "Wood",
+        "team": "NFO",
+        "target_pct": -96.9,
+        "cost": 5.7
       },
       {
-        "id": 93,
-        "name": "Schuster",
-        "team": "BRE",
-        "target_pct": -104.3,
-        "cost": 4.5
+        "id": 301,
+        "name": "Palmer",
+        "team": "IPS",
+        "target_pct": -96.1,
+        "cost": 4.0
       },
       {
-        "id": 134,
-        "name": "Oriola",
-        "team": "BHA",
-        "target_pct": -104.0,
-        "cost": 4.4
-      },
-      {
-        "id": 241,
-        "name": "McNeil",
-        "team": "CRY",
-        "target_pct": -102.5,
-        "cost": 5.3
-      },
-      {
-        "id": 190,
-        "name": "Tchaouna",
-        "team": "COV",
-        "target_pct": -102.0,
-        "cost": 5.3
-      },
-      {
-        "id": 221,
-        "name": "Drakes-Thomas",
-        "team": "CRY",
-        "target_pct": -101.8,
-        "cost": 4.4
-      },
-      {
-        "id": 135,
-        "name": "Yohanna",
-        "team": "BHA",
-        "target_pct": -101.5,
-        "cost": 4.8
-      },
-      {
-        "id": 189,
-        "name": "Shepherd",
-        "team": "COV",
-        "target_pct": -101.5,
-        "cost": 4.4
+        "id": 391,
+        "name": "Gvardiol",
+        "team": "MCI",
+        "target_pct": -96.1,
+        "cost": 5.6
       }
     ]
   },
@@ -475,7 +447,7 @@
       "position": "DEF",
       "form": 8.0,
       "total_points": 63,
-      "cost": 5.1
+      "cost": 5.2
     },
     {
       "id": 79,
@@ -484,7 +456,7 @@
       "position": "FWD",
       "form": 7.5,
       "total_points": 67,
-      "cost": 6.5
+      "cost": 6.6
     },
     {
       "id": 529,
