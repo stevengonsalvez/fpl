@@ -1,7 +1,7 @@
 {
   "gameweek": 12,
   "deadline_utc": "2026-11-27T18:30:00Z",
-  "captured_at_utc": "2026-11-23T02:59:28.839240+00:00",
+  "captured_at_utc": "2026-11-23T12:14:07.986535+00:00",
   "fixtures": [
     {
       "home": "NFO",
@@ -152,15 +152,22 @@
         "id": 183,
         "name": "Rudoni",
         "team": "COV",
-        "target_pct": 97.8,
+        "target_pct": 98.9,
         "cost": 4.9
       },
       {
         "id": 68,
         "name": "Tavernier",
         "team": "BOU",
-        "target_pct": 86.4,
+        "target_pct": 92.0,
         "cost": 6.7
+      },
+      {
+        "id": 332,
+        "name": "Justin",
+        "team": "LEE",
+        "target_pct": 80.5,
+        "cost": 4.5
       }
     ],
     "imminent_falls": [
@@ -168,71 +175,71 @@
         "id": 277,
         "name": "Egan",
         "team": "HUL",
-        "target_pct": -100.6,
+        "target_pct": -102.9,
         "cost": 4.1
       },
       {
         "id": 490,
         "name": "Wood",
         "team": "NFO",
-        "target_pct": -99.8,
+        "target_pct": -100.5,
         "cost": 5.7
       },
       {
         "id": 352,
         "name": "Woodman",
         "team": "LIV",
-        "target_pct": -98.1,
+        "target_pct": -99.7,
         "cost": 4.0
       },
       {
         "id": 17,
         "name": "Merino",
         "team": "ARS",
-        "target_pct": -96.6,
+        "target_pct": -97.3,
         "cost": 5.7
       },
       {
         "id": 89,
         "name": "Henry",
         "team": "BRE",
-        "target_pct": -96.5,
+        "target_pct": -97.0,
         "cost": 4.4
       },
       {
         "id": 423,
         "name": "Shaw",
         "team": "MUN",
-        "target_pct": -96.0,
+        "target_pct": -96.7,
         "cost": 4.2
-      },
-      {
-        "id": 339,
-        "name": "Longstaff",
-        "team": "LEE",
-        "target_pct": -95.7,
-        "cost": 4.8
       },
       {
         "id": 162,
         "name": "Andrey Santos",
         "team": "MUN",
-        "target_pct": -95.6,
+        "target_pct": -96.6,
         "cost": 4.7
       },
       {
-        "id": 184,
-        "name": "Grimes",
-        "team": "COV",
-        "target_pct": -94.1,
+        "id": 339,
+        "name": "Longstaff",
+        "team": "LEE",
+        "target_pct": -95.5,
         "cost": 4.8
       },
       {
         "id": 558,
         "name": "Schlager",
         "team": "NFO",
-        "target_pct": -93.8,
+        "target_pct": -95.3,
         "cost": 5.0
+      },
+      {
+        "id": 203,
+        "name": "Canvot",
+        "team": "CRY",
+        "target_pct": -94.5,
+        "cost": 4.8
       }
     ]
   },
@@ -405,15 +412,6 @@
   ],
   "top_form": [
     {
-      "id": 166,
-      "name": "N.Jackson",
-      "team": "AVL",
-      "position": "FWD",
-      "form": 8.8,
-      "total_points": 56,
-      "cost": 7.3
-    },
-    {
       "id": 60,
       "name": "Hill",
       "team": "BOU",
@@ -486,13 +484,22 @@
       "cost": 4.8
     },
     {
-      "id": 566,
-      "name": "Silva",
-      "team": "BOU",
-      "position": "DEF",
-      "form": 6.8,
-      "total_points": 48,
-      "cost": 5.1
+      "id": 166,
+      "name": "N.Jackson",
+      "team": "AVL",
+      "position": "FWD",
+      "form": 7.3,
+      "total_points": 56,
+      "cost": 7.3
+    },
+    {
+      "id": 52,
+      "name": "Alysson",
+      "team": "AVL",
+      "position": "MID",
+      "form": 7.0,
+      "total_points": 31,
+      "cost": 4.9
     }
   ]
 }
