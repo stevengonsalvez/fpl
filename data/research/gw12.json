@@ -1,7 +1,7 @@
 {
   "gameweek": 12,
   "deadline_utc": "2026-11-27T18:30:00Z",
-  "captured_at_utc": "2026-11-23T12:14:07.986535+00:00",
+  "captured_at_utc": "2026-11-24T00:13:11.472070+00:00",
   "fixtures": [
     {
       "home": "NFO",
@@ -149,24 +149,31 @@
   "price_changes": {
     "imminent_rises": [
       {
-        "id": 183,
-        "name": "Rudoni",
-        "team": "COV",
-        "target_pct": 98.9,
-        "cost": 4.9
-      },
-      {
         "id": 68,
         "name": "Tavernier",
         "team": "BOU",
-        "target_pct": 92.0,
-        "cost": 6.7
+        "target_pct": 103.5,
+        "cost": 6.8
+      },
+      {
+        "id": 183,
+        "name": "Rudoni",
+        "team": "COV",
+        "target_pct": 101.7,
+        "cost": 5.0
+      },
+      {
+        "id": 60,
+        "name": "Hill",
+        "team": "BOU",
+        "target_pct": 91.4,
+        "cost": 5.6
       },
       {
         "id": 332,
         "name": "Justin",
         "team": "LEE",
-        "target_pct": 80.5,
+        "target_pct": 82.3,
         "cost": 4.5
       }
     ],
@@ -175,70 +182,70 @@
         "id": 277,
         "name": "Egan",
         "team": "HUL",
-        "target_pct": -102.9,
-        "cost": 4.1
-      },
-      {
-        "id": 490,
-        "name": "Wood",
-        "team": "NFO",
-        "target_pct": -100.5,
-        "cost": 5.7
+        "target_pct": -107.4,
+        "cost": 4.0
       },
       {
         "id": 352,
         "name": "Woodman",
         "team": "LIV",
-        "target_pct": -99.7,
-        "cost": 4.0
+        "target_pct": -103.4,
+        "cost": 3.9
+      },
+      {
+        "id": 490,
+        "name": "Wood",
+        "team": "NFO",
+        "target_pct": -101.6,
+        "cost": 5.6
+      },
+      {
+        "id": 162,
+        "name": "Andrey Santos",
+        "team": "MUN",
+        "target_pct": -99.6,
+        "cost": 4.7
       },
       {
         "id": 17,
         "name": "Merino",
         "team": "ARS",
-        "target_pct": -97.3,
+        "target_pct": -98.9,
         "cost": 5.7
       },
       {
         "id": 89,
         "name": "Henry",
         "team": "BRE",
-        "target_pct": -97.0,
+        "target_pct": -98.2,
         "cost": 4.4
       },
       {
         "id": 423,
         "name": "Shaw",
         "team": "MUN",
-        "target_pct": -96.7,
+        "target_pct": -98.1,
         "cost": 4.2
-      },
-      {
-        "id": 162,
-        "name": "Andrey Santos",
-        "team": "MUN",
-        "target_pct": -96.6,
-        "cost": 4.7
-      },
-      {
-        "id": 339,
-        "name": "Longstaff",
-        "team": "LEE",
-        "target_pct": -95.5,
-        "cost": 4.8
       },
       {
         "id": 558,
         "name": "Schlager",
         "team": "NFO",
-        "target_pct": -95.3,
+        "target_pct": -98.0,
         "cost": 5.0
+      },
+      {
+        "id": 184,
+        "name": "Grimes",
+        "team": "COV",
+        "target_pct": -97.3,
+        "cost": 4.8
       },
       {
         "id": 203,
         "name": "Canvot",
         "team": "CRY",
-        "target_pct": -94.5,
+        "target_pct": -96.2,
         "cost": 4.8
       }
     ]
@@ -412,6 +419,15 @@
   ],
   "top_form": [
     {
+      "id": 249,
+      "name": "Barry",
+      "team": "EVE",
+      "position": "FWD",
+      "form": 9.0,
+      "total_points": 57,
+      "cost": 5.7
+    },
+    {
       "id": 60,
       "name": "Hill",
       "team": "BOU",
@@ -439,29 +455,11 @@
       "cost": 7.4
     },
     {
-      "id": 31,
-      "name": "Konsa",
-      "team": "ARS",
-      "position": "DEF",
-      "form": 8.2,
-      "total_points": 58,
-      "cost": 4.9
-    },
-    {
-      "id": 4,
-      "name": "Gabriel",
-      "team": "ARS",
-      "position": "DEF",
-      "form": 8.0,
-      "total_points": 67,
-      "cost": 8.1
-    },
-    {
       "id": 112,
       "name": "Van Hecke",
       "team": "TOT",
       "position": "DEF",
-      "form": 8.0,
+      "form": 8.3,
       "total_points": 63,
       "cost": 5.2
     },
@@ -500,6 +498,15 @@
       "form": 7.0,
       "total_points": 31,
       "cost": 4.9
+    },
+    {
+      "id": 183,
+      "name": "Rudoni",
+      "team": "COV",
+      "position": "MID",
+      "form": 7.0,
+      "total_points": 49,
+      "cost": 5.0
     }
   ]
 }
