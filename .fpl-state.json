@@ -5,7 +5,8 @@
   "gw10-done",
   "gw11-t24",
   "gw11-t6",
-  "gw11-done"
+  "gw11-done",
+  "gw12-t24"
  ],
  "flags": {
   "115": "a|None|",
