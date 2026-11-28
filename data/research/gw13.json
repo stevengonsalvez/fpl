@@ -1,0 +1,491 @@
+{
+  "gameweek": 13,
+  "deadline_utc": "2026-12-01T18:30:00Z",
+  "captured_at_utc": "2026-11-28T01:49:05.951856+00:00",
+  "fixtures": [
+    {
+      "home": "COV",
+      "away": "IPS",
+      "kickoff": "2026-12-01T20:00:00Z"
+    },
+    {
+      "home": "CHE",
+      "away": "CRY",
+      "kickoff": "2026-12-02T19:30:00Z"
+    },
+    {
+      "home": "HUL",
+      "away": "NFO",
+      "kickoff": "2026-12-02T19:30:00Z"
+    },
+    {
+      "home": "LIV",
+      "away": "SUN",
+      "kickoff": "2026-12-02T19:30:00Z"
+    },
+    {
+      "home": "MCI",
+      "away": "LEE",
+      "kickoff": "2026-12-02T19:30:00Z"
+    },
+    {
+      "home": "AVL",
+      "away": "EVE",
+      "kickoff": "2026-12-02T20:15:00Z"
+    },
+    {
+      "home": "BOU",
+      "away": "BHA",
+      "kickoff": "2026-12-02T20:15:00Z"
+    },
+    {
+      "home": "BRE",
+      "away": "ARS",
+      "kickoff": "2026-12-02T20:15:00Z"
+    },
+    {
+      "home": "NEW",
+      "away": "MUN",
+      "kickoff": "2026-12-02T20:15:00Z"
+    },
+    {
+      "home": "TOT",
+      "away": "FUL",
+      "kickoff": "2026-12-03T20:00:00Z"
+    }
+  ],
+  "predicted_eo": [
+    {
+      "id": 411,
+      "name": "Haaland",
+      "team": "MCI",
+      "predicted_eo_pct": 121.2
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "team": "CHE",
+      "predicted_eo_pct": 64.1
+    },
+    {
+      "id": 115,
+      "name": "De Cuyper",
+      "team": "BHA",
+      "predicted_eo_pct": 49.8
+    },
+    {
+      "id": 124,
+      "name": "Gro\u00df",
+      "team": "BHA",
+      "predicted_eo_pct": 47.9
+    },
+    {
+      "id": 8,
+      "name": "Calafiori",
+      "team": "ARS",
+      "predicted_eo_pct": 47.1
+    },
+    {
+      "id": 166,
+      "name": "N.Jackson",
+      "team": "AVL",
+      "predicted_eo_pct": 42.1
+    },
+    {
+      "id": 379,
+      "name": "Isak",
+      "team": "LIV",
+      "predicted_eo_pct": 38.7
+    },
+    {
+      "id": 399,
+      "name": "Cherki",
+      "team": "MCI",
+      "predicted_eo_pct": 32.6
+    },
+    {
+      "id": 68,
+      "name": "Tavernier",
+      "team": "BOU",
+      "predicted_eo_pct": 32.4
+    },
+    {
+      "id": 154,
+      "name": "Palmer",
+      "team": "CHE",
+      "predicted_eo_pct": 31.8
+    },
+    {
+      "id": 1,
+      "name": "Raya",
+      "team": "ARS",
+      "predicted_eo_pct": 28.8
+    },
+    {
+      "id": 79,
+      "name": "Evanilson",
+      "team": "BOU",
+      "predicted_eo_pct": 27.9
+    },
+    {
+      "id": 4,
+      "name": "Gabriel",
+      "team": "ARS",
+      "predicted_eo_pct": 26.6
+    },
+    {
+      "id": 426,
+      "name": "B.Fernandes",
+      "team": "MUN",
+      "predicted_eo_pct": 25.8
+    },
+    {
+      "id": 31,
+      "name": "Konsa",
+      "team": "ARS",
+      "predicted_eo_pct": 22.4
+    }
+  ],
+  "price_changes": {
+    "imminent_rises": [
+      {
+        "id": 368,
+        "name": "Szoboszlai",
+        "team": "LIV",
+        "target_pct": 93.8,
+        "cost": 6.7
+      }
+    ],
+    "imminent_falls": [
+      {
+        "id": 445,
+        "name": "Thiaw",
+        "team": "NEW",
+        "target_pct": -98.8,
+        "cost": 4.9
+      },
+      {
+        "id": 155,
+        "name": "Enzo",
+        "team": "MCI",
+        "target_pct": -97.8,
+        "cost": 6.9
+      },
+      {
+        "id": 412,
+        "name": "Lammens",
+        "team": "MUN",
+        "target_pct": -97.2,
+        "cost": 4.8
+      },
+      {
+        "id": 439,
+        "name": "\u0160e\u0161ko",
+        "team": "MUN",
+        "target_pct": -96.8,
+        "cost": 6.9
+      },
+      {
+        "id": 156,
+        "name": "Neto",
+        "team": "CHE",
+        "target_pct": -96.1,
+        "cost": 6.6
+      },
+      {
+        "id": 467,
+        "name": "Sels",
+        "team": "NFO",
+        "target_pct": -95.7,
+        "cost": 5.0
+      },
+      {
+        "id": 473,
+        "name": "Aina",
+        "team": "NFO",
+        "target_pct": -95.5,
+        "cost": 4.2
+      },
+      {
+        "id": 245,
+        "name": "Dibling",
+        "team": "EVE",
+        "target_pct": -95.3,
+        "cost": 5.3
+      },
+      {
+        "id": 578,
+        "name": "Mudryk",
+        "team": "TOT",
+        "target_pct": -95.3,
+        "cost": 5.3
+      },
+      {
+        "id": 212,
+        "name": "Hughes",
+        "team": "CRY",
+        "target_pct": -95.0,
+        "cost": 4.3
+      }
+    ]
+  },
+  "squad_availability": [
+    {
+      "id": 496,
+      "name": "Kinsky",
+      "team": "TOT",
+      "position": "GK",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 31,
+      "name": "Konsa",
+      "team": "ARS",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 8,
+      "name": "Calafiori",
+      "team": "ARS",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 4,
+      "name": "Gabriel",
+      "team": "ARS",
+      "position": "DEF",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 68,
+      "name": "Tavernier",
+      "team": "BOU",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 124,
+      "name": "Gro\u00df",
+      "team": "BHA",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 399,
+      "name": "Cherki",
+      "team": "MCI",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 40,
+      "name": "Rogers",
+      "team": "CHE",
+      "position": "MID",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 79,
+      "name": "Evanilson",
+      "team": "BOU",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 411,
+      "name": "Haaland",
+      "team": "MCI",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 138,
+      "name": "Kostoulas",
+      "team": "BHA",
+      "position": "FWD",
+      "is_starter": true,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 302,
+      "name": "Button",
+      "team": "IPS",
+      "position": "GK",
+      "is_starter": false,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 115,
+      "name": "De Cuyper",
+      "team": "BHA",
+      "position": "DEF",
+      "is_starter": false,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 94,
+      "name": "Schade",
+      "team": "BRE",
+      "position": "MID",
+      "is_starter": false,
+      "status": "a",
+      "chance": 100,
+      "news": "",
+      "clean": true
+    },
+    {
+      "id": 534,
+      "name": "Hume",
+      "team": "SUN",
+      "position": "DEF",
+      "is_starter": false,
+      "status": "a",
+      "chance": null,
+      "news": "",
+      "clean": true
+    }
+  ],
+  "top_form": [
+    {
+      "id": 366,
+      "name": "Wirtz",
+      "team": "LIV",
+      "position": "MID",
+      "form": 7.2,
+      "total_points": 60,
+      "cost": 7.6
+    },
+    {
+      "id": 249,
+      "name": "Barry",
+      "team": "EVE",
+      "position": "FWD",
+      "form": 6.8,
+      "total_points": 57,
+      "cost": 5.7
+    },
+    {
+      "id": 295,
+      "name": "McBurnie",
+      "team": "HUL",
+      "position": "FWD",
+      "form": 6.8,
+      "total_points": 51,
+      "cost": 5.5
+    },
+    {
+      "id": 112,
+      "name": "Van Hecke",
+      "team": "TOT",
+      "position": "DEF",
+      "form": 6.2,
+      "total_points": 63,
+      "cost": 5.2
+    },
+    {
+      "id": 60,
+      "name": "Hill",
+      "team": "BOU",
+      "position": "DEF",
+      "form": 6.0,
+      "total_points": 56,
+      "cost": 5.7
+    },
+    {
+      "id": 79,
+      "name": "Evanilson",
+      "team": "BOU",
+      "position": "FWD",
+      "form": 6.0,
+      "total_points": 67,
+      "cost": 6.6
+    },
+    {
+      "id": 166,
+      "name": "N.Jackson",
+      "team": "AVL",
+      "position": "FWD",
+      "form": 5.5,
+      "total_points": 56,
+      "cost": 7.3
+    },
+    {
+      "id": 480,
+      "name": "Gibbs-White",
+      "team": "NFO",
+      "position": "MID",
+      "form": 5.5,
+      "total_points": 54,
+      "cost": 7.8
+    },
+    {
+      "id": 542,
+      "name": "E.Le F\u00e9e",
+      "team": "SUN",
+      "position": "MID",
+      "form": 5.5,
+      "total_points": 49,
+      "cost": 5.7
+    },
+    {
+      "id": 52,
+      "name": "Alysson",
+      "team": "AVL",
+      "position": "MID",
+      "form": 5.2,
+      "total_points": 31,
+      "cost": 4.9
+    }
+  ]
+}
